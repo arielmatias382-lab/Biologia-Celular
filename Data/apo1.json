@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO1-001",
+    "tema": "Origen del universo",
+    "pregunta": "¿Qué explica la teoría del Big Bang?",
+    "respuestas": [
+      {
+        "texto": "El origen de las primeras células",
+        "correcta": false
+      },
+      {
+        "texto": "La teoría celular",
+        "correcta": false
+      },
+      {
+        "texto": "La selección natural",
+        "correcta": false
+      },
+      {
+        "texto": "El origen y expansión del universo",
+        "correcta": true
+      }
+    ],
+    "explicacion": "El Big Bang explica el origen del universo, no el origen directo de la vida."
+  },
+  {
+    "codigo": "APO1-002",
+    "tema": "Origen de la vida",
+    "pregunta": "¿Qué demostró el experimento de Miller y Urey?",
+    "respuestas": [
+      {
+        "texto": "Que se crearon bacterias",
+        "correcta": false
+      },
+      {
+        "texto": "Que apareció ADN completo",
+        "correcta": false
+      },
+      {
+        "texto": "Que podían formarse moléculas orgánicas simples en condiciones simuladas de la Tierra primitiva",
+        "correcta": true
+      },
+      {
+        "texto": "Que surgieron células eucariotas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Miller y Urey obtuvieron biomoléculas como aminoácidos, pero no organismos vivos."
+  },
+  {
+    "codigo": "APO1-003",
+    "tema": "Evolución química",
+    "pregunta": "La evolución química se ubica cronológicamente:",
+    "respuestas": [
+      {
+        "texto": "Antes de la aparición de las primeras células",
+        "correcta": true
+      },
+      {
+        "texto": "Después de la multicelularidad",
+        "correcta": false
+      },
+      {
+        "texto": "Durante la mitosis",
+        "correcta": false
+      },
+      {
+        "texto": "Solo en organismos eucariotas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La evolución química describe la formación previa de biomoléculas y protocélulas."
+  },
+  {
+    "codigo": "APO1-004",
+    "tema": "Biomoléculas",
+    "pregunta": "¿Cuál de las siguientes opciones es una biomolécula?",
+    "respuestas": [
+      {
+        "texto": "Helio",
+        "correcta": false
+      },
+      {
+        "texto": "Sodio metálico",
+        "correcta": false
+      },
+      {
+        "texto": "Glucosa",
+        "correcta": true
+      },
+      {
+        "texto": "Arena",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La glucosa es un carbohidrato, es decir, una molécula orgánica propia de los seres vivos."
+  },
+  {
+    "codigo": "APO1-005",
+    "tema": "Tierra primitiva",
+    "pregunta": "Una condición característica de la Tierra primitiva fue:",
+    "respuestas": [
+      {
+        "texto": "Ausencia de oxígeno libre y radiación intensa",
+        "correcta": true
+      },
+      {
+        "texto": "Abundante capa de ozono",
+        "correcta": false
+      },
+      {
+        "texto": "Atmósfera igual a la actual",
+        "correcta": false
+      },
+      {
+        "texto": "Presencia de plantas terrestres",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La atmósfera primitiva no tenía las condiciones actuales y favoreció hipótesis de síntesis abiótica."
+  },
+  {
+    "codigo": "APO1-006",
+    "tema": "Primeras células",
+    "pregunta": "Las primeras células fueron probablemente:",
+    "respuestas": [
+      {
+        "texto": "Eucariotas animales",
+        "correcta": false
+      },
+      {
+        "texto": "Vegetales",
+        "correcta": false
+      },
+      {
+        "texto": "Procariotas",
+        "correcta": true
+      },
+      {
+        "texto": "Pluricelulares",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las primeras formas celulares habrían sido simples, sin núcleo delimitado."
+  },
+  {
+    "codigo": "APO1-007",
+    "tema": "LUCA",
+    "pregunta": "LUCA corresponde a:",
+    "respuestas": [
+      {
+        "texto": "La primera mitocondria",
+        "correcta": false
+      },
+      {
+        "texto": "Un tipo de microscopio",
+        "correcta": false
+      },
+      {
+        "texto": "Una célula vegetal moderna",
+        "correcta": false
+      },
+      {
+        "texto": "El último ancestro común universal",
+        "correcta": true
+      }
+    ],
+    "explicacion": "LUCA representa el ancestro común hipotético de todos los seres vivos actuales."
+  },
+  {
+    "codigo": "APO1-008",
+    "tema": "Nutrición",
+    "pregunta": "Los organismos autótrofos se caracterizan por:",
+    "respuestas": [
+      {
+        "texto": "Carecer de ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Producir su propia materia orgánica",
+        "correcta": true
+      },
+      {
+        "texto": "Consumir exclusivamente otros seres vivos",
+        "correcta": false
+      },
+      {
+        "texto": "Ser todos animales",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los autótrofos sintetizan materia orgánica a partir de sustancias inorgánicas."
+  },
+  {
+    "codigo": "APO1-009",
+    "tema": "Nutrición",
+    "pregunta": "Los organismos heterótrofos obtienen materia y energía principalmente de:",
+    "respuestas": [
+      {
+        "texto": "Rocas sin transformación",
+        "correcta": false
+      },
+      {
+        "texto": "Oxígeno molecular solamente",
+        "correcta": false
+      },
+      {
+        "texto": "Materia orgánica producida por otros organismos",
+        "correcta": true
+      },
+      {
+        "texto": "La luz como única fuente",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los heterótrofos dependen de materia orgánica externa."
+  },
+  {
+    "codigo": "APO1-010",
+    "tema": "Propiedades de los seres vivos",
+    "pregunta": "La homeostasis es:",
+    "respuestas": [
+      {
+        "texto": "La unión de cromátides",
+        "correcta": false
+      },
+      {
+        "texto": "La capacidad de mantener condiciones internas relativamente estables",
+        "correcta": true
+      },
+      {
+        "texto": "La pérdida total de metabolismo",
+        "correcta": false
+      },
+      {
+        "texto": "La formación de aminoácidos en laboratorio",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La homeostasis mantiene el medio interno dentro de límites compatibles con la vida."
+  },
+  {
+    "codigo": "APO1-011",
+    "tema": "Propiedades de los seres vivos",
+    "pregunta": "La irritabilidad se refiere a:",
+    "respuestas": [
+      {
+        "texto": "La pérdida del movimiento",
+        "correcta": false
+      },
+      {
+        "texto": "La capacidad de responder a estímulos",
+        "correcta": true
+      },
+      {
+        "texto": "La duplicación del ADN únicamente",
+        "correcta": false
+      },
+      {
+        "texto": "La formación de tejidos",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los seres vivos pueden reaccionar frente a cambios del ambiente."
+  },
+  {
+    "codigo": "APO1-012",
+    "tema": "Propiedades de los seres vivos",
+    "pregunta": "El metabolismo es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia de reacciones químicas",
+        "correcta": false
+      },
+      {
+        "texto": "El nombre de un orgánulo",
+        "correcta": false
+      },
+      {
+        "texto": "El conjunto de reacciones de transformación de materia y energía",
+        "correcta": true
+      },
+      {
+        "texto": "La formación de una pared bacteriana",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El metabolismo integra reacciones catabólicas y anabólicas."
+  },
+  {
+    "codigo": "APO1-013",
+    "tema": "Organización biológica",
+    "pregunta": "El nivel celular es central porque:",
+    "respuestas": [
+      {
+        "texto": "Solo los tejidos tienen vida",
+        "correcta": false
+      },
+      {
+        "texto": "La célula es la unidad mínima de vida",
+        "correcta": true
+      },
+      {
+        "texto": "Toda molécula aislada está viva",
+        "correcta": false
+      },
+      {
+        "texto": "Las organelas viven independientemente",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sin células no hay vida organizada."
+  },
+  {
+    "codigo": "APO1-014",
+    "tema": "Niveles de organización",
+    "pregunta": "Un tejido se define como:",
+    "respuestas": [
+      {
+        "texto": "Una sola molécula de ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Un conjunto de átomos sin células",
+        "correcta": false
+      },
+      {
+        "texto": "Un orgánulo citoplasmático",
+        "correcta": false
+      },
+      {
+        "texto": "Conjunto de poblaciones celulares y matriz extracelular con funciones coordinadas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Los tejidos reúnen células y matriz con funciones complementarias."
+  },
+  {
+    "codigo": "APO1-015",
+    "tema": "Propiedades emergentes",
+    "pregunta": "Una propiedad emergente es aquella que:",
+    "respuestas": [
+      {
+        "texto": "Impide la vida",
+        "correcta": false
+      },
+      {
+        "texto": "Solo existe en moléculas simples",
+        "correcta": false
+      },
+      {
+        "texto": "No depende de la organización",
+        "correcta": false
+      },
+      {
+        "texto": "Aparece en un nivel de organización y no se explica por cada componente aislado",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La digestión, por ejemplo, emerge de la integración de órganos y sistemas."
+  },
+  {
+    "codigo": "APO1-016",
+    "tema": "Procariotas",
+    "pregunta": "Una característica general de las células procariotas es:",
+    "respuestas": [
+      {
+        "texto": "ADN no separado del citoplasma por envoltura nuclear",
+        "correcta": true
+      },
+      {
+        "texto": "Núcleo delimitado",
+        "correcta": false
+      },
+      {
+        "texto": "Organelas membranosas complejas",
+        "correcta": false
+      },
+      {
+        "texto": "Mitocondrias abundantes",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las procariotas carecen de núcleo verdadero."
+  },
+  {
+    "codigo": "APO1-017",
+    "tema": "Eucariotas",
+    "pregunta": "Una célula eucariota se caracteriza por:",
+    "respuestas": [
+      {
+        "texto": "Poseer núcleo delimitado y compartimientos membranosos",
+        "correcta": true
+      },
+      {
+        "texto": "Carecer de ADN",
+        "correcta": false
+      },
+      {
+        "texto": "No tener ribosomas",
+        "correcta": false
+      },
+      {
+        "texto": "No realizar metabolismo",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La compartimentalización interna es una característica eucariota."
+  },
+  {
+    "codigo": "APO1-018",
+    "tema": "Endosimbiosis",
+    "pregunta": "La teoría endosimbiótica explica principalmente el origen de:",
+    "respuestas": [
+      {
+        "texto": "Mitocondrias y cloroplastos",
+        "correcta": true
+      },
+      {
+        "texto": "Ribosomas procariotas",
+        "correcta": false
+      },
+      {
+        "texto": "La membrana plasmática inicial",
+        "correcta": false
+      },
+      {
+        "texto": "Los aminoácidos",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Propone que ciertos orgánulos derivan de bacterias incorporadas por una célula ancestral."
+  },
+  {
+    "codigo": "APO1-019",
+    "tema": "Multicelularidad",
+    "pregunta": "La pluricelularidad permitió:",
+    "respuestas": [
+      {
+        "texto": "Disminuir toda complejidad",
+        "correcta": false
+      },
+      {
+        "texto": "Hacer desaparecer tejidos",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar la reproducción",
+        "correcta": false
+      },
+      {
+        "texto": "Especialización celular y nuevos niveles de organización",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La diferenciación funcional permitió tejidos, órganos y sistemas."
+  },
+  {
+    "codigo": "APO1-020",
+    "tema": "Evolución",
+    "pregunta": "La evolución biológica implica:",
+    "respuestas": [
+      {
+        "texto": "Generación espontánea permanente",
+        "correcta": false
+      },
+      {
+        "texto": "Cambios individuales no heredables",
+        "correcta": false
+      },
+      {
+        "texto": "Ausencia de variabilidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cambios heredables en poblaciones a lo largo del tiempo",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La evolución actúa sobre poblaciones y variaciones heredables."
+  },
+  {
+    "codigo": "APO1-021",
+    "tema": "Selección natural",
+    "pregunta": "La selección natural favorece:",
+    "respuestas": [
+      {
+        "texto": "Ideas aprendidas sin base biológica",
+        "correcta": false
+      },
+      {
+        "texto": "Variantes heredables ventajosas en un ambiente determinado",
+        "correcta": true
+      },
+      {
+        "texto": "Átomos aislados",
+        "correcta": false
+      },
+      {
+        "texto": "Características no heredables",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las variantes que aumentan supervivencia o reproducción pueden hacerse más frecuentes."
+  },
+  {
+    "codigo": "APO1-022",
+    "tema": "Diversidad biológica",
+    "pregunta": "La diversidad biológica actual se explica principalmente por:",
+    "respuestas": [
+      {
+        "texto": "Procesos evolutivos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia de mutaciones",
+        "correcta": false
+      },
+      {
+        "texto": "La inmovilidad de las especies",
+        "correcta": false
+      },
+      {
+        "texto": "La generación espontánea actual",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La evolución origina la diversidad de especies."
+  },
+  {
+    "codigo": "APO1-023",
+    "tema": "Una Salud",
+    "pregunta": "El enfoque Una Salud propone:",
+    "respuestas": [
+      {
+        "texto": "Integrar salud humana, animal y ambiental",
+        "correcta": true
+      },
+      {
+        "texto": "Separar salud humana de salud animal",
+        "correcta": false
+      },
+      {
+        "texto": "Estudiar solo enfermedades humanas",
+        "correcta": false
+      },
+      {
+        "texto": "Ignorar el ambiente",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Reconoce la interdependencia entre humanos, animales y ambiente."
+  },
+  {
+    "codigo": "APO1-024",
+    "tema": "Microscopía",
+    "pregunta": "La ultraestructura celular se estudia mejor con:",
+    "respuestas": [
+      {
+        "texto": "Una lupa simple",
+        "correcta": false
+      },
+      {
+        "texto": "Observación macroscópica",
+        "correcta": false
+      },
+      {
+        "texto": "Microscopía óptica común exclusivamente",
+        "correcta": false
+      },
+      {
+        "texto": "Microscopía electrónica",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La microscopía electrónica ofrece mayor resolución para estructuras subcelulares."
+  },
+  {
+    "codigo": "APO1-025",
+    "tema": "Tamaños celulares",
+    "pregunta": "La mayoría de las células eucariotas animales se mide en:",
+    "respuestas": [
+      {
+        "texto": "Metros",
+        "correcta": false
+      },
+      {
+        "texto": "Centímetros siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Micrómetros",
+        "correcta": true
+      },
+      {
+        "texto": "Kilómetros",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las células eucariotas suelen medir entre algunos y decenas de micrómetros."
+  },
+  {
+    "codigo": "APO1-026",
+    "tema": "Tamaños relativos",
+    "pregunta": "Un ribosoma es observable con mayor detalle mediante:",
+    "respuestas": [
+      {
+        "texto": "Radiografía simple",
+        "correcta": false
+      },
+      {
+        "texto": "Microscopio óptico común con bajo aumento",
+        "correcta": false
+      },
+      {
+        "texto": "Vista directa",
+        "correcta": false
+      },
+      {
+        "texto": "Microscopio electrónico",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Los ribosomas son estructuras nanométricas."
+  },
+  {
+    "codigo": "APO1-027",
+    "tema": "Ácidos nucleicos",
+    "pregunta": "La reproducción celular requirió moléculas capaces de:",
+    "respuestas": [
+      {
+        "texto": "Impedir toda herencia",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar proteínas",
+        "correcta": false
+      },
+      {
+        "texto": "Formar únicamente lípidos",
+        "correcta": false
+      },
+      {
+        "texto": "Autoduplicarse y transmitir información",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Los ácidos nucleicos cumplen el papel informacional."
+  },
+  {
+    "codigo": "APO1-028",
+    "tema": "Catalizadores",
+    "pregunta": "Los catalizadores biológicos permiten:",
+    "respuestas": [
+      {
+        "texto": "Acelerar reacciones químicas",
+        "correcta": true
+      },
+      {
+        "texto": "Detener todo metabolismo",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar el agua celular",
+        "correcta": false
+      },
+      {
+        "texto": "Separar órganos",
+        "correcta": false
+      }
+    ],
+    "explicacion": "ARN y proteínas con actividad catalítica fueron claves en el origen de procesos metabólicos."
+  },
+  {
+    "codigo": "APO1-029",
+    "tema": "Protocélulas",
+    "pregunta": "Las protocélulas se consideran:",
+    "respuestas": [
+      {
+        "texto": "Células animales modernas",
+        "correcta": false
+      },
+      {
+        "texto": "Estructuras precursoras de las primeras células",
+        "correcta": true
+      },
+      {
+        "texto": "Tejidos especializados",
+        "correcta": false
+      },
+      {
+        "texto": "Organelos del núcleo",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Representan modelos de transición entre biomoléculas y células."
+  },
+  {
+    "codigo": "APO1-030",
+    "tema": "Secuencia evolutiva",
+    "pregunta": "¿Qué secuencia general es correcta?",
+    "respuestas": [
+      {
+        "texto": "Biomoléculas → mitosis → Big Bang",
+        "correcta": false
+      },
+      {
+        "texto": "Tejidos → protocélulas → átomos",
+        "correcta": false
+      },
+      {
+        "texto": "Primeras células → Big Bang → biomoléculas",
+        "correcta": false
+      },
+      {
+        "texto": "Big Bang → Tierra primitiva → biomoléculas → protocélulas → primeras células",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Respeta el orden temporal trabajado en el origen de la vida."
+  }
+]

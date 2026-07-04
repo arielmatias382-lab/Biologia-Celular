@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO7-001",
+    "tema": "Replicación",
+    "pregunta": "La replicación del ADN produce:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Dos moléculas de ADN a partir de una",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Duplica el material genético."
+  },
+  {
+    "codigo": "APO7-002",
+    "tema": "Semiconservativa",
+    "pregunta": "La replicación semiconservativa implica:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una hebra vieja y una nueva en cada molécula hija",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Cada hebra parental sirve de molde."
+  },
+  {
+    "codigo": "APO7-003",
+    "tema": "ADN polimerasa",
+    "pregunta": "La ADN polimerasa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Sintetiza ADN complementario",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Agrega nucleótidos según el molde."
+  },
+  {
+    "codigo": "APO7-004",
+    "tema": "Complementariedad",
+    "pregunta": "En ADN, adenina se aparea con:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Timina",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "A-T y G-C mantienen la doble hélice."
+  },
+  {
+    "codigo": "APO7-005",
+    "tema": "Transcripción",
+    "pregunta": "La transcripción sintetiza:",
+    "respuestas": [
+      {
+        "texto": "ARN a partir de ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La ARN polimerasa usa ADN molde."
+  },
+  {
+    "codigo": "APO7-006",
+    "tema": "ARN polimerasa",
+    "pregunta": "La ARN polimerasa produce:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "ARN",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Cataliza la transcripción."
+  },
+  {
+    "codigo": "APO7-007",
+    "tema": "ARNm",
+    "pregunta": "El ARNm lleva:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Información para síntesis proteica",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Transporta el mensaje hacia ribosomas."
+  },
+  {
+    "codigo": "APO7-008",
+    "tema": "Procesamiento",
+    "pregunta": "El procesamiento del pre-ARNm incluye:",
+    "respuestas": [
+      {
+        "texto": "Caperuza, cola poli-A y splicing",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Prepara al ARNm eucariota."
+  },
+  {
+    "codigo": "APO7-009",
+    "tema": "Splicing",
+    "pregunta": "El splicing elimina:",
+    "respuestas": [
+      {
+        "texto": "Intrones",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Une exones para formar ARNm maduro."
+  },
+  {
+    "codigo": "APO7-010",
+    "tema": "Código genético",
+    "pregunta": "El código genético relaciona:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Codones con aminoácidos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Guía la traducción."
+  },
+  {
+    "codigo": "APO7-011",
+    "tema": "Codón",
+    "pregunta": "Un codón está formado por:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Tres nucleótidos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Cada triplete especifica aminoácido o señal."
+  },
+  {
+    "codigo": "APO7-012",
+    "tema": "Traducción",
+    "pregunta": "La traducción ocurre en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Ribosomas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Convierte información del ARNm en proteína."
+  },
+  {
+    "codigo": "APO7-013",
+    "tema": "ARNt",
+    "pregunta": "El ARNt transporta:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Aminoácidos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Reconoce codones mediante anticodón."
+  },
+  {
+    "codigo": "APO7-014",
+    "tema": "Anticodón",
+    "pregunta": "El anticodón se encuentra en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "ARNt",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Aparea con codones del ARNm."
+  },
+  {
+    "codigo": "APO7-015",
+    "tema": "ARNr",
+    "pregunta": "El ARNr forma parte de:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Ribosomas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Contribuye a estructura y catálisis."
+  },
+  {
+    "codigo": "APO7-016",
+    "tema": "Inicio de traducción",
+    "pregunta": "La traducción comienza en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Codón de inicio",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Marca el marco de lectura."
+  },
+  {
+    "codigo": "APO7-017",
+    "tema": "Terminación",
+    "pregunta": "La traducción finaliza en:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Codón de stop",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Indica liberación del polipéptido."
+  },
+  {
+    "codigo": "APO7-018",
+    "tema": "Mutación",
+    "pregunta": "Una mutación es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Cambio en la secuencia genética",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede afectar o no la función."
+  },
+  {
+    "codigo": "APO7-019",
+    "tema": "Mutación silenciosa",
+    "pregunta": "Una mutación silenciosa puede:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "No cambiar el aminoácido",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Por redundancia del código genético."
+  },
+  {
+    "codigo": "APO7-020",
+    "tema": "Mutación missense",
+    "pregunta": "Una mutación missense cambia:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un aminoácido por otro",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Puede modificar la proteína."
+  },
+  {
+    "codigo": "APO7-021",
+    "tema": "Mutación nonsense",
+    "pregunta": "Una mutación nonsense introduce:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Codón de terminación prematuro",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede generar proteína truncada."
+  },
+  {
+    "codigo": "APO7-022",
+    "tema": "Regulación génica",
+    "pregunta": "La regulación génica permite:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Controlar qué genes se expresan",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Explica diferencias celulares."
+  },
+  {
+    "codigo": "APO7-023",
+    "tema": "Promotor",
+    "pregunta": "El promotor es:",
+    "respuestas": [
+      {
+        "texto": "Región donde inicia la transcripción",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite unión de maquinaria transcripcional."
+  },
+  {
+    "codigo": "APO7-024",
+    "tema": "Expresión génica",
+    "pregunta": "La expresión génica comprende:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Transcripción y, si corresponde, traducción",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite producir ARN y proteínas."
+  },
+  {
+    "codigo": "APO7-025",
+    "tema": "Genotipo",
+    "pregunta": "El genotipo es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Constitución genética",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Base hereditaria del organismo."
+  },
+  {
+    "codigo": "APO7-026",
+    "tema": "Fenotipo",
+    "pregunta": "El fenotipo resulta de:",
+    "respuestas": [
+      {
+        "texto": "Genotipo e interacción con ambiente",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es el conjunto observable de características."
+  },
+  {
+    "codigo": "APO7-027",
+    "tema": "PCR",
+    "pregunta": "La PCR permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Amplificar fragmentos de ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Usa ciclos de replicación in vitro."
+  },
+  {
+    "codigo": "APO7-028",
+    "tema": "Western blot",
+    "pregunta": "Western blot detecta:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Proteínas específicas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Usa anticuerpos para identificar proteínas."
+  },
+  {
+    "codigo": "APO7-029",
+    "tema": "Flujo de información",
+    "pregunta": "El flujo clásico de información es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "ADN → ARN → proteína",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Resume el dogma central."
+  },
+  {
+    "codigo": "APO7-030",
+    "tema": "Diferenciación",
+    "pregunta": "La diferenciación se relaciona con:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Expresión diferencial de genes",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Células con mismo ADN pueden especializarse."
+  }
+]

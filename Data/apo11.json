@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO11-001",
+    "tema": "Desarrollo",
+    "pregunta": "La biología del desarrollo estudia:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de un organismo desde una célula inicial",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Analiza cambios celulares y tisulares."
+  },
+  {
+    "codigo": "APO11-002",
+    "tema": "Ontogenia",
+    "pregunta": "El desarrollo ontogénico comprende:",
+    "respuestas": [
+      {
+        "texto": "Procesos desde la cigota hasta el organismo adulto",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluye etapas embrionarias y postembrionarias."
+  },
+  {
+    "codigo": "APO11-003",
+    "tema": "Reproducción sexual",
+    "pregunta": "La reproducción sexual implica:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Gametas haploides y fecundación",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Aumenta variabilidad."
+  },
+  {
+    "codigo": "APO11-004",
+    "tema": "Reproducción asexual",
+    "pregunta": "La reproducción asexual ocurre:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Sin fusión de gametas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Genera descendencia muy similar."
+  },
+  {
+    "codigo": "APO11-005",
+    "tema": "Cigota",
+    "pregunta": "La cigota es:",
+    "respuestas": [
+      {
+        "texto": "Célula resultante de la fecundación",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Primera célula del nuevo individuo."
+  },
+  {
+    "codigo": "APO11-006",
+    "tema": "Segmentación",
+    "pregunta": "La segmentación consiste en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Divisiones tempranas sin gran crecimiento global",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Genera blastómeros."
+  },
+  {
+    "codigo": "APO11-007",
+    "tema": "Blastómeros",
+    "pregunta": "Los blastómeros son:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Células resultantes de segmentación",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Forman el embrión temprano."
+  },
+  {
+    "codigo": "APO11-008",
+    "tema": "Mórula",
+    "pregunta": "La mórula es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Masa compacta de blastómeros",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Etapa previa al blastocisto en mamíferos."
+  },
+  {
+    "codigo": "APO11-009",
+    "tema": "Blastocisto",
+    "pregunta": "El blastocisto presenta:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Masa celular interna y trofoblasto",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Característico de mamíferos euterios."
+  },
+  {
+    "codigo": "APO11-010",
+    "tema": "Gastrulación",
+    "pregunta": "La gastrulación forma:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Capas germinales",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Reorganiza el embrión."
+  },
+  {
+    "codigo": "APO11-011",
+    "tema": "Ectodermo",
+    "pregunta": "El ectodermo origina principalmente:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Epidermis y sistema nervioso",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es una capa germinal externa."
+  },
+  {
+    "codigo": "APO11-012",
+    "tema": "Mesodermo",
+    "pregunta": "El mesodermo origina:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Músculo, hueso y sangre, entre otros",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es una capa germinal media."
+  },
+  {
+    "codigo": "APO11-013",
+    "tema": "Endodermo",
+    "pregunta": "El endodermo origina:",
+    "respuestas": [
+      {
+        "texto": "Epitelios del tubo digestivo y respiratorio",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es una capa interna."
+  },
+  {
+    "codigo": "APO11-014",
+    "tema": "Organogénesis",
+    "pregunta": "La organogénesis es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de órganos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sigue a la organización de capas."
+  },
+  {
+    "codigo": "APO11-015",
+    "tema": "Diferenciación",
+    "pregunta": "La diferenciación implica:",
+    "respuestas": [
+      {
+        "texto": "Especialización celular",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende de expresión génica diferencial."
+  },
+  {
+    "codigo": "APO11-016",
+    "tema": "Determinación",
+    "pregunta": "La determinación celular es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Compromiso progresivo con un destino",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Precede muchas veces a la diferenciación visible."
+  },
+  {
+    "codigo": "APO11-017",
+    "tema": "Potencia",
+    "pregunta": "La potencia celular es:",
+    "respuestas": [
+      {
+        "texto": "Capacidad de generar distintos tipos celulares",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Disminuye con la especialización."
+  },
+  {
+    "codigo": "APO11-018",
+    "tema": "Totipotencia",
+    "pregunta": "Una célula totipotente puede:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Formar organismo completo y anexos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Máxima potencia celular."
+  },
+  {
+    "codigo": "APO11-019",
+    "tema": "Pluripotencia",
+    "pregunta": "Una célula pluripotente puede:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Formar muchos tipos celulares del embrión",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "No forma por sí sola todos los anexos."
+  },
+  {
+    "codigo": "APO11-020",
+    "tema": "Multipotencia",
+    "pregunta": "Una célula multipotente puede:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Originar tipos celulares relacionados",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ejemplo: linajes de un tejido."
+  },
+  {
+    "codigo": "APO11-021",
+    "tema": "Inducción",
+    "pregunta": "La inducción embrionaria es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Influencia de células sobre destino de otras",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es comunicación durante desarrollo."
+  },
+  {
+    "codigo": "APO11-022",
+    "tema": "Morfogénesis",
+    "pregunta": "La morfogénesis genera:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Forma y organización corporal",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluye movimientos y cambios tisulares."
+  },
+  {
+    "codigo": "APO11-023",
+    "tema": "Migración celular",
+    "pregunta": "La migración celular contribuye a:",
+    "respuestas": [
+      {
+        "texto": "Ubicación correcta de poblaciones celulares",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es esencial en desarrollo."
+  },
+  {
+    "codigo": "APO11-024",
+    "tema": "Apoptosis desarrollo",
+    "pregunta": "La apoptosis en desarrollo permite:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar células innecesarias y modelar estructuras",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es normal y regulada."
+  },
+  {
+    "codigo": "APO11-025",
+    "tema": "Patrones corporales",
+    "pregunta": "El patrón corporal se establece mediante:",
+    "respuestas": [
+      {
+        "texto": "Señales y expresión génica regional",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Define ejes y posiciones."
+  },
+  {
+    "codigo": "APO11-026",
+    "tema": "Crecimiento",
+    "pregunta": "El crecimiento embrionario implica:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Aumento de tamaño y número celular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Coordina proliferación y diferenciación."
+  },
+  {
+    "codigo": "APO11-027",
+    "tema": "Interacciones celulares",
+    "pregunta": "Las interacciones celulares son necesarias para:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Coordinación de tejidos en desarrollo",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluyen señales y adhesión."
+  },
+  {
+    "codigo": "APO11-028",
+    "tema": "Teratógenos",
+    "pregunta": "Los teratógenos pueden:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Alterar el desarrollo embrionario",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Afectan procesos sensibles."
+  },
+  {
+    "codigo": "APO11-029",
+    "tema": "Periodo crítico",
+    "pregunta": "Un periodo crítico es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Etapa de alta sensibilidad a alteraciones",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende del órgano en formación."
+  },
+  {
+    "codigo": "APO11-030",
+    "tema": "Desarrollo normal",
+    "pregunta": "El desarrollo normal requiere:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Proliferación, diferenciación, migración y muerte reguladas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La coordinación de procesos genera el organismo."
+  }
+]

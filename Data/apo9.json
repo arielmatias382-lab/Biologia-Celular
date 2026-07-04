@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO9-001",
+    "tema": "Matriz extracelular",
+    "pregunta": "La matriz extracelular cumple:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Soporte, adhesión y señalización",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Influye en tejidos y comportamiento celular."
+  },
+  {
+    "codigo": "APO9-002",
+    "tema": "Colágeno",
+    "pregunta": "El colágeno aporta:",
+    "respuestas": [
+      {
+        "texto": "Resistencia mecánica",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es proteína estructural abundante."
+  },
+  {
+    "codigo": "APO9-003",
+    "tema": "Elastina",
+    "pregunta": "La elastina aporta:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Elasticidad tisular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Permite deformación reversible."
+  },
+  {
+    "codigo": "APO9-004",
+    "tema": "Proteoglucanos",
+    "pregunta": "Los proteoglucanos retienen:",
+    "respuestas": [
+      {
+        "texto": "Agua",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Contribuyen a hidratación de matriz."
+  },
+  {
+    "codigo": "APO9-005",
+    "tema": "Fibronectina",
+    "pregunta": "La fibronectina participa en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Adhesión célula-matriz",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Conecta matriz con células."
+  },
+  {
+    "codigo": "APO9-006",
+    "tema": "Laminina",
+    "pregunta": "La laminina es componente de:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Lámina basal",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Importante en epitelios."
+  },
+  {
+    "codigo": "APO9-007",
+    "tema": "Lámina basal",
+    "pregunta": "La lámina basal es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Matriz especializada bajo epitelios",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sirve de soporte y filtro."
+  },
+  {
+    "codigo": "APO9-008",
+    "tema": "Integrinas",
+    "pregunta": "Las integrinas conectan:",
+    "respuestas": [
+      {
+        "texto": "Matriz extracelular con citoesqueleto",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Transmiten adhesión y señales."
+  },
+  {
+    "codigo": "APO9-009",
+    "tema": "Adhesión celular",
+    "pregunta": "La adhesión celular permite:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Organización de tejidos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Mantiene arquitectura tisular."
+  },
+  {
+    "codigo": "APO9-010",
+    "tema": "Uniones estrechas",
+    "pregunta": "Las uniones estrechas:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Sellan el espacio intercelular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Contribuyen a barreras epiteliales."
+  },
+  {
+    "codigo": "APO9-011",
+    "tema": "Desmosomas",
+    "pregunta": "Los desmosomas dan:",
+    "respuestas": [
+      {
+        "texto": "Adhesión fuerte entre células",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Resisten tensiones mecánicas."
+  },
+  {
+    "codigo": "APO9-012",
+    "tema": "Hemidesmosomas",
+    "pregunta": "Los hemidesmosomas unen:",
+    "respuestas": [
+      {
+        "texto": "Células epiteliales a lámina basal",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Anclan tejido al sustrato."
+  },
+  {
+    "codigo": "APO9-013",
+    "tema": "Uniones gap",
+    "pregunta": "Las uniones gap permiten:",
+    "respuestas": [
+      {
+        "texto": "Comunicación directa por pequeñas moléculas e iones",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Coordinan respuestas celulares."
+  },
+  {
+    "codigo": "APO9-014",
+    "tema": "Cadherinas",
+    "pregunta": "Las cadherinas median:",
+    "respuestas": [
+      {
+        "texto": "Adhesión célula-célula dependiente de calcio",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Importantes en tejidos."
+  },
+  {
+    "codigo": "APO9-015",
+    "tema": "Epitelio",
+    "pregunta": "Los epitelios presentan:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Polaridad y uniones celulares",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Forman barreras y superficies."
+  },
+  {
+    "codigo": "APO9-016",
+    "tema": "Polaridad epitelial",
+    "pregunta": "La polaridad epitelial diferencia:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Dominio apical y basal",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite funciones direccionales."
+  },
+  {
+    "codigo": "APO9-017",
+    "tema": "Dominio apical",
+    "pregunta": "El dominio apical mira hacia:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Luz o superficie libre",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede tener especializaciones."
+  },
+  {
+    "codigo": "APO9-018",
+    "tema": "Dominio basal",
+    "pregunta": "El dominio basal se asocia con:",
+    "respuestas": [
+      {
+        "texto": "Lámina basal",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ancla el epitelio."
+  },
+  {
+    "codigo": "APO9-019",
+    "tema": "Microvellosidades",
+    "pregunta": "Las microvellosidades aumentan:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Superficie de absorción",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son prolongaciones con actina."
+  },
+  {
+    "codigo": "APO9-020",
+    "tema": "Célula-matriz",
+    "pregunta": "La interacción célula-matriz regula:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Supervivencia, forma y diferenciación",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las señales externas modifican conducta celular."
+  },
+  {
+    "codigo": "APO9-021",
+    "tema": "Tejidos",
+    "pregunta": "Un tejido integra:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Células y matriz extracelular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Realizan funciones coordinadas."
+  },
+  {
+    "codigo": "APO9-022",
+    "tema": "Comunicación local",
+    "pregunta": "Las células de un tejido se coordinan por:",
+    "respuestas": [
+      {
+        "texto": "Uniones y señales químicas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La función tisular requiere comunicación."
+  },
+  {
+    "codigo": "APO9-023",
+    "tema": "MEC y migración",
+    "pregunta": "La matriz extracelular influye en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Migración celular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Sirve de sustrato y guía."
+  },
+  {
+    "codigo": "APO9-024",
+    "tema": "Remodelación MEC",
+    "pregunta": "La matriz extracelular puede:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Remodelarse dinámicamente",
+        "correcta": true
+      }
+    ],
+    "explicacion": "No es una estructura fija."
+  },
+  {
+    "codigo": "APO9-025",
+    "tema": "Enzimas MEC",
+    "pregunta": "Las metaloproteinasas participan en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Degradación/remodelación de matriz",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permiten cambios tisulares."
+  },
+  {
+    "codigo": "APO9-026",
+    "tema": "Barreras epiteliales",
+    "pregunta": "Las barreras epiteliales dependen de:",
+    "respuestas": [
+      {
+        "texto": "Uniones estrechas y polaridad",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Controlan paso de sustancias."
+  },
+  {
+    "codigo": "APO9-027",
+    "tema": "Reconocimiento celular",
+    "pregunta": "El reconocimiento celular involucra:",
+    "respuestas": [
+      {
+        "texto": "Moléculas de superficie",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite interacciones específicas."
+  },
+  {
+    "codigo": "APO9-028",
+    "tema": "Anclaje",
+    "pregunta": "El anclaje al citoesqueleto permite:",
+    "respuestas": [
+      {
+        "texto": "Transmitir fuerzas mecánicas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Une adhesión externa con estructura interna."
+  },
+  {
+    "codigo": "APO9-029",
+    "tema": "Microambiente",
+    "pregunta": "El microambiente celular influye en:",
+    "respuestas": [
+      {
+        "texto": "Destino y función celular",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluye matriz, señales y células vecinas."
+  },
+  {
+    "codigo": "APO9-030",
+    "tema": "Arquitectura tisular",
+    "pregunta": "La arquitectura tisular depende de:",
+    "respuestas": [
+      {
+        "texto": "Adhesión, matriz y organización celular",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La forma del tejido surge de componentes integrados."
+  }
+]

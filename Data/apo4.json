@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO4-001",
+    "tema": "Citosol",
+    "pregunta": "El citosol es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La fase líquida del citoplasma sin organelas membranosas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es el medio donde ocurren muchas reacciones."
+  },
+  {
+    "codigo": "APO4-002",
+    "tema": "Inclusiones",
+    "pregunta": "Las inclusiones suelen ser:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Depósitos de reserva o pigmentos",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "No son organelas membranosas típicas."
+  },
+  {
+    "codigo": "APO4-003",
+    "tema": "Glucógeno",
+    "pregunta": "El glucógeno celular representa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Reserva de glucosa",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Se almacena como gránulos en el citoplasma."
+  },
+  {
+    "codigo": "APO4-004",
+    "tema": "Gotas lipídicas",
+    "pregunta": "Las gotas lipídicas almacenan:",
+    "respuestas": [
+      {
+        "texto": "Lípidos neutros",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Funcionan como reserva energética."
+  },
+  {
+    "codigo": "APO4-005",
+    "tema": "Citoesqueleto",
+    "pregunta": "El citoesqueleto participa en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Forma, movimiento y organización interna",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sus filamentos sostienen y organizan la célula."
+  },
+  {
+    "codigo": "APO4-006",
+    "tema": "Microtúbulos",
+    "pregunta": "Los microtúbulos están formados por:",
+    "respuestas": [
+      {
+        "texto": "Tubulina",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La tubulina alfa y beta forma polímeros tubulares."
+  },
+  {
+    "codigo": "APO4-007",
+    "tema": "Microfilamentos",
+    "pregunta": "Los microfilamentos están formados por:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Actina",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Participan en contracción, forma y movimiento."
+  },
+  {
+    "codigo": "APO4-008",
+    "tema": "Filamentos intermedios",
+    "pregunta": "Los filamentos intermedios aportan:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Resistencia mecánica",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Son importantes frente a tensiones."
+  },
+  {
+    "codigo": "APO4-009",
+    "tema": "Centrosoma",
+    "pregunta": "El centrosoma funciona como:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Centro organizador de microtúbulos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Organiza el huso y red microtubular."
+  },
+  {
+    "codigo": "APO4-010",
+    "tema": "Centríolos",
+    "pregunta": "Los centríolos se relacionan con:",
+    "respuestas": [
+      {
+        "texto": "Organización del centrosoma y cuerpos basales",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son estructuras cilíndricas de microtúbulos."
+  },
+  {
+    "codigo": "APO4-011",
+    "tema": "Cilios",
+    "pregunta": "Los cilios móviles permiten:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Movimiento de fluidos o células",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Dependen de microtúbulos y proteínas motoras."
+  },
+  {
+    "codigo": "APO4-012",
+    "tema": "Flagelos",
+    "pregunta": "El flagelo eucariota se relaciona con:",
+    "respuestas": [
+      {
+        "texto": "Movimiento celular",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ejemplo: movilidad espermática."
+  },
+  {
+    "codigo": "APO4-013",
+    "tema": "Proteínas motoras",
+    "pregunta": "Quinesinas y dineínas participan en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Transporte sobre microtúbulos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Mueven cargas intracelulares."
+  },
+  {
+    "codigo": "APO4-014",
+    "tema": "Miosina",
+    "pregunta": "La miosina interactúa principalmente con:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Actina",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Participa en contracción y movimiento."
+  },
+  {
+    "codigo": "APO4-015",
+    "tema": "Ribosomas",
+    "pregunta": "Los ribosomas realizan:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Síntesis de proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Traducen ARNm a polipéptidos."
+  },
+  {
+    "codigo": "APO4-016",
+    "tema": "Ribosomas libres",
+    "pregunta": "Los ribosomas libres suelen sintetizar:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Proteínas citosólicas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Su destino inicial es el citosol."
+  },
+  {
+    "codigo": "APO4-017",
+    "tema": "Polirribosomas",
+    "pregunta": "Un polirribosoma es:",
+    "respuestas": [
+      {
+        "texto": "Varios ribosomas traduciendo el mismo ARNm",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Aumenta eficiencia de síntesis proteica."
+  },
+  {
+    "codigo": "APO4-018",
+    "tema": "Proteasoma",
+    "pregunta": "El proteasoma degrada:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Proteínas marcadas para destrucción",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El sistema ubiquitina-proteasoma regula proteínas."
+  },
+  {
+    "codigo": "APO4-019",
+    "tema": "Ubiquitina",
+    "pregunta": "La ubiquitina sirve como:",
+    "respuestas": [
+      {
+        "texto": "Señal para degradación proteica",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Marca proteínas para el proteasoma."
+  },
+  {
+    "codigo": "APO4-020",
+    "tema": "Citoesqueleto y división",
+    "pregunta": "El citoesqueleto es necesario para:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Separación cromosómica y citocinesis",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Microtúbulos y actina participan en división."
+  },
+  {
+    "codigo": "APO4-021",
+    "tema": "Transporte intracelular",
+    "pregunta": "El transporte de vesículas depende de:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Citoesqueleto y proteínas motoras",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las vesículas se desplazan sobre filamentos."
+  },
+  {
+    "codigo": "APO4-022",
+    "tema": "Forma celular",
+    "pregunta": "La forma celular depende en gran parte de:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Organización del citoesqueleto",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los filamentos dan soporte interno."
+  },
+  {
+    "codigo": "APO4-023",
+    "tema": "Movimiento ameboide",
+    "pregunta": "El movimiento ameboide se relaciona con:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Reorganización de actina",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La actina forma protrusiones celulares."
+  },
+  {
+    "codigo": "APO4-024",
+    "tema": "Contracción muscular",
+    "pregunta": "La contracción muscular depende de:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Actina y miosina",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Estas proteínas generan acortamiento."
+  },
+  {
+    "codigo": "APO4-025",
+    "tema": "Núcleo y citoesqueleto",
+    "pregunta": "El citoesqueleto puede influir en:",
+    "respuestas": [
+      {
+        "texto": "Posición de organelas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Organiza la arquitectura interna."
+  },
+  {
+    "codigo": "APO4-026",
+    "tema": "Metabolismo citosólico",
+    "pregunta": "La glucólisis ocurre principalmente en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Citosol",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Es una vía metabólica citoplasmática."
+  },
+  {
+    "codigo": "APO4-027",
+    "tema": "Organelas no membranosas",
+    "pregunta": "Un ejemplo de organela no membranosa es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Ribosoma",
+        "correcta": true
+      }
+    ],
+    "explicacion": "No posee bicapa delimitante."
+  },
+  {
+    "codigo": "APO4-028",
+    "tema": "Dinámica celular",
+    "pregunta": "La dinámica del citoesqueleto implica:",
+    "respuestas": [
+      {
+        "texto": "Ensamblaje y desensamblaje de filamentos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los filamentos son estructuras reguladas."
+  },
+  {
+    "codigo": "APO4-029",
+    "tema": "Soporte mecánico",
+    "pregunta": "La resistencia al estiramiento celular se asocia con:",
+    "respuestas": [
+      {
+        "texto": "Filamentos intermedios",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Aportan estabilidad."
+  },
+  {
+    "codigo": "APO4-030",
+    "tema": "Polaridad celular",
+    "pregunta": "El citoesqueleto contribuye a:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Polaridad y distribución interna",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ayuda a organizar dominios celulares."
+  }
+]

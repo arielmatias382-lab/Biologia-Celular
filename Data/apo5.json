@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO5-001",
+    "tema": "RER",
+    "pregunta": "El retículo endoplásmico rugoso participa en:",
+    "respuestas": [
+      {
+        "texto": "Síntesis de proteínas de secreción y membrana",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sus ribosomas sintetizan proteínas destinadas al sistema endomembranoso."
+  },
+  {
+    "codigo": "APO5-002",
+    "tema": "REL",
+    "pregunta": "El retículo endoplásmico liso participa en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Síntesis de lípidos y detoxificación",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Carece de ribosomas adheridos."
+  },
+  {
+    "codigo": "APO5-003",
+    "tema": "Golgi",
+    "pregunta": "El complejo de Golgi se encarga de:",
+    "respuestas": [
+      {
+        "texto": "Modificar, clasificar y dirigir moléculas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Recibe productos del RE y los distribuye."
+  },
+  {
+    "codigo": "APO5-004",
+    "tema": "Lisosomas",
+    "pregunta": "Los lisosomas contienen:",
+    "respuestas": [
+      {
+        "texto": "Enzimas hidrolíticas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Degradan macromoléculas en medio ácido."
+  },
+  {
+    "codigo": "APO5-005",
+    "tema": "Endosomas",
+    "pregunta": "Los endosomas participan en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Clasificación de material endocitado",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Pueden madurar y fusionarse con lisosomas."
+  },
+  {
+    "codigo": "APO5-006",
+    "tema": "Mitocondrias",
+    "pregunta": "Las mitocondrias producen principalmente:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "ATP mediante respiración celular",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son centrales para el metabolismo energético."
+  },
+  {
+    "codigo": "APO5-007",
+    "tema": "Peroxisomas",
+    "pregunta": "Los peroxisomas realizan:",
+    "respuestas": [
+      {
+        "texto": "Reacciones oxidativas y detoxificación de peróxidos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Contienen catalasa y oxidasas."
+  },
+  {
+    "codigo": "APO5-008",
+    "tema": "Autofagia",
+    "pregunta": "La autofagia permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Degradar componentes celulares propios",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Contribuye al recambio y supervivencia celular."
+  },
+  {
+    "codigo": "APO5-009",
+    "tema": "Tráfico vesicular",
+    "pregunta": "El tráfico vesicular conecta:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Compartimientos del sistema endomembranoso",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las vesículas transportan proteínas y lípidos."
+  },
+  {
+    "codigo": "APO5-010",
+    "tema": "Señal peptídica",
+    "pregunta": "Una señal peptídica dirige proteínas hacia:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Compartimientos celulares específicos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las señales de destino orientan el tráfico proteico."
+  },
+  {
+    "codigo": "APO5-011",
+    "tema": "Ribosomas del RER",
+    "pregunta": "Los ribosomas se asocian al RER cuando:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "La proteína naciente posee señal de entrada al RE",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El reconocimiento de señal dirige el complejo al RE."
+  },
+  {
+    "codigo": "APO5-012",
+    "tema": "Glucosilación",
+    "pregunta": "Una modificación frecuente en RE/Golgi es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Adición y procesamiento de carbohidratos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La glucosilación afecta destino y función."
+  },
+  {
+    "codigo": "APO5-013",
+    "tema": "Vesículas secretoras",
+    "pregunta": "Las vesículas secretoras se originan en:",
+    "respuestas": [
+      {
+        "texto": "Sistema endomembranoso",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Transportan productos hacia la membrana plasmática."
+  },
+  {
+    "codigo": "APO5-014",
+    "tema": "Secreción regulada",
+    "pregunta": "La secreción regulada depende de:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un estímulo específico",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La vesícula se fusiona solo ante señales."
+  },
+  {
+    "codigo": "APO5-015",
+    "tema": "Secreción constitutiva",
+    "pregunta": "La secreción constitutiva es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Continua y no requiere estímulo puntual",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Mantiene membrana y secreción basal."
+  },
+  {
+    "codigo": "APO5-016",
+    "tema": "Digestión intracelular",
+    "pregunta": "La digestión intracelular se asocia con:",
+    "respuestas": [
+      {
+        "texto": "Lisosomas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sus enzimas degradan material incorporado o propio."
+  },
+  {
+    "codigo": "APO5-017",
+    "tema": "pH lisosomal",
+    "pregunta": "El pH lisosomal es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Ácido",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las hidrolasas lisosomales funcionan en pH bajo."
+  },
+  {
+    "codigo": "APO5-018",
+    "tema": "Cadena respiratoria",
+    "pregunta": "La cadena respiratoria se localiza en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Membrana interna mitocondrial",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Allí se genera gradiente para ATP."
+  },
+  {
+    "codigo": "APO5-019",
+    "tema": "Crestas mitocondriales",
+    "pregunta": "Las crestas mitocondriales aumentan:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Superficie de membrana interna",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Favorecen reacciones de respiración."
+  },
+  {
+    "codigo": "APO5-020",
+    "tema": "ADN mitocondrial",
+    "pregunta": "Las mitocondrias poseen:",
+    "respuestas": [
+      {
+        "texto": "ADN propio",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Esto se vincula con su origen endosimbiótico."
+  },
+  {
+    "codigo": "APO5-021",
+    "tema": "Importación proteica",
+    "pregunta": "Muchas proteínas mitocondriales son codificadas por:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "ADN nuclear",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Luego se importan a la mitocondria."
+  },
+  {
+    "codigo": "APO5-022",
+    "tema": "Catalasa",
+    "pregunta": "La catalasa se encuentra en:",
+    "respuestas": [
+      {
+        "texto": "Peroxisomas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Degrada peróxido de hidrógeno."
+  },
+  {
+    "codigo": "APO5-023",
+    "tema": "Beta-oxidación",
+    "pregunta": "Los peroxisomas participan en:",
+    "respuestas": [
+      {
+        "texto": "Metabolismo de ácidos grasos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Realizan procesos oxidativos."
+  },
+  {
+    "codigo": "APO5-024",
+    "tema": "Sistema endomembranoso",
+    "pregunta": "El sistema endomembranoso incluye:",
+    "respuestas": [
+      {
+        "texto": "RE, Golgi, endosomas, lisosomas y vesículas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Estos compartimientos intercambian membrana y contenido."
+  },
+  {
+    "codigo": "APO5-025",
+    "tema": "Compartimentalización",
+    "pregunta": "La compartimentalización permite:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Separar procesos celulares incompatibles",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las organelas crean ambientes especializados."
+  },
+  {
+    "codigo": "APO5-026",
+    "tema": "Autorradiografía",
+    "pregunta": "La autorradiografía permite:",
+    "respuestas": [
+      {
+        "texto": "Seguir moléculas marcadas dentro de células",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sirve para estudiar rutas de síntesis y secreción."
+  },
+  {
+    "codigo": "APO5-027",
+    "tema": "Fraccionamiento celular",
+    "pregunta": "La centrifugación diferencial permite:",
+    "respuestas": [
+      {
+        "texto": "Separar componentes celulares por tamaño y densidad",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Se usa para estudiar organelas."
+  },
+  {
+    "codigo": "APO5-028",
+    "tema": "Ruta secretora",
+    "pregunta": "La ruta secretora típica es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "RER → Golgi → vesículas → membrana/exterior",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Describe el trayecto de proteínas secretadas."
+  },
+  {
+    "codigo": "APO5-029",
+    "tema": "Lisosomas y enfermedad",
+    "pregunta": "Una falla lisosomal puede causar:",
+    "respuestas": [
+      {
+        "texto": "Acumulación de sustancias no degradadas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La digestión intracelular se altera."
+  },
+  {
+    "codigo": "APO5-030",
+    "tema": "Organelas membranosas",
+    "pregunta": "Las organelas membranosas se caracterizan por:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Estar delimitadas por una o más membranas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permiten compartimentos funcionales."
+  }
+]

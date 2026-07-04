@@ -1,0 +1,2402 @@
+[
+  {
+    "codigo": "APO8-007",
+    "tema": "Prometafase",
+    "pregunta": "En prometafase ocurre:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Ruptura de envoltura nuclear y unión al huso",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los microtúbulos acceden a cinetocoros."
+  },
+  {
+    "codigo": "APO3-001",
+    "tema": "Modelo de mosaico fluido",
+    "pregunta": "La membrana se describe como:",
+    "respuestas": [
+      {
+        "texto": "Bicapa lipídica dinámica con proteínas asociadas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La membrana no es rígida; sus componentes se organizan de manera fluida."
+  },
+  {
+    "codigo": "APO11-024",
+    "tema": "Apoptosis desarrollo",
+    "pregunta": "La apoptosis en desarrollo permite:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar células innecesarias y modelar estructuras",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es normal y regulada."
+  },
+  {
+    "codigo": "APO11-010",
+    "tema": "Gastrulación",
+    "pregunta": "La gastrulación forma:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Capas germinales",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Reorganiza el embrión."
+  },
+  {
+    "codigo": "APO11-029",
+    "tema": "Periodo crítico",
+    "pregunta": "Un periodo crítico es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Etapa de alta sensibilidad a alteraciones",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende del órgano en formación."
+  },
+  {
+    "codigo": "APO4-001",
+    "tema": "Citosol",
+    "pregunta": "El citosol es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La fase líquida del citoplasma sin organelas membranosas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es el medio donde ocurren muchas reacciones."
+  },
+  {
+    "codigo": "APO2-009",
+    "tema": "Triglicéridos",
+    "pregunta": "Los triglicéridos cumplen función principal de:",
+    "respuestas": [
+      {
+        "texto": "Catalizar replicación",
+        "correcta": false
+      },
+      {
+        "texto": "Reserva energética",
+        "correcta": true
+      },
+      {
+        "texto": "Transportar señales nerviosas",
+        "correcta": false
+      },
+      {
+        "texto": "Formar cromosomas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son lípidos de almacenamiento."
+  },
+  {
+    "codigo": "APO10-024",
+    "tema": "Hormonas esteroideas",
+    "pregunta": "Las hormonas esteroideas suelen:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Atravesar membrana y unirse a receptores internos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son liposolubles."
+  },
+  {
+    "codigo": "APO6-001",
+    "tema": "Núcleo",
+    "pregunta": "El núcleo contiene principalmente:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "ADN y maquinaria de expresión genética",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Almacena y regula la información genética."
+  },
+  {
+    "codigo": "APO8-029",
+    "tema": "Aneuploidía",
+    "pregunta": "La aneuploidía es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Número cromosómico anormal",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Puede originarse por errores de segregación."
+  },
+  {
+    "codigo": "APO5-008",
+    "tema": "Autofagia",
+    "pregunta": "La autofagia permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Degradar componentes celulares propios",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Contribuye al recambio y supervivencia celular."
+  },
+  {
+    "codigo": "APO11-004",
+    "tema": "Reproducción asexual",
+    "pregunta": "La reproducción asexual ocurre:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Sin fusión de gametas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Genera descendencia muy similar."
+  },
+  {
+    "codigo": "APO4-010",
+    "tema": "Centríolos",
+    "pregunta": "Los centríolos se relacionan con:",
+    "respuestas": [
+      {
+        "texto": "Organización del centrosoma y cuerpos basales",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son estructuras cilíndricas de microtúbulos."
+  },
+  {
+    "codigo": "APO8-011",
+    "tema": "Citocinesis",
+    "pregunta": "La citocinesis divide:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "El citoplasma",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Produce dos células separadas."
+  },
+  {
+    "codigo": "APO11-023",
+    "tema": "Migración celular",
+    "pregunta": "La migración celular contribuye a:",
+    "respuestas": [
+      {
+        "texto": "Ubicación correcta de poblaciones celulares",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es esencial en desarrollo."
+  },
+  {
+    "codigo": "APO4-029",
+    "tema": "Soporte mecánico",
+    "pregunta": "La resistencia al estiramiento celular se asocia con:",
+    "respuestas": [
+      {
+        "texto": "Filamentos intermedios",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Aportan estabilidad."
+  },
+  {
+    "codigo": "APO2-005",
+    "tema": "Monosacáridos",
+    "pregunta": "La glucosa es un ejemplo de:",
+    "respuestas": [
+      {
+        "texto": "Ácido nucleico",
+        "correcta": false
+      },
+      {
+        "texto": "Proteína fibrosa",
+        "correcta": false
+      },
+      {
+        "texto": "Monosacárido",
+        "correcta": true
+      },
+      {
+        "texto": "Esteroide",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La glucosa es una unidad simple de carbohidrato."
+  },
+  {
+    "codigo": "APO4-016",
+    "tema": "Ribosomas libres",
+    "pregunta": "Los ribosomas libres suelen sintetizar:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Proteínas citosólicas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Su destino inicial es el citosol."
+  },
+  {
+    "codigo": "APO7-026",
+    "tema": "Fenotipo",
+    "pregunta": "El fenotipo resulta de:",
+    "respuestas": [
+      {
+        "texto": "Genotipo e interacción con ambiente",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es el conjunto observable de características."
+  },
+  {
+    "codigo": "APO3-021",
+    "tema": "Bicapa lipídica",
+    "pregunta": "La bicapa se forma por:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Carácter anfipático de los fosfolípidos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las colas hidrofóbicas quedan hacia el interior."
+  },
+  {
+    "codigo": "APO8-009",
+    "tema": "Anafase",
+    "pregunta": "En anafase se separan:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cromátides hermanas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Migran a polos opuestos."
+  },
+  {
+    "codigo": "APO5-009",
+    "tema": "Tráfico vesicular",
+    "pregunta": "El tráfico vesicular conecta:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Compartimientos del sistema endomembranoso",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las vesículas transportan proteínas y lípidos."
+  },
+  {
+    "codigo": "APO4-027",
+    "tema": "Organelas no membranosas",
+    "pregunta": "Un ejemplo de organela no membranosa es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Ribosoma",
+        "correcta": true
+      }
+    ],
+    "explicacion": "No posee bicapa delimitante."
+  },
+  {
+    "codigo": "APO8-020",
+    "tema": "Crossing-over",
+    "pregunta": "El crossing-over ocurre entre:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cromosomas homólogos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Genera recombinación."
+  },
+  {
+    "codigo": "APO10-006",
+    "tema": "Paracrina",
+    "pregunta": "La señalización paracrina actúa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Sobre células cercanas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La señal difunde localmente."
+  },
+  {
+    "codigo": "APO1-028",
+    "tema": "Catalizadores",
+    "pregunta": "Los catalizadores biológicos permiten:",
+    "respuestas": [
+      {
+        "texto": "Acelerar reacciones químicas",
+        "correcta": true
+      },
+      {
+        "texto": "Detener todo metabolismo",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar el agua celular",
+        "correcta": false
+      },
+      {
+        "texto": "Separar órganos",
+        "correcta": false
+      }
+    ],
+    "explicacion": "ARN y proteínas con actividad catalítica fueron claves en el origen de procesos metabólicos."
+  },
+  {
+    "codigo": "APO12-028",
+    "tema": "Haploidía",
+    "pregunta": "Las gametas son haploides para:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Restablecer diploidía tras fecundación",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Evita duplicación cromosómica progresiva."
+  },
+  {
+    "codigo": "APO1-019",
+    "tema": "Multicelularidad",
+    "pregunta": "La pluricelularidad permitió:",
+    "respuestas": [
+      {
+        "texto": "Disminuir toda complejidad",
+        "correcta": false
+      },
+      {
+        "texto": "Hacer desaparecer tejidos",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminar la reproducción",
+        "correcta": false
+      },
+      {
+        "texto": "Especialización celular y nuevos niveles de organización",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La diferenciación funcional permitió tejidos, órganos y sistemas."
+  },
+  {
+    "codigo": "APO12-020",
+    "tema": "Reacción acrosómica",
+    "pregunta": "La reacción acrosómica ayuda a:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Atravesar la zona pelúcida",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Libera enzimas acrosomales."
+  },
+  {
+    "codigo": "APO6-003",
+    "tema": "Poros nucleares",
+    "pregunta": "Los poros nucleares permiten:",
+    "respuestas": [
+      {
+        "texto": "Intercambio selectivo núcleo-citoplasma",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Regulan paso de ARN y proteínas."
+  },
+  {
+    "codigo": "APO7-028",
+    "tema": "Western blot",
+    "pregunta": "Western blot detecta:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Proteínas específicas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Usa anticuerpos para identificar proteínas."
+  },
+  {
+    "codigo": "APO3-019",
+    "tema": "Solución hipotónica",
+    "pregunta": "En medio hipotónico, una célula animal tiende a:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Ganar agua",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El agua entra si afuera hay menor concentración de solutos."
+  },
+  {
+    "codigo": "APO10-021",
+    "tema": "Respuesta génica",
+    "pregunta": "Una señal puede modificar:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Expresión génica",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Algunas vías llegan al núcleo."
+  },
+  {
+    "codigo": "APO2-013",
+    "tema": "Desnaturalización",
+    "pregunta": "La desnaturalización proteica implica:",
+    "respuestas": [
+      {
+        "texto": "Formación de ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Duplicación de aminoácidos",
+        "correcta": false
+      },
+      {
+        "texto": "Pérdida de la conformación funcional",
+        "correcta": true
+      },
+      {
+        "texto": "Creación de ribosomas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Cambios de pH o temperatura pueden alterar la estructura proteica."
+  },
+  {
+    "codigo": "APO4-003",
+    "tema": "Glucógeno",
+    "pregunta": "El glucógeno celular representa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Reserva de glucosa",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Se almacena como gránulos en el citoplasma."
+  },
+  {
+    "codigo": "APO1-020",
+    "tema": "Evolución",
+    "pregunta": "La evolución biológica implica:",
+    "respuestas": [
+      {
+        "texto": "Generación espontánea permanente",
+        "correcta": false
+      },
+      {
+        "texto": "Cambios individuales no heredables",
+        "correcta": false
+      },
+      {
+        "texto": "Ausencia de variabilidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cambios heredables en poblaciones a lo largo del tiempo",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La evolución actúa sobre poblaciones y variaciones heredables."
+  },
+  {
+    "codigo": "APO7-011",
+    "tema": "Codón",
+    "pregunta": "Un codón está formado por:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Tres nucleótidos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Cada triplete especifica aminoácido o señal."
+  },
+  {
+    "codigo": "APO1-009",
+    "tema": "Nutrición",
+    "pregunta": "Los organismos heterótrofos obtienen materia y energía principalmente de:",
+    "respuestas": [
+      {
+        "texto": "Rocas sin transformación",
+        "correcta": false
+      },
+      {
+        "texto": "Oxígeno molecular solamente",
+        "correcta": false
+      },
+      {
+        "texto": "Materia orgánica producida por otros organismos",
+        "correcta": true
+      },
+      {
+        "texto": "La luz como única fuente",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los heterótrofos dependen de materia orgánica externa."
+  },
+  {
+    "codigo": "APO10-004",
+    "tema": "Célula blanco",
+    "pregunta": "La célula blanco es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La que posee receptor para la señal",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Solo responde si puede reconocer el ligando."
+  },
+  {
+    "codigo": "APO12-026",
+    "tema": "Activación ovocitaria",
+    "pregunta": "La fecundación activa:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Finalización de meiosis y comienzo del desarrollo",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El ovocito inicia programa embrionario."
+  },
+  {
+    "codigo": "APO11-027",
+    "tema": "Interacciones celulares",
+    "pregunta": "Las interacciones celulares son necesarias para:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Coordinación de tejidos en desarrollo",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluyen señales y adhesión."
+  },
+  {
+    "codigo": "APO2-011",
+    "tema": "Aminoácidos",
+    "pregunta": "Los aminoácidos son:",
+    "respuestas": [
+      {
+        "texto": "Tipos de lípidos",
+        "correcta": false
+      },
+      {
+        "texto": "Monómeros de las proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "Sales minerales",
+        "correcta": false
+      },
+      {
+        "texto": "Monómeros del ADN",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las proteínas se forman por unión de aminoácidos."
+  },
+  {
+    "codigo": "APO9-005",
+    "tema": "Fibronectina",
+    "pregunta": "La fibronectina participa en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Adhesión célula-matriz",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Conecta matriz con células."
+  },
+  {
+    "codigo": "APO7-004",
+    "tema": "Complementariedad",
+    "pregunta": "En ADN, adenina se aparea con:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Timina",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "A-T y G-C mantienen la doble hélice."
+  },
+  {
+    "codigo": "APO5-004",
+    "tema": "Lisosomas",
+    "pregunta": "Los lisosomas contienen:",
+    "respuestas": [
+      {
+        "texto": "Enzimas hidrolíticas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Degradan macromoléculas en medio ácido."
+  },
+  {
+    "codigo": "APO10-023",
+    "tema": "Desensibilización",
+    "pregunta": "La desensibilización implica:",
+    "respuestas": [
+      {
+        "texto": "Disminución de respuesta ante estímulo persistente",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Evita sobreactivación."
+  },
+  {
+    "codigo": "APO12-030",
+    "tema": "Cigota",
+    "pregunta": "La cigota resultante es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Diploide",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Recibe un juego cromosómico de cada gameta."
+  },
+  {
+    "codigo": "APO9-027",
+    "tema": "Reconocimiento celular",
+    "pregunta": "El reconocimiento celular involucra:",
+    "respuestas": [
+      {
+        "texto": "Moléculas de superficie",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite interacciones específicas."
+  },
+  {
+    "codigo": "APO10-007",
+    "tema": "Autocrina",
+    "pregunta": "En señalización autocrina la célula:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Responde a su propia señal",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Emisor y blanco pueden coincidir."
+  },
+  {
+    "codigo": "APO1-026",
+    "tema": "Tamaños relativos",
+    "pregunta": "Un ribosoma es observable con mayor detalle mediante:",
+    "respuestas": [
+      {
+        "texto": "Radiografía simple",
+        "correcta": false
+      },
+      {
+        "texto": "Microscopio óptico común con bajo aumento",
+        "correcta": false
+      },
+      {
+        "texto": "Vista directa",
+        "correcta": false
+      },
+      {
+        "texto": "Microscopio electrónico",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Los ribosomas son estructuras nanométricas."
+  },
+  {
+    "codigo": "APO12-029",
+    "tema": "Variabilidad",
+    "pregunta": "La reproducción sexual genera variabilidad por:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Meiosis y combinación de gametas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Crea nuevas combinaciones genéticas."
+  },
+  {
+    "codigo": "APO11-018",
+    "tema": "Totipotencia",
+    "pregunta": "Una célula totipotente puede:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Formar organismo completo y anexos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Máxima potencia celular."
+  },
+  {
+    "codigo": "APO5-018",
+    "tema": "Cadena respiratoria",
+    "pregunta": "La cadena respiratoria se localiza en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Membrana interna mitocondrial",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Allí se genera gradiente para ATP."
+  },
+  {
+    "codigo": "APO7-027",
+    "tema": "PCR",
+    "pregunta": "La PCR permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Amplificar fragmentos de ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Usa ciclos de replicación in vitro."
+  },
+  {
+    "codigo": "APO2-012",
+    "tema": "Enzimas",
+    "pregunta": "Una enzima es:",
+    "respuestas": [
+      {
+        "texto": "Un cromosoma",
+        "correcta": false
+      },
+      {
+        "texto": "Una membrana sin proteínas",
+        "correcta": false
+      },
+      {
+        "texto": "Una molécula que siempre se consume",
+        "correcta": false
+      },
+      {
+        "texto": "Un catalizador biológico",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las enzimas aceleran reacciones sin consumirse en ellas."
+  },
+  {
+    "codigo": "APO6-028",
+    "tema": "Duplicación",
+    "pregunta": "Antes de dividirse, una célula debe:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Duplicar su ADN",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Así cada célula hija recibe información."
+  },
+  {
+    "codigo": "APO8-015",
+    "tema": "Control G2/M",
+    "pregunta": "El control G2/M verifica:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "ADN replicado y sin daño crítico",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Evita mitosis defectuosa."
+  },
+  {
+    "codigo": "APO1-002",
+    "tema": "Origen de la vida",
+    "pregunta": "¿Qué demostró el experimento de Miller y Urey?",
+    "respuestas": [
+      {
+        "texto": "Que se crearon bacterias",
+        "correcta": false
+      },
+      {
+        "texto": "Que apareció ADN completo",
+        "correcta": false
+      },
+      {
+        "texto": "Que podían formarse moléculas orgánicas simples en condiciones simuladas de la Tierra primitiva",
+        "correcta": true
+      },
+      {
+        "texto": "Que surgieron células eucariotas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Miller y Urey obtuvieron biomoléculas como aminoácidos, pero no organismos vivos."
+  },
+  {
+    "codigo": "APO11-012",
+    "tema": "Mesodermo",
+    "pregunta": "El mesodermo origina:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Músculo, hueso y sangre, entre otros",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es una capa germinal media."
+  },
+  {
+    "codigo": "APO11-015",
+    "tema": "Diferenciación",
+    "pregunta": "La diferenciación implica:",
+    "respuestas": [
+      {
+        "texto": "Especialización celular",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende de expresión génica diferencial."
+  },
+  {
+    "codigo": "APO6-011",
+    "tema": "Cromosoma",
+    "pregunta": "Un cromosoma metafásico está:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Altamente condensado",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Facilita la segregación."
+  },
+  {
+    "codigo": "APO5-012",
+    "tema": "Glucosilación",
+    "pregunta": "Una modificación frecuente en RE/Golgi es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Adición y procesamiento de carbohidratos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "La glucosilación afecta destino y función."
+  },
+  {
+    "codigo": "APO8-022",
+    "tema": "Apoptosis",
+    "pregunta": "La apoptosis es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Muerte celular programada",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Proceso regulado y ordenado."
+  },
+  {
+    "codigo": "APO9-008",
+    "tema": "Integrinas",
+    "pregunta": "Las integrinas conectan:",
+    "respuestas": [
+      {
+        "texto": "Matriz extracelular con citoesqueleto",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Transmiten adhesión y señales."
+  },
+  {
+    "codigo": "APO9-021",
+    "tema": "Tejidos",
+    "pregunta": "Un tejido integra:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Células y matriz extracelular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Realizan funciones coordinadas."
+  },
+  {
+    "codigo": "APO8-014",
+    "tema": "Control G1/S",
+    "pregunta": "El control G1/S evalúa:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Condiciones para replicar ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Decide entrada a fase S."
+  },
+  {
+    "codigo": "APO1-003",
+    "tema": "Evolución química",
+    "pregunta": "La evolución química se ubica cronológicamente:",
+    "respuestas": [
+      {
+        "texto": "Antes de la aparición de las primeras células",
+        "correcta": true
+      },
+      {
+        "texto": "Después de la multicelularidad",
+        "correcta": false
+      },
+      {
+        "texto": "Durante la mitosis",
+        "correcta": false
+      },
+      {
+        "texto": "Solo en organismos eucariotas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La evolución química describe la formación previa de biomoléculas y protocélulas."
+  },
+  {
+    "codigo": "APO6-013",
+    "tema": "Centrómero",
+    "pregunta": "El centrómero permite:",
+    "respuestas": [
+      {
+        "texto": "Unión de cromátides y formación del cinetocoro",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es clave para segregación."
+  },
+  {
+    "codigo": "APO6-025",
+    "tema": "Transcripción nuclear",
+    "pregunta": "La transcripción ocurre principalmente en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Núcleo",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "En eucariotas el ARN se sintetiza allí."
+  },
+  {
+    "codigo": "APO12-021",
+    "tema": "Zona pelúcida",
+    "pregunta": "La zona pelúcida rodea:",
+    "respuestas": [
+      {
+        "texto": "Ovocito",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Participa en reconocimiento y bloqueo de polispermia."
+  },
+  {
+    "codigo": "APO2-021",
+    "tema": "Colágeno",
+    "pregunta": "El colágeno es:",
+    "respuestas": [
+      {
+        "texto": "Una proteína estructural de matriz extracelular",
+        "correcta": true
+      },
+      {
+        "texto": "Un ácido nucleico",
+        "correcta": false
+      },
+      {
+        "texto": "Un monosacárido",
+        "correcta": false
+      },
+      {
+        "texto": "Un fosfolípido",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Aporta resistencia mecánica en tejidos."
+  },
+  {
+    "codigo": "APO4-030",
+    "tema": "Polaridad celular",
+    "pregunta": "El citoesqueleto contribuye a:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Polaridad y distribución interna",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ayuda a organizar dominios celulares."
+  },
+  {
+    "codigo": "APO3-026",
+    "tema": "Transporte vesicular",
+    "pregunta": "El transporte vesicular requiere:",
+    "respuestas": [
+      {
+        "texto": "Formación y fusión de vesículas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite mover material que no cruza directamente la bicapa."
+  },
+  {
+    "codigo": "APO3-017",
+    "tema": "Gradiente electroquímico",
+    "pregunta": "Un gradiente electroquímico combina:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Concentración y carga eléctrica",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es relevante para iones."
+  },
+  {
+    "codigo": "APO9-010",
+    "tema": "Uniones estrechas",
+    "pregunta": "Las uniones estrechas:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Sellan el espacio intercelular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Contribuyen a barreras epiteliales."
+  },
+  {
+    "codigo": "APO10-008",
+    "tema": "Yuxtacrina",
+    "pregunta": "La señalización yuxtacrina requiere:",
+    "respuestas": [
+      {
+        "texto": "Contacto directo entre células",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende de moléculas de membrana."
+  },
+  {
+    "codigo": "APO7-007",
+    "tema": "ARNm",
+    "pregunta": "El ARNm lleva:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Información para síntesis proteica",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Transporta el mensaje hacia ribosomas."
+  },
+  {
+    "codigo": "APO9-016",
+    "tema": "Polaridad epitelial",
+    "pregunta": "La polaridad epitelial diferencia:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Dominio apical y basal",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite funciones direccionales."
+  },
+  {
+    "codigo": "APO2-029",
+    "tema": "Complementariedad",
+    "pregunta": "La complementariedad de bases es clave para:",
+    "respuestas": [
+      {
+        "texto": "Formación de bicapas",
+        "correcta": false
+      },
+      {
+        "texto": "Replicación y transmisión de información genética",
+        "correcta": true
+      },
+      {
+        "texto": "Síntesis de triglicéridos",
+        "correcta": false
+      },
+      {
+        "texto": "Digestión de proteínas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El apareamiento específico permite copiar ácidos nucleicos."
+  },
+  {
+    "codigo": "APO6-006",
+    "tema": "Nucleosoma",
+    "pregunta": "El nucleosoma es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "ADN enrollado alrededor de histonas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Es unidad básica de compactación."
+  },
+  {
+    "codigo": "APO3-030",
+    "tema": "Receptores de membrana",
+    "pregunta": "Los receptores de membrana permiten:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Detectar señales extracelulares",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Conectan estímulos externos con respuestas celulares."
+  },
+  {
+    "codigo": "APO9-014",
+    "tema": "Cadherinas",
+    "pregunta": "Las cadherinas median:",
+    "respuestas": [
+      {
+        "texto": "Adhesión célula-célula dependiente de calcio",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Importantes en tejidos."
+  },
+  {
+    "codigo": "APO10-014",
+    "tema": "AMPc",
+    "pregunta": "El AMPc es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Segundo mensajero",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Activa vías intracelulares."
+  },
+  {
+    "codigo": "APO3-009",
+    "tema": "Endocitosis",
+    "pregunta": "La endocitosis permite:",
+    "respuestas": [
+      {
+        "texto": "Incorporar material en vesículas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La membrana se invagina y forma vesículas."
+  },
+  {
+    "codigo": "APO10-001",
+    "tema": "Señalización",
+    "pregunta": "La comunicación celular permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Coordinar respuestas entre células",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es esencial en organismos multicelulares."
+  },
+  {
+    "codigo": "APO9-026",
+    "tema": "Barreras epiteliales",
+    "pregunta": "Las barreras epiteliales dependen de:",
+    "respuestas": [
+      {
+        "texto": "Uniones estrechas y polaridad",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Controlan paso de sustancias."
+  },
+  {
+    "codigo": "APO5-015",
+    "tema": "Secreción constitutiva",
+    "pregunta": "La secreción constitutiva es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Continua y no requiere estímulo puntual",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Mantiene membrana y secreción basal."
+  },
+  {
+    "codigo": "APO12-012",
+    "tema": "Flagelo",
+    "pregunta": "El flagelo espermático permite:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Movilidad",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Impulsa al espermatozoide."
+  },
+  {
+    "codigo": "APO2-019",
+    "tema": "Iones",
+    "pregunta": "Los iones celulares participan en:",
+    "respuestas": [
+      {
+        "texto": "Solo estructura del ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de yema",
+        "correcta": false
+      },
+      {
+        "texto": "Gradientes, señales y equilibrio osmótico",
+        "correcta": true
+      },
+      {
+        "texto": "Ausencia de carga",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Na+, K+, Ca2+ y otros iones son esenciales para función celular."
+  },
+  {
+    "codigo": "APO12-019",
+    "tema": "Capacitación",
+    "pregunta": "La capacitación espermática es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Maduración funcional en vías femeninas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite capacidad fecundante."
+  },
+  {
+    "codigo": "APO3-002",
+    "tema": "Permeabilidad selectiva",
+    "pregunta": "La membrana plasmática permite:",
+    "respuestas": [
+      {
+        "texto": "Regular qué sustancias entran y salen",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La composición de la bicapa y transportadores regula el intercambio."
+  },
+  {
+    "codigo": "APO7-021",
+    "tema": "Mutación nonsense",
+    "pregunta": "Una mutación nonsense introduce:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Codón de terminación prematuro",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede generar proteína truncada."
+  },
+  {
+    "codigo": "APO9-019",
+    "tema": "Microvellosidades",
+    "pregunta": "Las microvellosidades aumentan:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Superficie de absorción",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son prolongaciones con actina."
+  },
+  {
+    "codigo": "APO5-002",
+    "tema": "REL",
+    "pregunta": "El retículo endoplásmico liso participa en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Síntesis de lípidos y detoxificación",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Carece de ribosomas adheridos."
+  },
+  {
+    "codigo": "APO4-015",
+    "tema": "Ribosomas",
+    "pregunta": "Los ribosomas realizan:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Síntesis de proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Traducen ARNm a polipéptidos."
+  },
+  {
+    "codigo": "APO6-016",
+    "tema": "Gen",
+    "pregunta": "Un gen es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Secuencia de ADN con información funcional",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede codificar ARN o proteínas."
+  },
+  {
+    "codigo": "APO5-001",
+    "tema": "RER",
+    "pregunta": "El retículo endoplásmico rugoso participa en:",
+    "respuestas": [
+      {
+        "texto": "Síntesis de proteínas de secreción y membrana",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sus ribosomas sintetizan proteínas destinadas al sistema endomembranoso."
+  },
+  {
+    "codigo": "APO1-010",
+    "tema": "Propiedades de los seres vivos",
+    "pregunta": "La homeostasis es:",
+    "respuestas": [
+      {
+        "texto": "La unión de cromátides",
+        "correcta": false
+      },
+      {
+        "texto": "La capacidad de mantener condiciones internas relativamente estables",
+        "correcta": true
+      },
+      {
+        "texto": "La pérdida total de metabolismo",
+        "correcta": false
+      },
+      {
+        "texto": "La formación de aminoácidos en laboratorio",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La homeostasis mantiene el medio interno dentro de límites compatibles con la vida."
+  },
+  {
+    "codigo": "APO12-024",
+    "tema": "Anfimixis",
+    "pregunta": "La anfimixis es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Unión de pronúcleos o material genético parental",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Restablece diploidía."
+  },
+  {
+    "codigo": "APO7-024",
+    "tema": "Expresión génica",
+    "pregunta": "La expresión génica comprende:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Transcripción y, si corresponde, traducción",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite producir ARN y proteínas."
+  }
+]

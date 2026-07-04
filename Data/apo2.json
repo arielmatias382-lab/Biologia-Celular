@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO2-001",
+    "tema": "Agua celular",
+    "pregunta": "El agua es fundamental porque:",
+    "respuestas": [
+      {
+        "texto": "Es siempre apolar",
+        "correcta": false
+      },
+      {
+        "texto": "Reemplaza al ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Codifica proteínas",
+        "correcta": false
+      },
+      {
+        "texto": "Actúa como solvente y medio para reacciones celulares",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Su polaridad permite disolver muchas sustancias biológicas."
+  },
+  {
+    "codigo": "APO2-002",
+    "tema": "Enlaces químicos",
+    "pregunta": "Los puentes de hidrógeno son importantes porque:",
+    "respuestas": [
+      {
+        "texto": "Solo existen en lípidos",
+        "correcta": false
+      },
+      {
+        "texto": "Son enlaces covalentes fuertes siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminan la polaridad",
+        "correcta": false
+      },
+      {
+        "texto": "Contribuyen a propiedades del agua y estructura de biomoléculas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Son interacciones débiles pero numerosas y funcionalmente relevantes."
+  },
+  {
+    "codigo": "APO2-003",
+    "tema": "pH",
+    "pregunta": "El pH celular se relaciona con:",
+    "respuestas": [
+      {
+        "texto": "Cantidad de cromosomas exclusivamente",
+        "correcta": false
+      },
+      {
+        "texto": "Número de tejidos",
+        "correcta": false
+      },
+      {
+        "texto": "Color de la membrana",
+        "correcta": false
+      },
+      {
+        "texto": "Concentración de protones y actividad de moléculas celulares",
+        "correcta": true
+      }
+    ],
+    "explicacion": "El pH condiciona estructura y función molecular."
+  },
+  {
+    "codigo": "APO2-004",
+    "tema": "Glúcidos",
+    "pregunta": "Una función de los glúcidos es:",
+    "respuestas": [
+      {
+        "texto": "Almacenamiento exclusivo de información genética",
+        "correcta": false
+      },
+      {
+        "texto": "Digestión lisosomal",
+        "correcta": false
+      },
+      {
+        "texto": "Formación del huso mitótico",
+        "correcta": false
+      },
+      {
+        "texto": "Reserva energética y reconocimiento celular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Los glúcidos cumplen funciones energéticas, estructurales y de reconocimiento."
+  },
+  {
+    "codigo": "APO2-005",
+    "tema": "Monosacáridos",
+    "pregunta": "La glucosa es un ejemplo de:",
+    "respuestas": [
+      {
+        "texto": "Ácido nucleico",
+        "correcta": false
+      },
+      {
+        "texto": "Proteína fibrosa",
+        "correcta": false
+      },
+      {
+        "texto": "Monosacárido",
+        "correcta": true
+      },
+      {
+        "texto": "Esteroide",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La glucosa es una unidad simple de carbohidrato."
+  },
+  {
+    "codigo": "APO2-006",
+    "tema": "Polisacáridos",
+    "pregunta": "El glucógeno cumple principalmente función de:",
+    "respuestas": [
+      {
+        "texto": "Información genética",
+        "correcta": false
+      },
+      {
+        "texto": "Enzima digestiva",
+        "correcta": false
+      },
+      {
+        "texto": "Reserva energética animal",
+        "correcta": true
+      },
+      {
+        "texto": "Receptor nuclear",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El glucógeno almacena glucosa en células animales."
+  },
+  {
+    "codigo": "APO2-007",
+    "tema": "Lípidos",
+    "pregunta": "Los fosfolípidos son importantes porque:",
+    "respuestas": [
+      {
+        "texto": "Siempre son solubles en agua",
+        "correcta": false
+      },
+      {
+        "texto": "Forman bicapas de membrana",
+        "correcta": true
+      },
+      {
+        "texto": "Son la base del ribosoma",
+        "correcta": false
+      },
+      {
+        "texto": "Duplican ADN",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Su carácter anfipático permite formar membranas."
+  },
+  {
+    "codigo": "APO2-008",
+    "tema": "Colesterol",
+    "pregunta": "En membranas animales, el colesterol contribuye a:",
+    "respuestas": [
+      {
+        "texto": "Regular fluidez y estabilidad de la bicapa",
+        "correcta": true
+      },
+      {
+        "texto": "Eliminar proteínas",
+        "correcta": false
+      },
+      {
+        "texto": "Formar nucleótidos",
+        "correcta": false
+      },
+      {
+        "texto": "Codificar ARNm",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El colesterol modula propiedades físicas de la membrana."
+  },
+  {
+    "codigo": "APO2-009",
+    "tema": "Triglicéridos",
+    "pregunta": "Los triglicéridos cumplen función principal de:",
+    "respuestas": [
+      {
+        "texto": "Catalizar replicación",
+        "correcta": false
+      },
+      {
+        "texto": "Reserva energética",
+        "correcta": true
+      },
+      {
+        "texto": "Transportar señales nerviosas",
+        "correcta": false
+      },
+      {
+        "texto": "Formar cromosomas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son lípidos de almacenamiento."
+  },
+  {
+    "codigo": "APO2-010",
+    "tema": "Proteínas",
+    "pregunta": "La estructura primaria de una proteína es:",
+    "respuestas": [
+      {
+        "texto": "La secuencia de aminoácidos",
+        "correcta": true
+      },
+      {
+        "texto": "Su unión a membranas",
+        "correcta": false
+      },
+      {
+        "texto": "La cantidad de agua que contiene",
+        "correcta": false
+      },
+      {
+        "texto": "Su forma final únicamente",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El orden de aminoácidos condiciona niveles superiores de estructura."
+  },
+  {
+    "codigo": "APO2-011",
+    "tema": "Aminoácidos",
+    "pregunta": "Los aminoácidos son:",
+    "respuestas": [
+      {
+        "texto": "Tipos de lípidos",
+        "correcta": false
+      },
+      {
+        "texto": "Monómeros de las proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "Sales minerales",
+        "correcta": false
+      },
+      {
+        "texto": "Monómeros del ADN",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las proteínas se forman por unión de aminoácidos."
+  },
+  {
+    "codigo": "APO2-012",
+    "tema": "Enzimas",
+    "pregunta": "Una enzima es:",
+    "respuestas": [
+      {
+        "texto": "Un cromosoma",
+        "correcta": false
+      },
+      {
+        "texto": "Una membrana sin proteínas",
+        "correcta": false
+      },
+      {
+        "texto": "Una molécula que siempre se consume",
+        "correcta": false
+      },
+      {
+        "texto": "Un catalizador biológico",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las enzimas aceleran reacciones sin consumirse en ellas."
+  },
+  {
+    "codigo": "APO2-013",
+    "tema": "Desnaturalización",
+    "pregunta": "La desnaturalización proteica implica:",
+    "respuestas": [
+      {
+        "texto": "Formación de ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Duplicación de aminoácidos",
+        "correcta": false
+      },
+      {
+        "texto": "Pérdida de la conformación funcional",
+        "correcta": true
+      },
+      {
+        "texto": "Creación de ribosomas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Cambios de pH o temperatura pueden alterar la estructura proteica."
+  },
+  {
+    "codigo": "APO2-014",
+    "tema": "Ácidos nucleicos",
+    "pregunta": "Los ácidos nucleicos se relacionan con:",
+    "respuestas": [
+      {
+        "texto": "Almacenamiento y expresión de información genética",
+        "correcta": true
+      },
+      {
+        "texto": "Reserva lipídica",
+        "correcta": false
+      },
+      {
+        "texto": "Contracción muscular solamente",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de colágeno",
+        "correcta": false
+      }
+    ],
+    "explicacion": "ADN y ARN participan en el flujo de información genética."
+  },
+  {
+    "codigo": "APO2-015",
+    "tema": "Nucleótidos",
+    "pregunta": "Un nucleótido está formado por:",
+    "respuestas": [
+      {
+        "texto": "Aminoácido, glicerol y ácido graso",
+        "correcta": false
+      },
+      {
+        "texto": "Proteína, lípido e ion",
+        "correcta": false
+      },
+      {
+        "texto": "Glucosa, colesterol y agua",
+        "correcta": false
+      },
+      {
+        "texto": "Base nitrogenada, azúcar y fosfato",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Los nucleótidos son las unidades de ADN y ARN."
+  },
+  {
+    "codigo": "APO2-016",
+    "tema": "ADN",
+    "pregunta": "El ADN se caracteriza por:",
+    "respuestas": [
+      {
+        "texto": "Almacenar información hereditaria",
+        "correcta": true
+      },
+      {
+        "texto": "Ser siempre una enzima digestiva",
+        "correcta": false
+      },
+      {
+        "texto": "No contener bases nitrogenadas",
+        "correcta": false
+      },
+      {
+        "texto": "Ser un polisacárido",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El ADN contiene información genética."
+  },
+  {
+    "codigo": "APO2-017",
+    "tema": "ARN",
+    "pregunta": "Una función del ARN es:",
+    "respuestas": [
+      {
+        "texto": "Participar en la expresión de la información genética",
+        "correcta": true
+      },
+      {
+        "texto": "Almacenar triglicéridos",
+        "correcta": false
+      },
+      {
+        "texto": "Constituir microtúbulos",
+        "correcta": false
+      },
+      {
+        "texto": "Formar la bicapa lipídica",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Distintos ARN intervienen en transcripción y traducción."
+  },
+  {
+    "codigo": "APO2-018",
+    "tema": "Macromoléculas",
+    "pregunta": "Una macromolécula formada por monómeros repetidos se denomina:",
+    "respuestas": [
+      {
+        "texto": "Solvente",
+        "correcta": false
+      },
+      {
+        "texto": "Fosfato libre",
+        "correcta": false
+      },
+      {
+        "texto": "Polímero",
+        "correcta": true
+      },
+      {
+        "texto": "Ion",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los polímeros se forman por unión de monómeros."
+  },
+  {
+    "codigo": "APO2-019",
+    "tema": "Iones",
+    "pregunta": "Los iones celulares participan en:",
+    "respuestas": [
+      {
+        "texto": "Solo estructura del ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de yema",
+        "correcta": false
+      },
+      {
+        "texto": "Gradientes, señales y equilibrio osmótico",
+        "correcta": true
+      },
+      {
+        "texto": "Ausencia de carga",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Na+, K+, Ca2+ y otros iones son esenciales para función celular."
+  },
+  {
+    "codigo": "APO2-020",
+    "tema": "Matriz extracelular",
+    "pregunta": "La matriz extracelular aporta:",
+    "respuestas": [
+      {
+        "texto": "Soporte, adhesión y señales a las células",
+        "correcta": true
+      },
+      {
+        "texto": "Condensación cromosómica",
+        "correcta": false
+      },
+      {
+        "texto": "Síntesis de ATP ribosomal",
+        "correcta": false
+      },
+      {
+        "texto": "Replicación directa del ADN",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La MEC influye en comportamiento y organización tisular."
+  },
+  {
+    "codigo": "APO2-021",
+    "tema": "Colágeno",
+    "pregunta": "El colágeno es:",
+    "respuestas": [
+      {
+        "texto": "Una proteína estructural de matriz extracelular",
+        "correcta": true
+      },
+      {
+        "texto": "Un ácido nucleico",
+        "correcta": false
+      },
+      {
+        "texto": "Un monosacárido",
+        "correcta": false
+      },
+      {
+        "texto": "Un fosfolípido",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Aporta resistencia mecánica en tejidos."
+  },
+  {
+    "codigo": "APO2-022",
+    "tema": "Proteoglucanos",
+    "pregunta": "Los proteoglucanos se relacionan con:",
+    "respuestas": [
+      {
+        "texto": "Hidratación y propiedades mecánicas de la matriz",
+        "correcta": true
+      },
+      {
+        "texto": "Síntesis de colesterol",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de ARNm",
+        "correcta": false
+      },
+      {
+        "texto": "Separación de cromátides",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Sus cadenas glucídicas retienen agua."
+  },
+  {
+    "codigo": "APO2-023",
+    "tema": "Glucoproteínas",
+    "pregunta": "Las glucoproteínas pueden participar en:",
+    "respuestas": [
+      {
+        "texto": "Reconocimiento y adhesión celular",
+        "correcta": true
+      },
+      {
+        "texto": "Desaparición de membranas",
+        "correcta": false
+      },
+      {
+        "texto": "Producción directa de ADN",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminación de ribosomas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Combinan proteínas con carbohidratos y tienen funciones de interacción."
+  },
+  {
+    "codigo": "APO2-024",
+    "tema": "Anfipático",
+    "pregunta": "Una molécula anfipática posee:",
+    "respuestas": [
+      {
+        "texto": "Ausencia total de carbono",
+        "correcta": false
+      },
+      {
+        "texto": "Solo cargas positivas",
+        "correcta": false
+      },
+      {
+        "texto": "Una región hidrofílica y otra hidrofóbica",
+        "correcta": true
+      },
+      {
+        "texto": "Doble hélice siempre",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Esta propiedad explica el comportamiento de fosfolípidos."
+  },
+  {
+    "codigo": "APO2-025",
+    "tema": "Hidrofílico",
+    "pregunta": "Una sustancia hidrofílica tiende a:",
+    "respuestas": [
+      {
+        "texto": "Ser siempre un lípido neutro",
+        "correcta": false
+      },
+      {
+        "texto": "Evitar toda interacción con agua",
+        "correcta": false
+      },
+      {
+        "texto": "Formar cromosomas",
+        "correcta": false
+      },
+      {
+        "texto": "Interactuar con el agua",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las moléculas polares o cargadas suelen ser hidrofílicas."
+  },
+  {
+    "codigo": "APO2-026",
+    "tema": "Hidrofóbico",
+    "pregunta": "Una sustancia hidrofóbica tiende a:",
+    "respuestas": [
+      {
+        "texto": "Poseer siempre fosfato",
+        "correcta": false
+      },
+      {
+        "texto": "Ser un ion",
+        "correcta": false
+      },
+      {
+        "texto": "Disolverse fácilmente en agua",
+        "correcta": false
+      },
+      {
+        "texto": "Evitar el contacto con el agua",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las regiones apolares se agrupan alejándose del agua."
+  },
+  {
+    "codigo": "APO2-027",
+    "tema": "Energía celular",
+    "pregunta": "El ATP funciona como:",
+    "respuestas": [
+      {
+        "texto": "Tipo de colágeno",
+        "correcta": false
+      },
+      {
+        "texto": "Proteína del huso",
+        "correcta": false
+      },
+      {
+        "texto": "Componente principal de la pared extracelular",
+        "correcta": false
+      },
+      {
+        "texto": "Molécula de transferencia de energía",
+        "correcta": true
+      }
+    ],
+    "explicacion": "El ATP acopla reacciones celulares."
+  },
+  {
+    "codigo": "APO2-028",
+    "tema": "Sales minerales",
+    "pregunta": "Las sales minerales pueden contribuir a:",
+    "respuestas": [
+      {
+        "texto": "Codificación genética exclusiva",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de tejidos sin células",
+        "correcta": false
+      },
+      {
+        "texto": "Equilibrio osmótico y funciones celulares",
+        "correcta": true
+      },
+      {
+        "texto": "Ausencia de metabolismo",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los minerales ionizados participan en múltiples procesos."
+  },
+  {
+    "codigo": "APO2-029",
+    "tema": "Complementariedad",
+    "pregunta": "La complementariedad de bases es clave para:",
+    "respuestas": [
+      {
+        "texto": "Formación de bicapas",
+        "correcta": false
+      },
+      {
+        "texto": "Replicación y transmisión de información genética",
+        "correcta": true
+      },
+      {
+        "texto": "Síntesis de triglicéridos",
+        "correcta": false
+      },
+      {
+        "texto": "Digestión de proteínas",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El apareamiento específico permite copiar ácidos nucleicos."
+  },
+  {
+    "codigo": "APO2-030",
+    "tema": "Relación estructura-función",
+    "pregunta": "En biología celular, la relación estructura-función indica que:",
+    "respuestas": [
+      {
+        "texto": "La forma molecular condiciona su actividad",
+        "correcta": true
+      },
+      {
+        "texto": "Solo importa el tamaño",
+        "correcta": false
+      },
+      {
+        "texto": "La estructura no influye en la función",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las moléculas cumplen lo mismo",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La función depende de la organización química y espacial."
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO12-001",
+    "tema": "Gametogénesis",
+    "pregunta": "La gametogénesis produce:",
+    "respuestas": [
+      {
+        "texto": "Gametas haploides",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Se basa en meiosis y maduración."
+  },
+  {
+    "codigo": "APO12-002",
+    "tema": "Meiosis gamética",
+    "pregunta": "La meiosis en gametogénesis permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Reducir la dotación cromosómica",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Forma células haploides."
+  },
+  {
+    "codigo": "APO12-003",
+    "tema": "Espermatogénesis",
+    "pregunta": "La espermatogénesis produce:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Espermatozoides",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ocurre en testículos."
+  },
+  {
+    "codigo": "APO12-004",
+    "tema": "Ovogénesis",
+    "pregunta": "La ovogénesis produce:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Ovocitos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ocurre en ovarios."
+  },
+  {
+    "codigo": "APO12-005",
+    "tema": "Espermatogonia",
+    "pregunta": "Las espermatogonias son:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Células germinales masculinas precursoras",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Dan origen a espermatocitos."
+  },
+  {
+    "codigo": "APO12-006",
+    "tema": "Oogonia",
+    "pregunta": "Las ovogonias son:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Células germinales femeninas precursoras",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Originan ovocitos."
+  },
+  {
+    "codigo": "APO12-007",
+    "tema": "Espermatocito primario",
+    "pregunta": "El espermatocito primario entra en:",
+    "respuestas": [
+      {
+        "texto": "Meiosis I",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es diploide antes de división reduccional."
+  },
+  {
+    "codigo": "APO12-008",
+    "tema": "Espermatocito secundario",
+    "pregunta": "El espermatocito secundario resulta de:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Meiosis I",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Luego completa meiosis II."
+  },
+  {
+    "codigo": "APO12-009",
+    "tema": "Espermátide",
+    "pregunta": "La espermátide se diferencia en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Espermatozoide",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Mediante espermiogénesis."
+  },
+  {
+    "codigo": "APO12-010",
+    "tema": "Espermiogénesis",
+    "pregunta": "La espermiogénesis implica:",
+    "respuestas": [
+      {
+        "texto": "Transformación de espermátides en espermatozoides",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluye formación de acrosoma y flagelo."
+  },
+  {
+    "codigo": "APO12-011",
+    "tema": "Acrosoma",
+    "pregunta": "El acrosoma contiene:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Enzimas para atravesar cubiertas ovocitarias",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Deriva del aparato de Golgi."
+  },
+  {
+    "codigo": "APO12-012",
+    "tema": "Flagelo",
+    "pregunta": "El flagelo espermático permite:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Movilidad",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Impulsa al espermatozoide."
+  },
+  {
+    "codigo": "APO12-013",
+    "tema": "Pieza media",
+    "pregunta": "La pieza media del espermatozoide contiene:",
+    "respuestas": [
+      {
+        "texto": "Mitocondrias",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Aportan energía para movimiento."
+  },
+  {
+    "codigo": "APO12-014",
+    "tema": "Ovocito primario",
+    "pregunta": "El ovocito primario queda detenido en:",
+    "respuestas": [
+      {
+        "texto": "Profase I",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Completa meiosis luego bajo estímulos."
+  },
+  {
+    "codigo": "APO12-015",
+    "tema": "Ovocito secundario",
+    "pregunta": "El ovocito secundario suele detenerse en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Metafase II",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Finaliza meiosis si ocurre fecundación."
+  },
+  {
+    "codigo": "APO12-016",
+    "tema": "Cuerpos polares",
+    "pregunta": "Los cuerpos polares permiten:",
+    "respuestas": [
+      {
+        "texto": "Eliminar cromosomas con poco citoplasma",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Conservan citoplasma en el ovocito."
+  },
+  {
+    "codigo": "APO12-017",
+    "tema": "Folículo ovárico",
+    "pregunta": "El folículo ovárico contiene:",
+    "respuestas": [
+      {
+        "texto": "Ovocito y células foliculares",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Acompaña maduración ovocitaria."
+  },
+  {
+    "codigo": "APO12-018",
+    "tema": "Ovulación",
+    "pregunta": "La ovulación libera:",
+    "respuestas": [
+      {
+        "texto": "Ovocito secundario",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es parte del ciclo reproductivo."
+  },
+  {
+    "codigo": "APO12-019",
+    "tema": "Capacitación",
+    "pregunta": "La capacitación espermática es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Maduración funcional en vías femeninas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite capacidad fecundante."
+  },
+  {
+    "codigo": "APO12-020",
+    "tema": "Reacción acrosómica",
+    "pregunta": "La reacción acrosómica ayuda a:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Atravesar la zona pelúcida",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Libera enzimas acrosomales."
+  },
+  {
+    "codigo": "APO12-021",
+    "tema": "Zona pelúcida",
+    "pregunta": "La zona pelúcida rodea:",
+    "respuestas": [
+      {
+        "texto": "Ovocito",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Participa en reconocimiento y bloqueo de polispermia."
+  },
+  {
+    "codigo": "APO12-022",
+    "tema": "Corona radiada",
+    "pregunta": "La corona radiada está formada por:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Células foliculares alrededor del ovocito",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Acompaña al ovocito ovulado."
+  },
+  {
+    "codigo": "APO12-023",
+    "tema": "Fecundación",
+    "pregunta": "La fecundación une:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Gameta masculina y femenina",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Forma la cigota."
+  },
+  {
+    "codigo": "APO12-024",
+    "tema": "Anfimixis",
+    "pregunta": "La anfimixis es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Unión de pronúcleos o material genético parental",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Restablece diploidía."
+  },
+  {
+    "codigo": "APO12-025",
+    "tema": "Bloqueo polispermia",
+    "pregunta": "El bloqueo de polispermia evita:",
+    "respuestas": [
+      {
+        "texto": "Entrada de más de un espermatozoide",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Previene dotación cromosómica anormal."
+  },
+  {
+    "codigo": "APO12-026",
+    "tema": "Activación ovocitaria",
+    "pregunta": "La fecundación activa:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Finalización de meiosis y comienzo del desarrollo",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "El ovocito inicia programa embrionario."
+  },
+  {
+    "codigo": "APO12-027",
+    "tema": "Pronúcleo",
+    "pregunta": "El pronúcleo contiene:",
+    "respuestas": [
+      {
+        "texto": "Material genético de cada gameta",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Luego se integra en la cigota."
+  },
+  {
+    "codigo": "APO12-028",
+    "tema": "Haploidía",
+    "pregunta": "Las gametas son haploides para:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Restablecer diploidía tras fecundación",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Evita duplicación cromosómica progresiva."
+  },
+  {
+    "codigo": "APO12-029",
+    "tema": "Variabilidad",
+    "pregunta": "La reproducción sexual genera variabilidad por:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Meiosis y combinación de gametas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Crea nuevas combinaciones genéticas."
+  },
+  {
+    "codigo": "APO12-030",
+    "tema": "Cigota",
+    "pregunta": "La cigota resultante es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Diploide",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Recibe un juego cromosómico de cada gameta."
+  }
+]

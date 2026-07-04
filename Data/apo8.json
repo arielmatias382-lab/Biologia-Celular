@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO8-001",
+    "tema": "Ciclo celular",
+    "pregunta": "El ciclo celular incluye:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Interfase y división celular",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ordena crecimiento, replicación y división."
+  },
+  {
+    "codigo": "APO8-002",
+    "tema": "G1",
+    "pregunta": "En G1 la célula:",
+    "respuestas": [
+      {
+        "texto": "Crece y realiza funciones metabólicas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Prepara condiciones para replicar ADN."
+  },
+  {
+    "codigo": "APO8-003",
+    "tema": "Fase S",
+    "pregunta": "En fase S ocurre:",
+    "respuestas": [
+      {
+        "texto": "Replicación del ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Duplica el material genético."
+  },
+  {
+    "codigo": "APO8-004",
+    "tema": "G2",
+    "pregunta": "En G2 la célula:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Prepara la mitosis",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Verifica y completa preparativos."
+  },
+  {
+    "codigo": "APO8-005",
+    "tema": "Mitosis",
+    "pregunta": "La mitosis reparte:",
+    "respuestas": [
+      {
+        "texto": "Cromosomas duplicados",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Genera núcleos hijos equivalentes."
+  },
+  {
+    "codigo": "APO8-006",
+    "tema": "Profase",
+    "pregunta": "En profase ocurre:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Condensación de cromatina",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Comienza organización del huso."
+  },
+  {
+    "codigo": "APO8-007",
+    "tema": "Prometafase",
+    "pregunta": "En prometafase ocurre:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Ruptura de envoltura nuclear y unión al huso",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los microtúbulos acceden a cinetocoros."
+  },
+  {
+    "codigo": "APO8-008",
+    "tema": "Metafase",
+    "pregunta": "En metafase los cromosomas:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Se alinean en el ecuador celular",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Facilita reparto simétrico."
+  },
+  {
+    "codigo": "APO8-009",
+    "tema": "Anafase",
+    "pregunta": "En anafase se separan:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cromátides hermanas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Migran a polos opuestos."
+  },
+  {
+    "codigo": "APO8-010",
+    "tema": "Telofase",
+    "pregunta": "En telofase se:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Reforman núcleos hijos",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Los cromosomas comienzan a descondensarse."
+  },
+  {
+    "codigo": "APO8-011",
+    "tema": "Citocinesis",
+    "pregunta": "La citocinesis divide:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "El citoplasma",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Produce dos células separadas."
+  },
+  {
+    "codigo": "APO8-012",
+    "tema": "Huso mitótico",
+    "pregunta": "El huso mitótico está formado por:",
+    "respuestas": [
+      {
+        "texto": "Microtúbulos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Mueve cromosomas."
+  },
+  {
+    "codigo": "APO8-013",
+    "tema": "Puntos de control",
+    "pregunta": "Los puntos de control sirven para:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Verificar condiciones antes de avanzar",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Evitan división con errores."
+  },
+  {
+    "codigo": "APO8-014",
+    "tema": "Control G1/S",
+    "pregunta": "El control G1/S evalúa:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Condiciones para replicar ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Decide entrada a fase S."
+  },
+  {
+    "codigo": "APO8-015",
+    "tema": "Control G2/M",
+    "pregunta": "El control G2/M verifica:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "ADN replicado y sin daño crítico",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Evita mitosis defectuosa."
+  },
+  {
+    "codigo": "APO8-016",
+    "tema": "Checkpoint del huso",
+    "pregunta": "El checkpoint del huso controla:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Unión correcta de cromosomas al huso",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Previene aneuploidías."
+  },
+  {
+    "codigo": "APO8-017",
+    "tema": "Meiosis",
+    "pregunta": "La meiosis produce:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Células haploides con variabilidad",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es clave para gametas."
+  },
+  {
+    "codigo": "APO8-018",
+    "tema": "Meiosis I",
+    "pregunta": "En meiosis I se separan:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Cromosomas homólogos",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Reduce la dotación cromosómica."
+  },
+  {
+    "codigo": "APO8-019",
+    "tema": "Meiosis II",
+    "pregunta": "En meiosis II se separan:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cromátides hermanas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Similar a una división ecuacional."
+  },
+  {
+    "codigo": "APO8-020",
+    "tema": "Crossing-over",
+    "pregunta": "El crossing-over ocurre entre:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Cromosomas homólogos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Genera recombinación."
+  },
+  {
+    "codigo": "APO8-021",
+    "tema": "Variabilidad",
+    "pregunta": "La meiosis aumenta variabilidad por:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Recombinación y distribución independiente",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Genera combinaciones nuevas."
+  },
+  {
+    "codigo": "APO8-022",
+    "tema": "Apoptosis",
+    "pregunta": "La apoptosis es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Muerte celular programada",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Proceso regulado y ordenado."
+  },
+  {
+    "codigo": "APO8-023",
+    "tema": "Necrosis",
+    "pregunta": "La necrosis suele ser:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Muerte celular accidental con daño tisular",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Se asocia a inflamación."
+  },
+  {
+    "codigo": "APO8-024",
+    "tema": "Caspasas",
+    "pregunta": "Las caspasas participan en:",
+    "respuestas": [
+      {
+        "texto": "Ejecución de apoptosis",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son proteasas reguladoras."
+  },
+  {
+    "codigo": "APO8-025",
+    "tema": "Cáncer",
+    "pregunta": "El cáncer puede relacionarse con:",
+    "respuestas": [
+      {
+        "texto": "Fallas en control del ciclo y apoptosis",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La proliferación se desregula."
+  },
+  {
+    "codigo": "APO8-026",
+    "tema": "Proliferación",
+    "pregunta": "La proliferación celular es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Aumento del número de células por división",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende del ciclo celular."
+  },
+  {
+    "codigo": "APO8-027",
+    "tema": "Diferenciación y ciclo",
+    "pregunta": "Una célula muy diferenciada puede:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Reducir o perder capacidad proliferativa",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La especialización puede limitar división."
+  },
+  {
+    "codigo": "APO8-028",
+    "tema": "Senescencia",
+    "pregunta": "La senescencia celular implica:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Arresto proliferativo estable",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Puede actuar como mecanismo protector."
+  },
+  {
+    "codigo": "APO8-029",
+    "tema": "Aneuploidía",
+    "pregunta": "La aneuploidía es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Número cromosómico anormal",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Puede originarse por errores de segregación."
+  },
+  {
+    "codigo": "APO8-030",
+    "tema": "Resultado mitótico",
+    "pregunta": "La mitosis normal produce:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Dos células genéticamente equivalentes",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Conserva dotación cromosómica."
+  }
+]

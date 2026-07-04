@@ -1,0 +1,360 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background:#edf2f7;
+    color:#222;
+}
+
+header{
+    background:#1565c0;
+    color:white;
+    padding:25px;
+    text-align:center;
+    box-shadow:0 3px 8px rgba(0,0,0,.15);
+}
+
+header h1{
+    margin-bottom:8px;
+}
+
+main{
+    max-width:1000px;
+    margin:30px auto;
+    padding:20px;
+}
+
+.pantalla{
+    display:none;
+}
+
+.pantalla.activa{
+    display:block;
+}
+
+h2{
+    margin-bottom:20px;
+}
+
+.contenedor-apos{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(160px,1fr));
+    gap:15px;
+    margin-bottom:30px;
+}
+
+button{
+    border:none;
+    cursor:pointer;
+    transition:.25s;
+    border-radius:10px;
+}
+
+.contenedor-apos button{
+
+    background:#1976d2;
+    color:white;
+    padding:18px;
+    font-size:17px;
+    font-weight:bold;
+}
+
+.contenedor-apos button:hover{
+    background:#125aa2;
+    transform:scale(1.03);
+}
+
+.btn-simulacro{
+    width:100%;
+    padding:18px;
+    font-size:18px;
+    background:#2e7d32;
+    color:white;
+    font-weight:bold;
+}
+
+.btn-simulacro:hover{
+    background:#1b5e20;
+}
+
+.barra-superior{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    margin-bottom:20px;
+
+    gap:10px;
+
+    flex-wrap:wrap;
+}
+
+.barra-superior button{
+
+    background:#1565c0;
+
+    color:white;
+
+    padding:10px 18px;
+}
+
+.tarjeta{
+
+    background:white;
+
+    border-radius:12px;
+
+    padding:30px;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.15);
+}
+
+#tema{
+
+    color:#1976d2;
+
+    font-weight:bold;
+
+    margin-bottom:15px;
+}
+
+#pregunta{
+
+    margin-bottom:25px;
+
+    line-height:1.5;
+}
+
+#opciones{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:15px;
+}
+
+#opciones button{
+
+    background:#eceff1;
+
+    color:#222;
+
+    text-align:left;
+
+    padding:18px;
+
+    font-size:16px;
+}
+
+#opciones button:hover{
+
+    background:#d6eaf8;
+}
+
+.correcta{
+
+    background:#4caf50 !important;
+
+    color:white !important;
+}
+
+.incorrecta{
+
+    background:#e53935 !important;
+
+    color:white !important;
+}
+
+#feedback{
+
+    margin-top:25px;
+
+    padding:20px;
+
+    border-left:6px solid #1565c0;
+
+    background:#f5f5f5;
+
+    border-radius:8px;
+
+    line-height:1.6;
+}
+
+#btn-siguiente{
+
+    margin-top:25px;
+
+    background:#1565c0;
+
+    color:white;
+
+    padding:15px 30px;
+
+    font-size:16px;
+}
+
+#btn-siguiente:hover{
+
+    background:#0d47a1;
+}
+
+.resultado{
+
+    text-align:center;
+}
+
+.resultado p{
+
+    font-size:24px;
+
+    margin:25px 0;
+}
+
+.resultado button{
+
+    background:#1565c0;
+
+    color:white;
+
+    padding:15px 35px;
+
+    font-size:18px;
+}
+
+.oculto{
+
+    display:none;
+}
+
+@media(max-width:700px){
+
+    .contenedor-apos{
+
+        grid-template-columns:repeat(2,1fr);
+    }
+
+    .barra-superior{
+
+        flex-direction:column;
+    }
+
+}
+.barra-progreso{
+    width:100%;
+    height:14px;
+    background:#cfd8dc;
+    border-radius:20px;
+    overflow:hidden;
+    margin-bottom:25px;
+}
+
+#progreso{
+    height:100%;
+    width:0%;
+    background:#1565c0;
+    transition:.3s;
+}
+
+.historial{
+    margin-top:35px;
+    background:white;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 4px 12px rgba(0,0,0,.12);
+}
+
+.historial h2{
+    margin-bottom:15px;
+}
+
+.item-historial{
+    padding:12px;
+    border-bottom:1px solid #ddd;
+    line-height:1.5;
+}
+
+.item-historial:last-child{
+    border-bottom:none;
+}
+
+.btn-borrar{
+    margin-top:20px;
+    background:#c62828;
+    color:white;
+    padding:12px 22px;
+    font-size:15px;
+}
+
+.btn-borrar:hover{
+    background:#8e0000;
+}
+.btn-modo{
+    margin-top:15px;
+    background:white;
+    color:#1565c0;
+    padding:10px 18px;
+    font-weight:bold;
+}
+
+body.modo-oscuro{
+    background:#121212;
+    color:#e0e0e0;
+}
+
+body.modo-oscuro header{
+    background:#0d47a1;
+}
+
+body.modo-oscuro .tarjeta,
+body.modo-oscuro .historial{
+    background:#1e1e1e;
+    color:#e0e0e0;
+}
+
+body.modo-oscuro #opciones button{
+    background:#2c2c2c;
+    color:#e0e0e0;
+}
+
+body.modo-oscuro #opciones button:hover{
+    background:#37474f;
+}
+
+body.modo-oscuro #feedback{
+    background:#263238;
+    color:#e0e0e0;
+}
+
+body.modo-oscuro .barra-progreso{
+    background:#37474f;
+}
+
+body.modo-oscuro .item-historial{
+    border-bottom:1px solid #444;
+}
+.revision-item{
+    text-align:left;
+    margin-top:18px;
+    padding:18px;
+    border-radius:10px;
+    background:#f5f5f5;
+    line-height:1.6;
+}
+
+.revision-item.correcta-revision{
+    border-left:6px solid #4caf50;
+}
+
+.revision-item.incorrecta-revision{
+    border-left:6px solid #e53935;
+}
+
+body.modo-oscuro .revision-item{
+    background:#263238;
+}

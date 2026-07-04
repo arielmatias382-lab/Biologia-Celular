@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO6-001",
+    "tema": "Núcleo",
+    "pregunta": "El núcleo contiene principalmente:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "ADN y maquinaria de expresión genética",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Almacena y regula la información genética."
+  },
+  {
+    "codigo": "APO6-002",
+    "tema": "Envoltura nuclear",
+    "pregunta": "La envoltura nuclear es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Doble membrana con poros",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Separa núcleo y citoplasma."
+  },
+  {
+    "codigo": "APO6-003",
+    "tema": "Poros nucleares",
+    "pregunta": "Los poros nucleares permiten:",
+    "respuestas": [
+      {
+        "texto": "Intercambio selectivo núcleo-citoplasma",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Regulan paso de ARN y proteínas."
+  },
+  {
+    "codigo": "APO6-004",
+    "tema": "Cromatina",
+    "pregunta": "La cromatina está formada por:",
+    "respuestas": [
+      {
+        "texto": "ADN asociado a proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite compactar y regular el genoma."
+  },
+  {
+    "codigo": "APO6-005",
+    "tema": "Histonas",
+    "pregunta": "Las histonas participan en:",
+    "respuestas": [
+      {
+        "texto": "Empaquetamiento del ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Forman nucleosomas."
+  },
+  {
+    "codigo": "APO6-006",
+    "tema": "Nucleosoma",
+    "pregunta": "El nucleosoma es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "ADN enrollado alrededor de histonas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Es unidad básica de compactación."
+  },
+  {
+    "codigo": "APO6-007",
+    "tema": "Eucromatina",
+    "pregunta": "La eucromatina suele ser:",
+    "respuestas": [
+      {
+        "texto": "Menos condensada y transcripcionalmente activa",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es más accesible a enzimas."
+  },
+  {
+    "codigo": "APO6-008",
+    "tema": "Heterocromatina",
+    "pregunta": "La heterocromatina suele ser:",
+    "respuestas": [
+      {
+        "texto": "Más condensada y menos activa",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Está menos disponible para transcripción."
+  },
+  {
+    "codigo": "APO6-009",
+    "tema": "Nucléolo",
+    "pregunta": "El nucléolo participa en:",
+    "respuestas": [
+      {
+        "texto": "Síntesis de ARNr y armado ribosomal",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Forma subunidades ribosomales."
+  },
+  {
+    "codigo": "APO6-010",
+    "tema": "Lámina nuclear",
+    "pregunta": "La lámina nuclear aporta:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Soporte y organización nuclear",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Está asociada a la membrana nuclear interna."
+  },
+  {
+    "codigo": "APO6-011",
+    "tema": "Cromosoma",
+    "pregunta": "Un cromosoma metafásico está:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Altamente condensado",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Facilita la segregación."
+  },
+  {
+    "codigo": "APO6-012",
+    "tema": "Cromátides hermanas",
+    "pregunta": "Las cromátides hermanas resultan de:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Replicación del ADN",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son copias unidas inicialmente."
+  },
+  {
+    "codigo": "APO6-013",
+    "tema": "Centrómero",
+    "pregunta": "El centrómero permite:",
+    "respuestas": [
+      {
+        "texto": "Unión de cromátides y formación del cinetocoro",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es clave para segregación."
+  },
+  {
+    "codigo": "APO6-014",
+    "tema": "Cinetocoro",
+    "pregunta": "El cinetocoro se une a:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Microtúbulos del huso",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Permite movimiento cromosómico."
+  },
+  {
+    "codigo": "APO6-015",
+    "tema": "Cariotipo",
+    "pregunta": "El cariotipo representa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Conjunto de cromosomas de una célula",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permite observar número y morfología."
+  },
+  {
+    "codigo": "APO6-016",
+    "tema": "Gen",
+    "pregunta": "Un gen es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Secuencia de ADN con información funcional",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede codificar ARN o proteínas."
+  },
+  {
+    "codigo": "APO6-017",
+    "tema": "Genoma",
+    "pregunta": "El genoma es:",
+    "respuestas": [
+      {
+        "texto": "Totalidad de la información genética",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluye todos los genes y regiones no codificantes."
+  },
+  {
+    "codigo": "APO6-018",
+    "tema": "Importación nuclear",
+    "pregunta": "La importación nuclear requiere:",
+    "respuestas": [
+      {
+        "texto": "Señales de localización nuclear",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Permiten reconocimiento por transporte nuclear."
+  },
+  {
+    "codigo": "APO6-019",
+    "tema": "Exportación nuclear",
+    "pregunta": "El ARNm maduro sale del núcleo por:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Poros nucleares",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Debe procesarse antes de exportarse."
+  },
+  {
+    "codigo": "APO6-020",
+    "tema": "ADN nuclear",
+    "pregunta": "El ADN nuclear se replica en:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Fase S",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Antes de la división celular."
+  },
+  {
+    "codigo": "APO6-021",
+    "tema": "Organización nuclear",
+    "pregunta": "El núcleo presenta:",
+    "respuestas": [
+      {
+        "texto": "Organización espacial del genoma",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "No es un compartimiento desordenado."
+  },
+  {
+    "codigo": "APO6-022",
+    "tema": "Matriz nuclear",
+    "pregunta": "La matriz nuclear se asocia con:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Organización interna y soporte",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ayuda a ordenar procesos nucleares."
+  },
+  {
+    "codigo": "APO6-023",
+    "tema": "Telómeros",
+    "pregunta": "Los telómeros se ubican en:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Extremos cromosómicos",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Protegen extremos del ADN."
+  },
+  {
+    "codigo": "APO6-024",
+    "tema": "Condensación",
+    "pregunta": "La condensación cromatínica aumenta durante:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Mitosis",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Facilita el reparto del ADN."
+  },
+  {
+    "codigo": "APO6-025",
+    "tema": "Transcripción nuclear",
+    "pregunta": "La transcripción ocurre principalmente en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Núcleo",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "En eucariotas el ARN se sintetiza allí."
+  },
+  {
+    "codigo": "APO6-026",
+    "tema": "ARNr",
+    "pregunta": "El ARNr se relaciona con:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Ribosomas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es componente estructural y funcional ribosomal."
+  },
+  {
+    "codigo": "APO6-027",
+    "tema": "Control nuclear",
+    "pregunta": "El núcleo regula la célula mediante:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Expresión diferencial de genes",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Controla proteínas que se producen."
+  },
+  {
+    "codigo": "APO6-028",
+    "tema": "Duplicación",
+    "pregunta": "Antes de dividirse, una célula debe:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Duplicar su ADN",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Así cada célula hija recibe información."
+  },
+  {
+    "codigo": "APO6-029",
+    "tema": "Ploidía",
+    "pregunta": "La diploidía implica:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Dos juegos de cromosomas",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Uno de cada progenitor en organismos sexuales."
+  },
+  {
+    "codigo": "APO6-030",
+    "tema": "Núcleo eucariota",
+    "pregunta": "Una diferencia con procariotas es:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "ADN separado del citoplasma por envoltura nuclear",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Las procariotas no tienen núcleo verdadero."
+  }
+]

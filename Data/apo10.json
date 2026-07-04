@@ -1,0 +1,722 @@
+[
+  {
+    "codigo": "APO10-001",
+    "tema": "Señalización",
+    "pregunta": "La comunicación celular permite:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Coordinar respuestas entre células",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es esencial en organismos multicelulares."
+  },
+  {
+    "codigo": "APO10-002",
+    "tema": "Ligando",
+    "pregunta": "Un ligando es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Molécula señal que se une a receptor",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Inicia una vía de señalización."
+  },
+  {
+    "codigo": "APO10-003",
+    "tema": "Receptor",
+    "pregunta": "Un receptor reconoce:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Señales específicas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La especificidad determina respuesta."
+  },
+  {
+    "codigo": "APO10-004",
+    "tema": "Célula blanco",
+    "pregunta": "La célula blanco es:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La que posee receptor para la señal",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Solo responde si puede reconocer el ligando."
+  },
+  {
+    "codigo": "APO10-005",
+    "tema": "Endocrina",
+    "pregunta": "La señalización endocrina actúa:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "A distancia por sangre",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Hormonas viajan a células lejanas."
+  },
+  {
+    "codigo": "APO10-006",
+    "tema": "Paracrina",
+    "pregunta": "La señalización paracrina actúa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Sobre células cercanas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La señal difunde localmente."
+  },
+  {
+    "codigo": "APO10-007",
+    "tema": "Autocrina",
+    "pregunta": "En señalización autocrina la célula:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Responde a su propia señal",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Emisor y blanco pueden coincidir."
+  },
+  {
+    "codigo": "APO10-008",
+    "tema": "Yuxtacrina",
+    "pregunta": "La señalización yuxtacrina requiere:",
+    "respuestas": [
+      {
+        "texto": "Contacto directo entre células",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Depende de moléculas de membrana."
+  },
+  {
+    "codigo": "APO10-009",
+    "tema": "Sináptica",
+    "pregunta": "La señalización sináptica usa:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Neurotransmisores en sinapsis",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Es rápida y localizada."
+  },
+  {
+    "codigo": "APO10-010",
+    "tema": "Receptores de membrana",
+    "pregunta": "Los receptores de membrana reciben:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Ligandos que no atraviesan fácilmente la bicapa",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Activan vías intracelulares."
+  },
+  {
+    "codigo": "APO10-011",
+    "tema": "Receptores intracelulares",
+    "pregunta": "Los receptores intracelulares suelen unirse a:",
+    "respuestas": [
+      {
+        "texto": "Ligandos liposolubles",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Pueden regular transcripción."
+  },
+  {
+    "codigo": "APO10-012",
+    "tema": "Transducción",
+    "pregunta": "La transducción es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Conversión de señal extracelular en respuesta intracelular",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Incluye cascadas moleculares."
+  },
+  {
+    "codigo": "APO10-013",
+    "tema": "Segundo mensajero",
+    "pregunta": "Un segundo mensajero:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Transmite y amplifica señales dentro de la célula",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Ejemplos: AMPc, Ca2+."
+  },
+  {
+    "codigo": "APO10-014",
+    "tema": "AMPc",
+    "pregunta": "El AMPc es:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Segundo mensajero",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Activa vías intracelulares."
+  },
+  {
+    "codigo": "APO10-015",
+    "tema": "Calcio",
+    "pregunta": "El Ca2+ intracelular puede funcionar como:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Segundo mensajero",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Cambios de Ca2+ regulan proteínas."
+  },
+  {
+    "codigo": "APO10-016",
+    "tema": "Fosforilación",
+    "pregunta": "La fosforilación consiste en:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Agregar grupos fosfato a proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Modifica actividad proteica."
+  },
+  {
+    "codigo": "APO10-017",
+    "tema": "Quinasas",
+    "pregunta": "Las quinasas:",
+    "respuestas": [
+      {
+        "texto": "Fosforilan proteínas",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Activan o inhiben componentes de vías."
+  },
+  {
+    "codigo": "APO10-018",
+    "tema": "Fosfatasas",
+    "pregunta": "Las fosfatasas:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Remueven grupos fosfato",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Revierten señales por desfosforilación."
+  },
+  {
+    "codigo": "APO10-019",
+    "tema": "Amplificación",
+    "pregunta": "La amplificación permite:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Que una señal inicial genere respuesta aumentada",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Una molécula activa muchas otras."
+  },
+  {
+    "codigo": "APO10-020",
+    "tema": "Especificidad",
+    "pregunta": "La especificidad depende de:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Receptor y vía intracelular",
+        "correcta": true
+      }
+    ],
+    "explicacion": "Una misma señal puede dar respuestas distintas."
+  },
+  {
+    "codigo": "APO10-021",
+    "tema": "Respuesta génica",
+    "pregunta": "Una señal puede modificar:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Expresión génica",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Algunas vías llegan al núcleo."
+  },
+  {
+    "codigo": "APO10-022",
+    "tema": "Respuesta metabólica",
+    "pregunta": "Una señal puede cambiar:",
+    "respuestas": [
+      {
+        "texto": "Actividad metabólica",
+        "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Regula enzimas y rutas."
+  },
+  {
+    "codigo": "APO10-023",
+    "tema": "Desensibilización",
+    "pregunta": "La desensibilización implica:",
+    "respuestas": [
+      {
+        "texto": "Disminución de respuesta ante estímulo persistente",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Evita sobreactivación."
+  },
+  {
+    "codigo": "APO10-024",
+    "tema": "Hormonas esteroideas",
+    "pregunta": "Las hormonas esteroideas suelen:",
+    "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Atravesar membrana y unirse a receptores internos",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Son liposolubles."
+  },
+  {
+    "codigo": "APO10-025",
+    "tema": "Hormonas peptídicas",
+    "pregunta": "Las hormonas peptídicas suelen actuar en:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Receptores de membrana",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      }
+    ],
+    "explicacion": "No cruzan fácilmente la bicapa."
+  },
+  {
+    "codigo": "APO10-026",
+    "tema": "Vías de señalización",
+    "pregunta": "Una vía de señalización incluye:",
+    "respuestas": [
+      {
+        "texto": "Receptor, transductores y efectores",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Organiza la respuesta celular."
+  },
+  {
+    "codigo": "APO10-027",
+    "tema": "Efector",
+    "pregunta": "Un efector celular es:",
+    "respuestas": [
+      {
+        "texto": "Componente que ejecuta la respuesta",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Puede ser enzima, canal o gen regulado."
+  },
+  {
+    "codigo": "APO10-028",
+    "tema": "Comunicación y desarrollo",
+    "pregunta": "La comunicación celular guía:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Diferenciación e inducción embrionaria",
+        "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Las señales orientan destinos celulares."
+  },
+  {
+    "codigo": "APO10-029",
+    "tema": "Apoptosis inducida",
+    "pregunta": "Algunas señales pueden activar:",
+    "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      },
+      {
+        "texto": "Apoptosis",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      }
+    ],
+    "explicacion": "La comunicación regula supervivencia."
+  },
+  {
+    "codigo": "APO10-030",
+    "tema": "Homeostasis tisular",
+    "pregunta": "La señalización contribuye a:",
+    "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito",
+        "correcta": false
+      },
+      {
+        "texto": "Mantener equilibrio funcional de tejidos",
+        "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad",
+        "correcta": false
+      }
+    ],
+    "explicacion": "Coordina proliferación, muerte y diferenciación."
+  }
+]

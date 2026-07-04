@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biología Celular y Desarrollo</title>
+
+  <link rel="stylesheet" href="css/estilos.css">
+  <link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1565c0">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+
+<link rel="manifest" href="manifest.json">
+
+<meta name="theme-color" content="#1565c0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+</head>
+<script>
+
+if ('serviceWorker' in navigator) {
+
+    navigator.serviceWorker.register('service-worker.js')
+        .then(() => console.log("Service Worker registrado"))
+        .catch(err => console.log(err));
+
+}
+
+</script>
+<body>
+
+  <header>
+    <h1>Biología Celular y Desarrollo</h1>
+    <p>Plataforma de práctica por APO</p>
+    <button class="btn-modo" onclick="alternarModoOscuro()">
+  🌙 Modo oscuro
+</button>
+  </header>
+
+  <main>
+
+    <section id="menu-principal" class="pantalla activa">
+      <h2>Seleccionar APO</h2>
+
+      <div class="contenedor-apos">
+        <button onclick="iniciarAPO(1)">APO 1</button>
+        <button onclick="iniciarAPO(2)">APO 2</button>
+        <button onclick="iniciarAPO(3)">APO 3</button>
+        <button onclick="iniciarAPO(4)">APO 4</button>
+        <button onclick="iniciarAPO(5)">APO 5</button>
+        <button onclick="iniciarAPO(6)">APO 6</button>
+        <button onclick="iniciarAPO(7)">APO 7</button>
+        <button onclick="iniciarAPO(8)">APO 8</button>
+        <button onclick="iniciarAPO(9)">APO 9</button>
+        <button onclick="iniciarAPO(10)">APO 10</button>
+        <button onclick="iniciarAPO(11)">APO 11</button>
+        <button onclick="iniciarAPO(12)">APO 12</button>
+      </div>
+
+      <button class="btn-simulacro" onclick="iniciarSimulacro()">
+        Simulacro integrador
+      </button>
+      <div class="historial">
+  <h2>Historial de resultados</h2>
+  <div id="historial-resultados"></div>
+
+  <button class="btn-borrar" onclick="borrarHistorial()">
+    Borrar historial
+  </button>
+</div>
+    </section>
+
+    <section id="pantalla-quiz" class="pantalla">
+      <div class="barra-superior">
+        <button onclick="volverMenu()">← Volver</button>
+        <span id="contador-pregunta">Pregunta 1/30</span>
+        <span id="puntaje">Puntaje: 0</span>
+      </div>
+      <div class="barra-progreso">
+  <div id="progreso"></div>
+</div>
+
+      <div class="tarjeta">
+        <p id="tema"></p>
+        <h2 id="pregunta"></h2>
+
+        <div id="opciones"></div>
+
+        <div id="feedback" class="oculto"></div>
+
+        <button id="btn-siguiente" class="oculto" onclick="siguientePregunta()">
+          Siguiente
+        </button>
+      </div>
+    </section>
+
+    <section id="pantalla-resultado" class="pantalla">
+      <div class="tarjeta resultado">
+        <h2>Resultado final</h2>
+        <p id="resultado-final"></p>
+        <div id="revision-respuestas"></div>
+
+        <button onclick="volverMenu()">Volver al menú</button>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
