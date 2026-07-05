@@ -4,7 +4,6 @@ let puntaje = 0;
 let modoSimulacro = false;
 let nombreEvaluacion = "";
 let respuestasUsuario = [];
-
 const menuPrincipal = document.getElementById("menu-principal");
 const pantallaQuiz = document.getElementById("pantalla-quiz");
 const pantallaResultado = document.getElementById("pantalla-resultado");
@@ -106,6 +105,17 @@ function mostrarPregunta() {
     contadorPregunta.textContent = `Pregunta ${preguntaActual + 1}/${preguntas.length}`;
     temaTexto.textContent = pregunta.tema;
     preguntaTexto.textContent = pregunta.pregunta;
+    const imagenPregunta = document.getElementById("imagenPregunta");
+
+    if (imagenPregunta && pregunta.imagen) {
+        imagenPregunta.src = "data/" + pregunta.imagen;
+        imagenPregunta.alt = pregunta.imagen_alt || "Imagen de la pregunta";
+        imagenPregunta.style.display = "block";
+    } else if (imagenPregunta) {
+        imagenPregunta.src = "";
+        imagenPregunta.alt = "";
+        imagenPregunta.style.display = "none";
+    }
 
     opcionesDiv.innerHTML = "";
     feedbackDiv.classList.add("oculto");
@@ -125,6 +135,7 @@ function mostrarPregunta() {
         opcionesDiv.appendChild(boton);
     });
 }
+
 
 function seleccionarRespuesta(indiceSeleccionado) {
     const pregunta = preguntas[preguntaActual];

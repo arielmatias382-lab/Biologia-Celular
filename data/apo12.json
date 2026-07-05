@@ -2,466 +2,504 @@
   {
     "codigo": "APO12-001",
     "tema": "Gametogénesis",
-    "pregunta": "La gametogénesis produce:",
+    "pregunta": "Seleccione la opción más precisa. La gametogénesis produce:",
     "respuestas": [
       {
         "texto": "Gametas haploides",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Se basa en meiosis y maduración."
+    "explicacion": "Se basa en meiosis y maduración. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/gametogenesis_comparativa.png",
+    "imagen_alt": "Imagen de apoyo: gametogenesis comparativa"
   },
   {
     "codigo": "APO12-002",
     "tema": "Meiosis gamética",
-    "pregunta": "La meiosis en gametogénesis permite:",
+    "pregunta": "Seleccione la opción más precisa. La meiosis en gametogénesis permite:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque también produce división celular, pero no reduce la dotación cromosómica",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque separa cromátides pero no explica la variabilidad principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir recombinación con duplicación del ADN",
         "correcta": false
       },
       {
         "texto": "Reducir la dotación cromosómica",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Forma células haploides."
+    "explicacion": "Forma células haploides. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/gametogenesis_comparativa.png",
+    "imagen_alt": "Imagen de apoyo: gametogenesis comparativa"
   },
   {
     "codigo": "APO12-003",
     "tema": "Espermatogénesis",
-    "pregunta": "La espermatogénesis produce:",
+    "pregunta": "Seleccione la opción más precisa. La espermatogénesis produce:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Espermatozoides",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Ocurre en testículos."
+    "explicacion": "Ocurre en testículos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatogenesis.png",
+    "imagen_alt": "Imagen de apoyo: espermatogenesis"
   },
   {
     "codigo": "APO12-004",
     "tema": "Ovogénesis",
-    "pregunta": "La ovogénesis produce:",
+    "pregunta": "Seleccione la opción más precisa. La ovogénesis produce:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Ovocitos",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Ocurre en ovarios."
+    "explicacion": "Ocurre en ovarios. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/ovogenesis.png",
+    "imagen_alt": "Imagen de apoyo: ovogenesis"
   },
   {
     "codigo": "APO12-005",
     "tema": "Espermatogonia",
-    "pregunta": "Las espermatogonias son:",
+    "pregunta": "Seleccione la opción más precisa. Las espermatogonias son:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Células germinales masculinas precursoras",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Dan origen a espermatocitos."
+    "explicacion": "Dan origen a espermatocitos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatogenesis.png",
+    "imagen_alt": "Imagen de apoyo: espermatogenesis"
   },
   {
     "codigo": "APO12-006",
     "tema": "Oogonia",
-    "pregunta": "Las ovogonias son:",
+    "pregunta": "Seleccione la opción más precisa. Las ovogonias son:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Células germinales femeninas precursoras",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Originan ovocitos."
+    "explicacion": "Originan ovocitos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/ovogenesis.png",
+    "imagen_alt": "Imagen de apoyo: ovogenesis"
   },
   {
     "codigo": "APO12-007",
     "tema": "Espermatocito primario",
-    "pregunta": "El espermatocito primario entra en:",
+    "pregunta": "Seleccione la opción más precisa. El espermatocito primario entra en:",
     "respuestas": [
       {
         "texto": "Meiosis I",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Es diploide antes de división reduccional."
+    "explicacion": "Es diploide antes de división reduccional. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatogenesis.png",
+    "imagen_alt": "Imagen de apoyo: espermatogenesis"
   },
   {
     "codigo": "APO12-008",
     "tema": "Espermatocito secundario",
-    "pregunta": "El espermatocito secundario resulta de:",
+    "pregunta": "Seleccione la opción más precisa. El espermatocito secundario resulta de:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Meiosis I",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Luego completa meiosis II."
+    "explicacion": "Luego completa meiosis II. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatogenesis.png",
+    "imagen_alt": "Imagen de apoyo: espermatogenesis"
   },
   {
     "codigo": "APO12-009",
     "tema": "Espermátide",
-    "pregunta": "La espermátide se diferencia en:",
+    "pregunta": "Seleccione la opción más precisa. La espermátide se diferencia en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Espermatozoide",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Mediante espermiogénesis."
+    "explicacion": "Mediante espermiogénesis. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatogenesis.png",
+    "imagen_alt": "Imagen de apoyo: espermatogenesis"
   },
   {
     "codigo": "APO12-010",
     "tema": "Espermiogénesis",
-    "pregunta": "La espermiogénesis implica:",
+    "pregunta": "Seleccione la opción más precisa. La espermiogénesis implica:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Transformación de espermátides en espermatozoides",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Incluye formación de acrosoma y flagelo."
+    "explicacion": "Incluye formación de acrosoma y flagelo. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatogenesis.png",
+    "imagen_alt": "Imagen de apoyo: espermatogenesis"
   },
   {
     "codigo": "APO12-011",
     "tema": "Acrosoma",
-    "pregunta": "El acrosoma contiene:",
+    "pregunta": "Seleccione la opción más precisa. El acrosoma contiene:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Enzimas para atravesar cubiertas ovocitarias",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Deriva del aparato de Golgi."
+    "explicacion": "Deriva del aparato de Golgi. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatozoide_partes.png",
+    "imagen_alt": "Imagen de apoyo: espermatozoide partes"
   },
   {
     "codigo": "APO12-012",
     "tema": "Flagelo",
-    "pregunta": "El flagelo espermático permite:",
+    "pregunta": "Seleccione la opción más precisa. El flagelo espermático permite:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Movilidad",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Impulsa al espermatozoide."
+    "explicacion": "Impulsa al espermatozoide. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatozoide_partes.png",
+    "imagen_alt": "Imagen de apoyo: espermatozoide partes"
   },
   {
     "codigo": "APO12-013",
     "tema": "Pieza media",
-    "pregunta": "La pieza media del espermatozoide contiene:",
+    "pregunta": "Seleccione la opción más precisa. La pieza media del espermatozoide contiene:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Mitocondrias",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Aportan energía para movimiento."
+    "explicacion": "Aportan energía para movimiento. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/espermatozoide_partes.png",
+    "imagen_alt": "Imagen de apoyo: espermatozoide partes"
   },
   {
     "codigo": "APO12-014",
     "tema": "Ovocito primario",
-    "pregunta": "El ovocito primario queda detenido en:",
+    "pregunta": "Seleccione la opción más precisa. El ovocito primario queda detenido en:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Profase I",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Completa meiosis luego bajo estímulos."
+    "explicacion": "Completa meiosis luego bajo estímulos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/ovogenesis.png",
+    "imagen_alt": "Imagen de apoyo: ovogenesis"
   },
   {
     "codigo": "APO12-015",
     "tema": "Ovocito secundario",
-    "pregunta": "El ovocito secundario suele detenerse en:",
+    "pregunta": "Seleccione la opción más precisa. El ovocito secundario suele detenerse en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Metafase II",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Finaliza meiosis si ocurre fecundación."
+    "explicacion": "Finaliza meiosis si ocurre fecundación. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/ovogenesis.png",
+    "imagen_alt": "Imagen de apoyo: ovogenesis"
   },
   {
     "codigo": "APO12-016",
     "tema": "Cuerpos polares",
-    "pregunta": "Los cuerpos polares permiten:",
+    "pregunta": "Seleccione la opción más precisa. Los cuerpos polares permiten:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Eliminar cromosomas con poco citoplasma",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Conservan citoplasma en el ovocito."
+    "explicacion": "Conservan citoplasma en el ovocito. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/ovogenesis.png",
+    "imagen_alt": "Imagen de apoyo: ovogenesis"
   },
   {
     "codigo": "APO12-017",
     "tema": "Folículo ovárico",
-    "pregunta": "El folículo ovárico contiene:",
+    "pregunta": "Seleccione la opción más precisa. El folículo ovárico contiene:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Ovocito y células foliculares",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Acompaña maduración ovocitaria."
+    "explicacion": "Acompaña maduración ovocitaria. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/zona_pelucida_corona.png",
+    "imagen_alt": "Imagen de apoyo: zona pelucida corona"
   },
   {
     "codigo": "APO12-018",
     "tema": "Ovulación",
-    "pregunta": "La ovulación libera:",
+    "pregunta": "Seleccione la opción más precisa. La ovulación libera:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Ovocito secundario",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Es parte del ciclo reproductivo."
+    "explicacion": "Es parte del ciclo reproductivo. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/ovogenesis.png",
+    "imagen_alt": "Imagen de apoyo: ovogenesis"
   },
   {
     "codigo": "APO12-019",
     "tema": "Capacitación",
-    "pregunta": "La capacitación espermática es:",
+    "pregunta": "Seleccione la opción más precisa. La capacitación espermática es:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Maduración funcional en vías femeninas",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Permite capacidad fecundante."
+    "explicacion": "Permite capacidad fecundante. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   },
   {
     "codigo": "APO12-020",
     "tema": "Reacción acrosómica",
-    "pregunta": "La reacción acrosómica ayuda a:",
+    "pregunta": "Seleccione la opción más precisa. La reacción acrosómica ayuda a:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -469,51 +507,55 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Libera enzimas acrosomales."
+    "explicacion": "Libera enzimas acrosomales. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/reaccion_acrosomica.png",
+    "imagen_alt": "Imagen de apoyo: reaccion acrosomica"
   },
   {
     "codigo": "APO12-021",
     "tema": "Zona pelúcida",
-    "pregunta": "La zona pelúcida rodea:",
+    "pregunta": "Seleccione la opción más precisa. La zona pelúcida rodea:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Ovocito",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Participa en reconocimiento y bloqueo de polispermia."
+    "explicacion": "Participa en reconocimiento y bloqueo de polispermia. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/zona_pelucida_corona.png",
+    "imagen_alt": "Imagen de apoyo: zona pelucida corona"
   },
   {
     "codigo": "APO12-022",
     "tema": "Corona radiada",
-    "pregunta": "La corona radiada está formada por:",
+    "pregunta": "Seleccione la opción más precisa. La corona radiada está formada por:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -521,95 +563,103 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Acompaña al ovocito ovulado."
+    "explicacion": "Acompaña al ovocito ovulado. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/zona_pelucida_corona.png",
+    "imagen_alt": "Imagen de apoyo: zona pelucida corona"
   },
   {
     "codigo": "APO12-023",
     "tema": "Fecundación",
-    "pregunta": "La fecundación une:",
+    "pregunta": "Seleccione la opción más precisa. La fecundación une:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir reconocimiento gamético con implantación",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque participa en el desarrollo temprano pero ocurre después de la unión gamética",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque involucra gametos pero no completa la restauración diploide",
         "correcta": false
       },
       {
         "texto": "Gameta masculina y femenina",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Forma la cigota."
+    "explicacion": "Forma la cigota. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   },
   {
     "codigo": "APO12-024",
     "tema": "Anfimixis",
-    "pregunta": "La anfimixis es:",
+    "pregunta": "Seleccione la opción más precisa. La anfimixis es:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Unión de pronúcleos o material genético parental",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Restablece diploidía."
+    "explicacion": "Restablece diploidía. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   },
   {
     "codigo": "APO12-025",
     "tema": "Bloqueo polispermia",
-    "pregunta": "El bloqueo de polispermia evita:",
+    "pregunta": "Seleccione la opción más precisa. El bloqueo de polispermia evita:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Entrada de más de un espermatozoide",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Previene dotación cromosómica anormal."
+    "explicacion": "Previene dotación cromosómica anormal. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   },
   {
     "codigo": "APO12-026",
     "tema": "Activación ovocitaria",
-    "pregunta": "La fecundación activa:",
+    "pregunta": "Seleccione la opción más precisa. La fecundación activa:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -617,43 +667,47 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "El ovocito inicia programa embrionario."
+    "explicacion": "El ovocito inicia programa embrionario. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   },
   {
     "codigo": "APO12-027",
     "tema": "Pronúcleo",
-    "pregunta": "El pronúcleo contiene:",
+    "pregunta": "Seleccione la opción más precisa. El pronúcleo contiene:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Material genético de cada gameta",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Luego se integra en la cigota."
+    "explicacion": "Luego se integra en la cigota. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   },
   {
     "codigo": "APO12-028",
     "tema": "Haploidía",
-    "pregunta": "Las gametas son haploides para:",
+    "pregunta": "Seleccione la opción más precisa. Las gametas son haploides para:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -661,62 +715,68 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Evita duplicación cromosómica progresiva."
+    "explicacion": "Evita duplicación cromosómica progresiva. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/gametogenesis_comparativa.png",
+    "imagen_alt": "Imagen de apoyo: gametogenesis comparativa"
   },
   {
     "codigo": "APO12-029",
     "tema": "Variabilidad",
-    "pregunta": "La reproducción sexual genera variabilidad por:",
+    "pregunta": "Seleccione la opción más precisa. La reproducción sexual genera variabilidad por:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Meiosis y combinación de gametas",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Crea nuevas combinaciones genéticas."
+    "explicacion": "Crea nuevas combinaciones genéticas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/gametogenesis_comparativa.png",
+    "imagen_alt": "Imagen de apoyo: gametogenesis comparativa"
   },
   {
     "codigo": "APO12-030",
     "tema": "Cigota",
-    "pregunta": "La cigota resultante es:",
+    "pregunta": "Seleccione la opción más precisa. La cigota resultante es:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Diploide",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Recibe un juego cromosómico de cada gameta."
+    "explicacion": "Recibe un juego cromosómico de cada gameta. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo12/fecundacion.png",
+    "imagen_alt": "Imagen de apoyo: fecundacion"
   }
 ]

@@ -2,138 +2,148 @@
   {
     "codigo": "APO3-001",
     "tema": "Modelo de mosaico fluido",
-    "pregunta": "La membrana se describe como:",
+    "pregunta": "Seleccione la opción más precisa. La membrana se describe como:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Bicapa lipídica dinámica con proteínas asociadas",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "La membrana no es rígida; sus componentes se organizan de manera fluida."
+    "explicacion": "La membrana no es rígida; sus componentes se organizan de manera fluida. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/modelo_mosaico_fluido.png",
+    "imagen_alt": "Imagen de apoyo: modelo mosaico fluido"
   },
   {
     "codigo": "APO3-002",
     "tema": "Permeabilidad selectiva",
-    "pregunta": "La membrana plasmática permite:",
+    "pregunta": "Seleccione la opción más precisa. La membrana plasmática permite:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Regular qué sustancias entran y salen",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "La composición de la bicapa y transportadores regula el intercambio."
+    "explicacion": "La composición de la bicapa y transportadores regula el intercambio. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/modelo_mosaico_fluido.png",
+    "imagen_alt": "Bicapa lipídica con proteínas integrales, periféricas, colesterol y glucocálix."
   },
   {
     "codigo": "APO3-003",
     "tema": "Difusión simple",
-    "pregunta": "La difusión simple ocurre:",
+    "pregunta": "Seleccione la opción más precisa. La difusión simple ocurre:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque no requiere ATP, aunque sí puede confundirse con transporte mediado",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque depende del gradiente aunque involucre proteínas específicas",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al interpretar cualquier pasaje a favor de gradiente como simple",
         "correcta": false
       },
       {
         "texto": "A favor de gradiente y sin transportador",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Moléculas pequeñas no polares pueden cruzar la bicapa."
+    "explicacion": "Moléculas pequeñas no polares pueden cruzar la bicapa. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/difusion_simple.png",
+    "imagen_alt": "Imagen de apoyo: difusion simple"
   },
   {
     "codigo": "APO3-004",
     "tema": "Difusión facilitada",
-    "pregunta": "La difusión facilitada requiere:",
+    "pregunta": "Seleccione la opción más precisa. La difusión facilitada requiere:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al atribuir a cualquier proteína de membrana un gasto directo de ATP",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque ocurre a favor de gradiente y puede confundirse con difusión simple",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque usa proteínas aunque no siempre cambia la concentración final",
         "correcta": false
       },
       {
         "texto": "Proteínas de membrana y gradiente favorable",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Canales o transportadores facilitan el paso sin gasto directo de ATP."
+    "explicacion": "Canales o transportadores facilitan el paso sin gasto directo de ATP. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/difusion_facilitada.png",
+    "imagen_alt": "Imagen de apoyo: difusion facilitada"
   },
   {
     "codigo": "APO3-005",
     "tema": "Ósmosis",
-    "pregunta": "La ósmosis es:",
+    "pregunta": "Seleccione la opción más precisa. La ósmosis es:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Movimiento de agua a través de membrana semipermeable",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "El agua se mueve según diferencias osmóticas."
+    "explicacion": "El agua se mueve según diferencias osmóticas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/osmosis_tonicidad.png",
+    "imagen_alt": "Imagen de apoyo: osmosis tonicidad"
   },
   {
     "codigo": "APO3-006",
     "tema": "Transporte activo",
-    "pregunta": "El transporte activo se caracteriza por:",
+    "pregunta": "Seleccione la opción más precisa. El transporte activo se caracteriza por:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -141,39 +151,43 @@
         "correcta": true
       }
     ],
-    "explicacion": "Requiere energía directa o indirecta."
+    "explicacion": "Requiere energía directa o indirecta. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/bomba_sodio_potasio.png",
+    "imagen_alt": "Bomba Na+/K+ ATPasa: sale Na+, entra K+ y se consume ATP."
   },
   {
     "codigo": "APO3-007",
     "tema": "Bomba Na+/K+",
-    "pregunta": "La bomba Na+/K+ es ejemplo de:",
+    "pregunta": "Seleccione la opción más precisa. La bomba Na+/K+ es ejemplo de:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque modifica gradientes iónicos pero no siempre por transporte activo primario",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque involucra sodio y potasio pero en sentido inverso",
+        "correcta": false
+      },
       {
         "texto": "Transporte activo primario",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir cotransporte con hidrólisis directa de ATP",
         "correcta": false
       }
     ],
-    "explicacion": "Usa ATP para mantener gradientes iónicos."
+    "explicacion": "Usa ATP para mantener gradientes iónicos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/bomba_sodio_potasio.png",
+    "imagen_alt": "Imagen de apoyo: bomba sodio potasio"
   },
   {
     "codigo": "APO3-008",
     "tema": "Cotransporte",
-    "pregunta": "El transporte activo secundario usa:",
+    "pregunta": "Seleccione la opción más precisa. El transporte activo secundario usa:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -181,71 +195,75 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "El movimiento de un soluto impulsa el de otro."
+    "explicacion": "El movimiento de un soluto impulsa el de otro. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-009",
     "tema": "Endocitosis",
-    "pregunta": "La endocitosis permite:",
+    "pregunta": "Seleccione la opción más precisa. La endocitosis permite:",
     "respuestas": [
       {
         "texto": "Incorporar material en vesículas",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "La membrana se invagina y forma vesículas."
+    "explicacion": "La membrana se invagina y forma vesículas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/endocitosis_tipos.png",
+    "imagen_alt": "Imagen de apoyo: endocitosis tipos"
   },
   {
     "codigo": "APO3-010",
     "tema": "Exocitosis",
-    "pregunta": "La exocitosis permite:",
+    "pregunta": "Seleccione la opción más precisa. La exocitosis permite:",
     "respuestas": [
       {
         "texto": "Liberar sustancias al exterior celular",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Vesículas se fusionan con la membrana plasmática."
+    "explicacion": "Vesículas se fusionan con la membrana plasmática. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/exocitosis_secrecion.png",
+    "imagen_alt": "Imagen de apoyo: exocitosis secrecion"
   },
   {
     "codigo": "APO3-011",
     "tema": "Fagocitosis",
-    "pregunta": "La fagocitosis incorpora:",
+    "pregunta": "Seleccione la opción más precisa. La fagocitosis incorpora:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -253,99 +271,99 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Es una forma de endocitosis especializada."
+    "explicacion": "Es una forma de endocitosis especializada. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-012",
     "tema": "Pinocitosis",
-    "pregunta": "La pinocitosis incorpora:",
+    "pregunta": "Seleccione la opción más precisa. La pinocitosis incorpora:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Líquidos y solutos disueltos",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Permite captar pequeñas cantidades de fluido extracelular."
+    "explicacion": "Permite captar pequeñas cantidades de fluido extracelular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-013",
     "tema": "Receptor-mediada",
-    "pregunta": "La endocitosis mediada por receptor es:",
+    "pregunta": "Seleccione la opción más precisa. La endocitosis mediada por receptor es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Selectiva para ligandos específicos",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Depende de receptores de membrana."
+    "explicacion": "Depende de receptores de membrana. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/endocitosis_tipos.png",
+    "imagen_alt": "Imagen de apoyo: endocitosis tipos"
   },
   {
     "codigo": "APO3-014",
     "tema": "Glucocálix",
-    "pregunta": "El glucocálix participa en:",
+    "pregunta": "Seleccione la opción más precisa. El glucocálix participa en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Reconocimiento y protección celular",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Los carbohidratos de superficie median interacciones."
+    "explicacion": "Los carbohidratos de superficie median interacciones. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/glucocalix_membrana.png",
+    "imagen_alt": "Imagen de apoyo: glucocalix membrana"
   },
   {
     "codigo": "APO3-015",
     "tema": "Proteínas canal",
-    "pregunta": "Los canales permiten:",
+    "pregunta": "Seleccione la opción más precisa. Los canales permiten:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -353,91 +371,101 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Funcionan como poros regulados o selectivos."
+    "explicacion": "Funcionan como poros regulados o selectivos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-016",
     "tema": "Proteínas transportadoras",
-    "pregunta": "Los carriers se caracterizan por:",
+    "pregunta": "Seleccione la opción más precisa. Los carriers se caracterizan por:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Cambiar de conformación al transportar solutos",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "No forman simplemente un poro abierto."
+    "explicacion": "No forman simplemente un poro abierto. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-017",
     "tema": "Gradiente electroquímico",
-    "pregunta": "Un gradiente electroquímico combina:",
+    "pregunta": "Seleccione la opción más precisa. Un gradiente electroquímico combina:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Concentración y carga eléctrica",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Es relevante para iones."
+    "explicacion": "Es relevante para iones. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-018",
     "tema": "Solución hipertónica",
-    "pregunta": "En medio hipertónico, una célula animal tiende a:",
+    "pregunta": "Seleccione la opción más precisa. En medio hipertónico, una célula animal tiende a:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Perder agua",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "El agua sale hacia el medio con mayor concentración de solutos."
+    "explicacion": "El agua sale hacia el medio con mayor concentración de solutos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/osmosis_tonicidad.png",
+    "imagen_alt": "Imagen de apoyo: osmosis tonicidad"
   },
   {
     "codigo": "APO3-019",
     "tema": "Solución hipotónica",
-    "pregunta": "En medio hipotónico, una célula animal tiende a:",
+    "pregunta": "Seleccione la opción más precisa. En medio hipotónico, una célula animal tiende a:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -445,75 +473,77 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "El agua entra si afuera hay menor concentración de solutos."
+    "explicacion": "El agua entra si afuera hay menor concentración de solutos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/osmosis_tonicidad.png",
+    "imagen_alt": "Imagen de apoyo: osmosis tonicidad"
   },
   {
     "codigo": "APO3-020",
     "tema": "Solución isotónica",
-    "pregunta": "En medio isotónico:",
+    "pregunta": "Seleccione la opción más precisa. En medio isotónico:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "No hay flujo neto de agua",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Las concentraciones efectivas están equilibradas."
+    "explicacion": "Las concentraciones efectivas están equilibradas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/osmosis_tonicidad.png",
+    "imagen_alt": "Imagen de apoyo: osmosis tonicidad"
   },
   {
     "codigo": "APO3-021",
     "tema": "Bicapa lipídica",
-    "pregunta": "La bicapa se forma por:",
+    "pregunta": "Seleccione la opción más precisa. La bicapa se forma por:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Carácter anfipático de los fosfolípidos",
         "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Las colas hidrofóbicas quedan hacia el interior."
+    "explicacion": "Las colas hidrofóbicas quedan hacia el interior. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/modelo_mosaico_fluido.png",
+    "imagen_alt": "Imagen de apoyo: modelo mosaico fluido"
   },
   {
     "codigo": "APO3-022",
     "tema": "Fluidez",
-    "pregunta": "La fluidez de membrana depende de:",
+    "pregunta": "Seleccione la opción más precisa. La fluidez de membrana depende de:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -521,143 +551,145 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Estos factores modifican movilidad y estabilidad."
+    "explicacion": "Estos factores modifican movilidad y estabilidad. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-023",
     "tema": "Asimetría",
-    "pregunta": "La asimetría de membrana implica:",
+    "pregunta": "Seleccione la opción más precisa. La asimetría de membrana implica:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Distribución diferente de lípidos y proteínas en ambas caras",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Cada cara tiene composición y función particulares."
+    "explicacion": "Cada cara tiene composición y función particulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-024",
     "tema": "Potencial de membrana",
-    "pregunta": "El potencial de membrana depende de:",
+    "pregunta": "Seleccione la opción más precisa. El potencial de membrana depende de:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Distribución desigual de iones",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Los gradientes iónicos generan diferencia eléctrica."
+    "explicacion": "Los gradientes iónicos generan diferencia eléctrica. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO3-025",
     "tema": "Acuaporinas",
-    "pregunta": "Las acuaporinas facilitan:",
+    "pregunta": "Seleccione la opción más precisa. Las acuaporinas facilitan:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Paso de agua",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Son canales especializados para agua."
+    "explicacion": "Son canales especializados para agua. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/osmosis_tonicidad.png",
+    "imagen_alt": "Imagen de apoyo: osmosis tonicidad"
   },
   {
     "codigo": "APO3-026",
     "tema": "Transporte vesicular",
-    "pregunta": "El transporte vesicular requiere:",
+    "pregunta": "Seleccione la opción más precisa. El transporte vesicular requiere:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Formación y fusión de vesículas",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Permite mover material que no cruza directamente la bicapa."
+    "explicacion": "Permite mover material que no cruza directamente la bicapa. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/endocitosis_tipos.png",
+    "imagen_alt": "Imagen de apoyo: endocitosis tipos"
   },
   {
     "codigo": "APO3-027",
     "tema": "Secreción constitutiva",
-    "pregunta": "La secreción constitutiva ocurre:",
+    "pregunta": "Seleccione la opción más precisa. La secreción constitutiva ocurre:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "De manera continua",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Renueva membrana y libera productos sin señal específica."
+    "explicacion": "Renueva membrana y libera productos sin señal específica. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/exocitosis_secrecion.png",
+    "imagen_alt": "Imagen de apoyo: exocitosis secrecion"
   },
   {
     "codigo": "APO3-028",
     "tema": "Secreción regulada",
-    "pregunta": "La secreción regulada requiere:",
+    "pregunta": "Seleccione la opción más precisa. La secreción regulada requiere:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -665,58 +697,66 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Es típica de células secretoras especializadas."
+    "explicacion": "Es típica de células secretoras especializadas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/exocitosis_secrecion.png",
+    "imagen_alt": "Imagen de apoyo: exocitosis secrecion"
   },
   {
     "codigo": "APO3-029",
     "tema": "Membrana plasmática",
-    "pregunta": "Una función básica de la membrana plasmática es:",
+    "pregunta": "Seleccione la opción más precisa. Una función básica de la membrana plasmática es:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir composición con función de transporte",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque se asocia con permeabilidad aunque no define el modelo completo",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque también interviene en el límite entre el medio interno y externo",
         "correcta": false
       },
       {
         "texto": "Delimitar la célula y mantener homeostasis",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Separa medio interno y externo."
+    "explicacion": "Separa medio interno y externo. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo3/modelo_mosaico_fluido.png",
+    "imagen_alt": "Bicapa lipídica con proteínas integrales, periféricas, colesterol y glucocálix."
   },
   {
     "codigo": "APO3-030",
     "tema": "Receptores de membrana",
-    "pregunta": "Los receptores de membrana permiten:",
+    "pregunta": "Seleccione la opción más precisa. Los receptores de membrana permiten:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Detectar señales extracelulares",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Conectan estímulos externos con respuestas celulares."
+    "explicacion": "Conectan estímulos externos con respuestas celulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   }
 ]

@@ -93,7 +93,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Reorganiza el embrión."
+    "explicacion": "Reorganiza el embrión.",
+    "imagen": "img/apo11/gastrulacion_capas.svg",
+    "imagen_alt": "Formación de ectodermo, mesodermo y endodermo."
   },
   {
     "codigo": "APO11-029",
@@ -213,7 +215,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Almacena y regula la información genética."
+    "explicacion": "Almacena y regula la información genética.",
+    "imagen": "img/apo6/nucleo_eucariota.svg",
+    "imagen_alt": "Núcleo con envoltura doble, poros, nucléolo, cromatina y lámina nuclear."
   },
   {
     "codigo": "APO8-029",
@@ -237,7 +241,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "Puede originarse por errores de segregación."
+    "explicacion": "Puede originarse por errores de segregación.",
+    "imagen": "img/apo8/no_disyuncion.svg",
+    "imagen_alt": "No disyunción meiótica produciendo gametos aneuploides."
   },
   {
     "codigo": "APO5-008",
@@ -261,7 +267,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "Contribuye al recambio y supervivencia celular."
+    "explicacion": "Contribuye al recambio y supervivencia celular.",
+    "imagen": "img/apo5/autofagia_lisosomal.svg",
+    "imagen_alt": "Autofagosoma fusionándose con lisosoma para reciclar componentes celulares."
   },
   {
     "codigo": "APO11-004",
@@ -309,7 +317,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Son estructuras cilíndricas de microtúbulos."
+    "explicacion": "Son estructuras cilíndricas de microtúbulos.",
+    "imagen": "img/apo4/centriolos_centrosoma.svg",
+    "imagen_alt": "Par de centríolos perpendiculares dentro del centrosoma."
   },
   {
     "codigo": "APO8-011",
@@ -429,7 +439,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Su destino inicial es el citosol."
+    "explicacion": "Su destino inicial es el citosol.",
+    "imagen": "img/apo4/ribosoma_traduccion.svg",
+    "imagen_alt": "Ribosoma con ARNm, ARNt y cadena polipeptídica naciente."
   },
   {
     "codigo": "APO7-026",
@@ -573,7 +585,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Genera recombinación."
+    "explicacion": "Genera recombinación.",
+    "imagen": "img/apo8/crossing_over.svg",
+    "imagen_alt": "Entrecruzamiento entre cromátidas no hermanas en profase I."
   },
   {
     "codigo": "APO10-006",
@@ -597,7 +611,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "La señal difunde localmente."
+    "explicacion": "La señal difunde localmente.",
+    "imagen": "img/apo10/tipos_senalizacion.svg",
+    "imagen_alt": "Señalización endocrina, paracrina, autocrina, sináptica y yuxtacrina."
   },
   {
     "codigo": "APO1-028",
@@ -717,7 +733,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Regulan paso de ARN y proteínas."
+    "explicacion": "Regulan paso de ARN y proteínas.",
+    "imagen": "img/apo6/poro_nuclear_transporte.svg",
+    "imagen_alt": "Complejo del poro nuclear regulando importación/exportación."
   },
   {
     "codigo": "APO7-028",
@@ -957,7 +975,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "El ovocito inicia programa embrionario."
+    "explicacion": "El ovocito inicia programa embrionario.",
+    "imagen": "img/apo12/fecundacion.svg",
+    "imagen_alt": "Entrada del espermatozoide, bloqueo de polispermia y formación de pronúcleos."
   },
   {
     "codigo": "APO11-027",
@@ -1077,7 +1097,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Degradan macromoléculas en medio ácido."
+    "explicacion": "Degradan macromoléculas en medio ácido.",
+    "imagen": "img/apo5/lisosoma_endosoma.svg",
+    "imagen_alt": "Endosoma fusionando con lisosoma para digestión intracelular."
   },
   {
     "codigo": "APO10-023",
@@ -1101,7 +1123,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Evita sobreactivación."
+    "explicacion": "Evita sobreactivación.",
+    "imagen": "img/apo10/desensibilizacion_receptor.svg",
+    "imagen_alt": "Internalización o inactivación de receptor tras estímulo persistente."
   },
   {
     "codigo": "APO12-030",
@@ -1173,7 +1197,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Emisor y blanco pueden coincidir."
+    "explicacion": "Emisor y blanco pueden coincidir.",
+    "imagen": "img/apo10/tipos_senalizacion.svg",
+    "imagen_alt": "Señalización endocrina, paracrina, autocrina, sináptica y yuxtacrina."
   },
   {
     "codigo": "APO1-026",
@@ -1197,7 +1223,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "Los ribosomas son estructuras nanométricas."
+    "explicacion": "Los ribosomas son estructuras nanométricas.",
+    "imagen": "img/apo1/escala_celular.svg",
+    "imagen_alt": "Escala de tamaños relativos entre organelas, bacterias y células eucariotas."
   },
   {
     "codigo": "APO12-029",
@@ -1317,7 +1345,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "Las enzimas aceleran reacciones sin consumirse en ellas."
+    "explicacion": "Las enzimas aceleran reacciones sin consumirse en ellas.",
+    "imagen": "img/apo2/enzima_sustrato.svg",
+    "imagen_alt": "Complejo enzima-sustrato y efecto sobre la energía de activación."
   },
   {
     "codigo": "APO6-028",
@@ -1389,7 +1419,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Miller y Urey obtuvieron biomoléculas como aminoácidos, pero no organismos vivos."
+    "explicacion": "Miller y Urey obtuvieron biomoléculas como aminoácidos, pero no organismos vivos.",
+    "imagen": "img/apo1/origen_vida_linea_tiempo.svg",
+    "imagen_alt": "Línea de tiempo: Tierra primitiva → moléculas orgánicas → polímeros → protocélulas → células procariotas."
   },
   {
     "codigo": "APO11-012",
@@ -1437,7 +1469,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Depende de expresión génica diferencial."
+    "explicacion": "Depende de expresión génica diferencial.",
+    "imagen": "img/apo11/diferenciacion_celular.svg",
+    "imagen_alt": "Células con mismo genoma adoptando fenotipos distintos."
   },
   {
     "codigo": "APO6-011",
@@ -1461,7 +1495,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Facilita la segregación."
+    "explicacion": "Facilita la segregación.",
+    "imagen": "img/apo6/cromosoma_metafasico.svg",
+    "imagen_alt": "Cromosoma metafásico con cromátides hermanas, centrómero y telómeros."
   },
   {
     "codigo": "APO5-012",
@@ -1485,7 +1521,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "La glucosilación afecta destino y función."
+    "explicacion": "La glucosilación afecta destino y función.",
+    "imagen": "img/apo5/aparato_golgi.svg",
+    "imagen_alt": "Cisternas de Golgi con cara cis, medial, trans y vesículas."
   },
   {
     "codigo": "APO8-022",
@@ -1509,7 +1547,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "Proceso regulado y ordenado."
+    "explicacion": "Proceso regulado y ordenado.",
+    "imagen": "img/apo8/apoptosis_vs_necrosis.svg",
+    "imagen_alt": "Comparación morfológica entre apoptosis y necrosis."
   },
   {
     "codigo": "APO9-008",
@@ -1677,7 +1717,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Participa en reconocimiento y bloqueo de polispermia."
+    "explicacion": "Participa en reconocimiento y bloqueo de polispermia.",
+    "imagen": "img/apo12/zona_pelucida_corona.svg",
+    "imagen_alt": "Ovocito secundario con corona radiada y zona pelúcida."
   },
   {
     "codigo": "APO2-021",
@@ -1701,7 +1743,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Aporta resistencia mecánica en tejidos."
+    "explicacion": "Aporta resistencia mecánica en tejidos.",
+    "imagen": "img/apo2/colageno_mec.svg",
+    "imagen_alt": "Fibras de colágeno en matriz extracelular y relación con resistencia mecánica."
   },
   {
     "codigo": "APO4-030",
@@ -1725,7 +1769,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Ayuda a organizar dominios celulares."
+    "explicacion": "Ayuda a organizar dominios celulares.",
+    "imagen": "img/apo4/citoesqueleto_general.svg",
+    "imagen_alt": "Microfilamentos, filamentos intermedios y microtúbulos distribuidos en la célula."
   },
   {
     "codigo": "APO3-026",
@@ -1797,7 +1843,9 @@
         "correcta": true
       }
     ],
-    "explicacion": "Contribuyen a barreras epiteliales."
+    "explicacion": "Contribuyen a barreras epiteliales.",
+    "imagen": "img/apo9/union_estrecha.svg",
+    "imagen_alt": "Unión oclusiva sellando el espacio intercelular apical."
   },
   {
     "codigo": "APO10-008",
@@ -1821,7 +1869,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Depende de moléculas de membrana."
+    "explicacion": "Depende de moléculas de membrana.",
+    "imagen": "img/apo10/tipos_senalizacion.svg",
+    "imagen_alt": "Señalización endocrina, paracrina, autocrina, sináptica y yuxtacrina."
   },
   {
     "codigo": "APO7-007",
@@ -1869,7 +1919,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Permite funciones direccionales."
+    "explicacion": "Permite funciones direccionales.",
+    "imagen": "img/apo9/polaridad_epitelial.svg",
+    "imagen_alt": "Dominio apical, lateral y basal de una célula epitelial."
   },
   {
     "codigo": "APO2-029",
@@ -2013,7 +2065,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "La membrana se invagina y forma vesículas."
+    "explicacion": "La membrana se invagina y forma vesículas.",
+    "imagen": "img/apo3/endocitosis_tipos.svg",
+    "imagen_alt": "Fagocitosis, pinocitosis y endocitosis mediada por receptor."
   },
   {
     "codigo": "APO10-001",
@@ -2037,7 +2091,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Es esencial en organismos multicelulares."
+    "explicacion": "Es esencial en organismos multicelulares.",
+    "imagen": "img/apo10/tipos_senalizacion.svg",
+    "imagen_alt": "Señalización endocrina, paracrina, autocrina, sináptica y yuxtacrina."
   },
   {
     "codigo": "APO9-026",
@@ -2181,7 +2237,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "La composición de la bicapa y transportadores regula el intercambio."
+    "explicacion": "La composición de la bicapa y transportadores regula el intercambio.",
+    "imagen": "img/apo3/modelo_mosaico_fluido.svg",
+    "imagen_alt": "Bicapa lipídica con proteínas integrales, periféricas, colesterol y glucocálix."
   },
   {
     "codigo": "APO7-021",
@@ -2205,7 +2263,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Puede generar proteína truncada."
+    "explicacion": "Puede generar proteína truncada.",
+    "imagen": "img/apo7/mutaciones_puntuales.svg",
+    "imagen_alt": "Mutación silenciosa, missense y nonsense en una secuencia codificante."
   },
   {
     "codigo": "APO9-019",
@@ -2229,7 +2289,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Son prolongaciones con actina."
+    "explicacion": "Son prolongaciones con actina.",
+    "imagen": "img/apo9/microvellosidades.svg",
+    "imagen_alt": "Microvellosidades apicales aumentando superficie de absorción."
   },
   {
     "codigo": "APO5-002",
@@ -2253,7 +2315,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Carece de ribosomas adheridos."
+    "explicacion": "Carece de ribosomas adheridos.",
+    "imagen": "img/apo5/rel_detox_lipidos.svg",
+    "imagen_alt": "REL asociado a síntesis de lípidos, detoxificación y almacenamiento de Ca2+."
   },
   {
     "codigo": "APO4-015",
@@ -2277,7 +2341,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Traducen ARNm a polipéptidos."
+    "explicacion": "Traducen ARNm a polipéptidos.",
+    "imagen": "img/apo4/ribosoma_traduccion.svg",
+    "imagen_alt": "Ribosoma con ARNm, ARNt y cadena polipeptídica naciente."
   },
   {
     "codigo": "APO6-016",
@@ -2325,7 +2391,9 @@
         "correcta": false
       }
     ],
-    "explicacion": "Sus ribosomas sintetizan proteínas destinadas al sistema endomembranoso."
+    "explicacion": "Sus ribosomas sintetizan proteínas destinadas al sistema endomembranoso.",
+    "imagen": "img/apo5/rer_ribosomas.svg",
+    "imagen_alt": "RER con ribosomas adheridos sintetizando proteínas de secreción/membrana."
   },
   {
     "codigo": "APO1-010",

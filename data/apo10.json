@@ -2,14 +2,14 @@
   {
     "codigo": "APO10-001",
     "tema": "Señalización",
-    "pregunta": "La comunicación celular permite:",
+    "pregunta": "Seleccione la opción más precisa. La comunicación celular permite:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -17,119 +17,125 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Es esencial en organismos multicelulares."
+    "explicacion": "Es esencial en organismos multicelulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-002",
     "tema": "Ligando",
-    "pregunta": "Un ligando es:",
+    "pregunta": "Seleccione la opción más precisa. Un ligando es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Molécula señal que se une a receptor",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Inicia una vía de señalización."
+    "explicacion": "Inicia una vía de señalización. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/ligando_receptor.png",
+    "imagen_alt": "Imagen de apoyo: ligando receptor"
   },
   {
     "codigo": "APO10-003",
     "tema": "Receptor",
-    "pregunta": "Un receptor reconoce:",
+    "pregunta": "Seleccione la opción más precisa. Un receptor reconoce:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Señales específicas",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "La especificidad determina respuesta."
+    "explicacion": "La especificidad determina respuesta. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/ligando_receptor.png",
+    "imagen_alt": "Imagen de apoyo: ligando receptor"
   },
   {
     "codigo": "APO10-004",
     "tema": "Célula blanco",
-    "pregunta": "La célula blanco es:",
+    "pregunta": "Seleccione la opción más precisa. La célula blanco es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "La que posee receptor para la señal",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Solo responde si puede reconocer el ligando."
+    "explicacion": "Solo responde si puede reconocer el ligando. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/ligando_receptor.png",
+    "imagen_alt": "Imagen de apoyo: ligando receptor"
   },
   {
     "codigo": "APO10-005",
     "tema": "Endocrina",
-    "pregunta": "La señalización endocrina actúa:",
+    "pregunta": "Seleccione la opción más precisa. La señalización endocrina actúa:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "A distancia por sangre",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Hormonas viajan a células lejanas."
+    "explicacion": "Hormonas viajan a células lejanas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-006",
     "tema": "Paracrina",
-    "pregunta": "La señalización paracrina actúa:",
+    "pregunta": "Seleccione la opción más precisa. La señalización paracrina actúa:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -137,71 +143,81 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "La señal difunde localmente."
+    "explicacion": "La señal difunde localmente. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-007",
     "tema": "Autocrina",
-    "pregunta": "En señalización autocrina la célula:",
+    "pregunta": "Seleccione la opción más precisa. En señalización autocrina la célula:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Responde a su propia señal",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Emisor y blanco pueden coincidir."
+    "explicacion": "Emisor y blanco pueden coincidir. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-008",
     "tema": "Yuxtacrina",
-    "pregunta": "La señalización yuxtacrina requiere:",
+    "pregunta": "Seleccione la opción más precisa. La señalización yuxtacrina requiere:",
     "respuestas": [
       {
         "texto": "Contacto directo entre células",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Depende de moléculas de membrana."
+    "explicacion": "Depende de moléculas de membrana. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-009",
     "tema": "Sináptica",
-    "pregunta": "La señalización sináptica usa:",
+    "pregunta": "Seleccione la opción más precisa. La señalización sináptica usa:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -209,23 +225,21 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Es rápida y localizada."
+    "explicacion": "Es rápida y localizada. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-010",
     "tema": "Receptores de membrana",
-    "pregunta": "Los receptores de membrana reciben:",
+    "pregunta": "Seleccione la opción más precisa. Los receptores de membrana reciben:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -233,43 +247,55 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Activan vías intracelulares."
+    "explicacion": "Activan vías intracelulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/ligando_receptor.png",
+    "imagen_alt": "Imagen de apoyo: ligando receptor"
   },
   {
     "codigo": "APO10-011",
     "tema": "Receptores intracelulares",
-    "pregunta": "Los receptores intracelulares suelen unirse a:",
+    "pregunta": "Seleccione la opción más precisa. Los receptores intracelulares suelen unirse a:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Ligandos liposolubles",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Pueden regular transcripción."
+    "explicacion": "Pueden regular transcripción. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/receptor_esteroideo.png",
+    "imagen_alt": "Imagen de apoyo: receptor esteroideo"
   },
   {
     "codigo": "APO10-012",
     "tema": "Transducción",
-    "pregunta": "La transducción es:",
+    "pregunta": "Seleccione la opción más precisa. La transducción es:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -277,23 +303,25 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Incluye cascadas moleculares."
+    "explicacion": "Incluye cascadas moleculares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/cascada_quinasas.png",
+    "imagen_alt": "Imagen de apoyo: cascada quinasas"
   },
   {
     "codigo": "APO10-013",
     "tema": "Segundo mensajero",
-    "pregunta": "Un segundo mensajero:",
+    "pregunta": "Seleccione la opción más precisa. Un segundo mensajero:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -301,51 +329,51 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Ejemplos: AMPc, Ca2+."
+    "explicacion": "Ejemplos: AMPc, Ca2+. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/segundos_mensajeros.png",
+    "imagen_alt": "Imagen de apoyo: segundos mensajeros"
   },
   {
     "codigo": "APO10-014",
     "tema": "AMPc",
-    "pregunta": "El AMPc es:",
+    "pregunta": "Seleccione la opción más precisa. El AMPc es:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Segundo mensajero",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Activa vías intracelulares."
+    "explicacion": "Activa vías intracelulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/segundos_mensajeros.png",
+    "imagen_alt": "Imagen de apoyo: segundos mensajeros"
   },
   {
     "codigo": "APO10-015",
     "tema": "Calcio",
-    "pregunta": "El Ca2+ intracelular puede funcionar como:",
+    "pregunta": "Seleccione la opción más precisa. El Ca2+ intracelular puede funcionar como:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -353,19 +381,25 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Cambios de Ca2+ regulan proteínas."
+    "explicacion": "Cambios de Ca2+ regulan proteínas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/segundos_mensajeros.png",
+    "imagen_alt": "Imagen de apoyo: segundos mensajeros"
   },
   {
     "codigo": "APO10-016",
     "tema": "Fosforilación",
-    "pregunta": "La fosforilación consiste en:",
+    "pregunta": "Seleccione la opción más precisa. La fosforilación consiste en:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -373,219 +407,227 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Modifica actividad proteica."
+    "explicacion": "Modifica actividad proteica. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/cascada_quinasas.png",
+    "imagen_alt": "Imagen de apoyo: cascada quinasas"
   },
   {
     "codigo": "APO10-017",
     "tema": "Quinasas",
-    "pregunta": "Las quinasas:",
+    "pregunta": "Seleccione la opción más precisa. Las quinasas:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Fosforilan proteínas",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Activan o inhiben componentes de vías."
+    "explicacion": "Activan o inhiben componentes de vías. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/cascada_quinasas.png",
+    "imagen_alt": "Imagen de apoyo: cascada quinasas"
   },
   {
     "codigo": "APO10-018",
     "tema": "Fosfatasas",
-    "pregunta": "Las fosfatasas:",
+    "pregunta": "Seleccione la opción más precisa. Las fosfatasas:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Remueven grupos fosfato",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Revierten señales por desfosforilación."
+    "explicacion": "Revierten señales por desfosforilación. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO10-019",
     "tema": "Amplificación",
-    "pregunta": "La amplificación permite:",
+    "pregunta": "Seleccione la opción más precisa. La amplificación permite:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Que una señal inicial genere respuesta aumentada",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Una molécula activa muchas otras."
+    "explicacion": "Una molécula activa muchas otras. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/amplificacion_senal.png",
+    "imagen_alt": "Imagen de apoyo: amplificacion senal"
   },
   {
     "codigo": "APO10-020",
     "tema": "Especificidad",
-    "pregunta": "La especificidad depende de:",
+    "pregunta": "Seleccione la opción más precisa. La especificidad depende de:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Receptor y vía intracelular",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Una misma señal puede dar respuestas distintas."
+    "explicacion": "Una misma señal puede dar respuestas distintas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO10-021",
     "tema": "Respuesta génica",
-    "pregunta": "Una señal puede modificar:",
+    "pregunta": "Seleccione la opción más precisa. Una señal puede modificar:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Expresión génica",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Algunas vías llegan al núcleo."
+    "explicacion": "Algunas vías llegan al núcleo. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/receptor_esteroideo.png",
+    "imagen_alt": "Imagen de apoyo: receptor esteroideo"
   },
   {
     "codigo": "APO10-022",
     "tema": "Respuesta metabólica",
-    "pregunta": "Una señal puede cambiar:",
+    "pregunta": "Seleccione la opción más precisa. Una señal puede cambiar:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Actividad metabólica",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Regula enzimas y rutas."
+    "explicacion": "Regula enzimas y rutas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO10-023",
     "tema": "Desensibilización",
-    "pregunta": "La desensibilización implica:",
+    "pregunta": "Seleccione la opción más precisa. La desensibilización implica:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Disminución de respuesta ante estímulo persistente",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Evita sobreactivación."
+    "explicacion": "Evita sobreactivación. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/desensibilizacion_receptor.png",
+    "imagen_alt": "Imagen de apoyo: desensibilizacion receptor"
   },
   {
     "codigo": "APO10-024",
     "tema": "Hormonas esteroideas",
-    "pregunta": "Las hormonas esteroideas suelen:",
+    "pregunta": "Seleccione la opción más precisa. Las hormonas esteroideas suelen:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Atravesar membrana y unirse a receptores internos",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Son liposolubles."
+    "explicacion": "Son liposolubles. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/receptor_esteroideo.png",
+    "imagen_alt": "Imagen de apoyo: receptor esteroideo"
   },
   {
     "codigo": "APO10-025",
     "tema": "Hormonas peptídicas",
-    "pregunta": "Las hormonas peptídicas suelen actuar en:",
+    "pregunta": "Seleccione la opción más precisa. Las hormonas peptídicas suelen actuar en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -593,91 +635,99 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "No cruzan fácilmente la bicapa."
+    "explicacion": "No cruzan fácilmente la bicapa. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO10-026",
     "tema": "Vías de señalización",
-    "pregunta": "Una vía de señalización incluye:",
+    "pregunta": "Seleccione la opción más precisa. Una vía de señalización incluye:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Receptor, transductores y efectores",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Organiza la respuesta celular."
+    "explicacion": "Organiza la respuesta celular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/cascada_quinasas.png",
+    "imagen_alt": "Imagen de apoyo: cascada quinasas"
   },
   {
     "codigo": "APO10-027",
     "tema": "Efector",
-    "pregunta": "Un efector celular es:",
+    "pregunta": "Seleccione la opción más precisa. Un efector celular es:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Componente que ejecuta la respuesta",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Puede ser enzima, canal o gen regulado."
+    "explicacion": "Puede ser enzima, canal o gen regulado. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO10-028",
     "tema": "Comunicación y desarrollo",
-    "pregunta": "La comunicación celular guía:",
+    "pregunta": "Seleccione la opción más precisa. La comunicación celular guía:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Diferenciación e inducción embrionaria",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Las señales orientan destinos celulares."
+    "explicacion": "Las señales orientan destinos celulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   },
   {
     "codigo": "APO10-029",
     "tema": "Apoptosis inducida",
-    "pregunta": "Algunas señales pueden activar:",
+    "pregunta": "Seleccione la opción más precisa. Algunas señales pueden activar:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir necrosis con muerte celular ordenada",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque implica muerte celular pero por daño accidental y no por programa regulado",
         "correcta": false
       },
       {
@@ -685,38 +735,36 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque activa respuestas celulares aunque no siempre caspasas",
         "correcta": false
       }
     ],
-    "explicacion": "La comunicación regula supervivencia."
+    "explicacion": "La comunicación regula supervivencia. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO10-030",
     "tema": "Homeostasis tisular",
-    "pregunta": "La señalización contribuye a:",
+    "pregunta": "Seleccione la opción más precisa. La señalización contribuye a:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Mantener equilibrio funcional de tejidos",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Coordina proliferación, muerte y diferenciación."
+    "explicacion": "Coordina proliferación, muerte y diferenciación. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo10/tipos_senalizacion.png",
+    "imagen_alt": "Imagen de apoyo: tipos senalizacion"
   }
 ]

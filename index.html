@@ -20,15 +20,11 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 </head>
 <script>
-
 if ('serviceWorker' in navigator) {
-
-    navigator.serviceWorker.register('service-worker.js')
+    navigator.serviceWorker.register('service-worker.js?v=2')
         .then(() => console.log("Service Worker registrado"))
         .catch(err => console.log(err));
-
 }
-
 </script>
 <body>
 
@@ -87,6 +83,8 @@ if ('serviceWorker' in navigator) {
         <p id="tema"></p>
         <h2 id="pregunta"></h2>
 
+        <img id="imagenPregunta" class="imagen-pregunta" style="display:none;" />
+
         <div id="opciones"></div>
 
         <div id="feedback" class="oculto"></div>
@@ -109,6 +107,6 @@ if ('serviceWorker' in navigator) {
 
   </main>
 
-  <script src="js/app.js"></script>
+  <script src="js/app.js?v=2"></script>
 </body>
 </html>

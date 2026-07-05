@@ -2,42 +2,44 @@
   {
     "codigo": "APO7-001",
     "tema": "Replicación",
-    "pregunta": "La replicación del ADN produce:",
+    "pregunta": "Seleccione la opción más precisa. La replicación del ADN produce:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Dos moléculas de ADN a partir de una",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Duplica el material genético."
+    "explicacion": "Duplica el material genético. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/replicacion_adn.png",
+    "imagen_alt": "Imagen de apoyo: replicacion adn"
   },
   {
     "codigo": "APO7-002",
     "tema": "Semiconservativa",
-    "pregunta": "La replicación semiconservativa implica:",
+    "pregunta": "Seleccione la opción más precisa. La replicación semiconservativa implica:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -45,39 +47,47 @@
         "correcta": true
       }
     ],
-    "explicacion": "Cada hebra parental sirve de molde."
+    "explicacion": "Cada hebra parental sirve de molde. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/replicacion_adn.png",
+    "imagen_alt": "Imagen de apoyo: replicacion adn"
   },
   {
     "codigo": "APO7-003",
     "tema": "ADN polimerasa",
-    "pregunta": "La ADN polimerasa:",
+    "pregunta": "Seleccione la opción más precisa. La ADN polimerasa:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque también participa en la información genética",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir almacenamiento con expresión de la información",
         "correcta": false
       },
       {
         "texto": "Sintetiza ADN complementario",
         "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque presenta complementariedad aunque cumple otra función",
+        "correcta": false
       }
     ],
-    "explicacion": "Agrega nucleótidos según el molde."
+    "explicacion": "Agrega nucleótidos según el molde. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/replicacion_adn.png",
+    "imagen_alt": "Imagen de apoyo: replicacion adn"
   },
   {
     "codigo": "APO7-004",
     "tema": "Complementariedad",
-    "pregunta": "En ADN, adenina se aparea con:",
+    "pregunta": "Seleccione la opción más precisa. En ADN, adenina se aparea con:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -85,195 +95,199 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "A-T y G-C mantienen la doble hélice."
+    "explicacion": "A-T y G-C mantienen la doble hélice. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-005",
     "tema": "Transcripción",
-    "pregunta": "La transcripción sintetiza:",
+    "pregunta": "Seleccione la opción más precisa. La transcripción sintetiza:",
     "respuestas": [
       {
         "texto": "ARN a partir de ADN",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "La ARN polimerasa usa ADN molde."
+    "explicacion": "La ARN polimerasa usa ADN molde. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/transcripcion_adn_arn.png",
+    "imagen_alt": "Imagen de apoyo: transcripcion adn arn"
   },
   {
     "codigo": "APO7-006",
     "tema": "ARN polimerasa",
-    "pregunta": "La ARN polimerasa produce:",
+    "pregunta": "Seleccione la opción más precisa. La ARN polimerasa produce:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "ARN",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque participa en la expresión genética pero no almacena toda la información hereditaria",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir transcripción con traducción",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque se asocia a ribosomas pero no cumple esa función específica",
         "correcta": false
       }
     ],
-    "explicacion": "Cataliza la transcripción."
+    "explicacion": "Cataliza la transcripción. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/transcripcion_adn_arn.png",
+    "imagen_alt": "Imagen de apoyo: transcripcion adn arn"
   },
   {
     "codigo": "APO7-007",
     "tema": "ARNm",
-    "pregunta": "El ARNm lleva:",
+    "pregunta": "Seleccione la opción más precisa. El ARNm lleva:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir transcripción con traducción",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque participa en la expresión genética pero no almacena toda la información hereditaria",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque se asocia a ribosomas pero no cumple esa función específica",
         "correcta": false
       },
       {
         "texto": "Información para síntesis proteica",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Transporta el mensaje hacia ribosomas."
+    "explicacion": "Transporta el mensaje hacia ribosomas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-008",
     "tema": "Procesamiento",
-    "pregunta": "El procesamiento del pre-ARNm incluye:",
+    "pregunta": "Seleccione la opción más precisa. El procesamiento del pre-ARNm incluye:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Caperuza, cola poli-A y splicing",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Prepara al ARNm eucariota."
+    "explicacion": "Prepara al ARNm eucariota. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/splicing_intrones_exones.png",
+    "imagen_alt": "Imagen de apoyo: splicing intrones exones"
   },
   {
     "codigo": "APO7-009",
     "tema": "Splicing",
-    "pregunta": "El splicing elimina:",
+    "pregunta": "Seleccione la opción más precisa. El splicing elimina:",
     "respuestas": [
       {
         "texto": "Intrones",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Une exones para formar ARNm maduro."
+    "explicacion": "Une exones para formar ARNm maduro. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/splicing_intrones_exones.png",
+    "imagen_alt": "Imagen de apoyo: splicing intrones exones"
   },
   {
     "codigo": "APO7-010",
     "tema": "Código genético",
-    "pregunta": "El código genético relaciona:",
+    "pregunta": "Seleccione la opción más precisa. El código genético relaciona:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Codones con aminoácidos",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Guía la traducción."
+    "explicacion": "Guía la traducción. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/codigo_genetico_codones.png",
+    "imagen_alt": "Imagen de apoyo: codigo genetico codones"
   },
   {
     "codigo": "APO7-011",
     "tema": "Codón",
-    "pregunta": "Un codón está formado por:",
+    "pregunta": "Seleccione la opción más precisa. Un codón está formado por:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Tres nucleótidos",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Cada triplete especifica aminoácido o señal."
+    "explicacion": "Cada triplete especifica aminoácido o señal. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/codigo_genetico_codones.png",
+    "imagen_alt": "Imagen de apoyo: codigo genetico codones"
   },
   {
     "codigo": "APO7-012",
     "tema": "Traducción",
-    "pregunta": "La traducción ocurre en:",
+    "pregunta": "Seleccione la opción más precisa. La traducción ocurre en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -281,27 +295,33 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Convierte información del ARNm en proteína."
+    "explicacion": "Convierte información del ARNm en proteína. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/traduccion_ribosoma.png",
+    "imagen_alt": "Imagen de apoyo: traduccion ribosoma"
   },
   {
     "codigo": "APO7-013",
     "tema": "ARNt",
-    "pregunta": "El ARNt transporta:",
+    "pregunta": "Seleccione la opción más precisa. El ARNt transporta:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque participa en la expresión genética pero no almacena toda la información hereditaria",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque se asocia a ribosomas pero no cumple esa función específica",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir transcripción con traducción",
         "correcta": false
       },
       {
@@ -309,71 +329,77 @@
         "correcta": true
       }
     ],
-    "explicacion": "Reconoce codones mediante anticodón."
+    "explicacion": "Reconoce codones mediante anticodón. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/traduccion_ribosoma.png",
+    "imagen_alt": "Imagen de apoyo: traduccion ribosoma"
   },
   {
     "codigo": "APO7-014",
     "tema": "Anticodón",
-    "pregunta": "El anticodón se encuentra en:",
+    "pregunta": "Seleccione la opción más precisa. El anticodón se encuentra en:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "ARNt",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Aparea con codones del ARNm."
+    "explicacion": "Aparea con codones del ARNm. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/codigo_genetico_codones.png",
+    "imagen_alt": "Imagen de apoyo: codigo genetico codones"
   },
   {
     "codigo": "APO7-015",
     "tema": "ARNr",
-    "pregunta": "El ARNr forma parte de:",
+    "pregunta": "Seleccione la opción más precisa. El ARNr forma parte de:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Ribosomas",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque se asocia a ribosomas pero no cumple esa función específica",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque participa en la expresión genética pero no almacena toda la información hereditaria",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir transcripción con traducción",
         "correcta": false
       }
     ],
-    "explicacion": "Contribuye a estructura y catálisis."
+    "explicacion": "Contribuye a estructura y catálisis. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/traduccion_ribosoma.png",
+    "imagen_alt": "Imagen de apoyo: traduccion ribosoma"
   },
   {
     "codigo": "APO7-016",
     "tema": "Inicio de traducción",
-    "pregunta": "La traducción comienza en:",
+    "pregunta": "Seleccione la opción más precisa. La traducción comienza en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -381,19 +407,17 @@
         "correcta": true
       }
     ],
-    "explicacion": "Marca el marco de lectura."
+    "explicacion": "Marca el marco de lectura. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/traduccion_ribosoma.png",
+    "imagen_alt": "Imagen de apoyo: traduccion ribosoma"
   },
   {
     "codigo": "APO7-017",
     "tema": "Terminación",
-    "pregunta": "La traducción finaliza en:",
+    "pregunta": "Seleccione la opción más precisa. La traducción finaliza en:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -401,19 +425,29 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Indica liberación del polipéptido."
+    "explicacion": "Indica liberación del polipéptido. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/traduccion_ribosoma.png",
+    "imagen_alt": "Imagen de apoyo: traduccion ribosoma"
   },
   {
     "codigo": "APO7-018",
     "tema": "Mutación",
-    "pregunta": "Una mutación es:",
+    "pregunta": "Seleccione la opción más precisa. Una mutación es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -421,31 +455,29 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Puede afectar o no la función."
+    "explicacion": "Puede afectar o no la función. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/mutaciones_puntuales.png",
+    "imagen_alt": "Imagen de apoyo: mutaciones puntuales"
   },
   {
     "codigo": "APO7-019",
     "tema": "Mutación silenciosa",
-    "pregunta": "Una mutación silenciosa puede:",
+    "pregunta": "Seleccione la opción más precisa. Una mutación silenciosa puede:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -453,115 +485,117 @@
         "correcta": true
       }
     ],
-    "explicacion": "Por redundancia del código genético."
+    "explicacion": "Por redundancia del código genético. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/mutaciones_puntuales.png",
+    "imagen_alt": "Imagen de apoyo: mutaciones puntuales"
   },
   {
     "codigo": "APO7-020",
     "tema": "Mutación missense",
-    "pregunta": "Una mutación missense cambia:",
+    "pregunta": "Seleccione la opción más precisa. Una mutación missense cambia:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Un aminoácido por otro",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Puede modificar la proteína."
+    "explicacion": "Puede modificar la proteína. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/mutaciones_puntuales.png",
+    "imagen_alt": "Imagen de apoyo: mutaciones puntuales"
   },
   {
     "codigo": "APO7-021",
     "tema": "Mutación nonsense",
-    "pregunta": "Una mutación nonsense introduce:",
+    "pregunta": "Seleccione la opción más precisa. Una mutación nonsense introduce:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Codón de terminación prematuro",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Puede generar proteína truncada."
+    "explicacion": "Puede generar proteína truncada. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/mutaciones_puntuales.png",
+    "imagen_alt": "Imagen de apoyo: mutaciones puntuales"
   },
   {
     "codigo": "APO7-022",
     "tema": "Regulación génica",
-    "pregunta": "La regulación génica permite:",
+    "pregunta": "Seleccione la opción más precisa. La regulación génica permite:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Controlar qué genes se expresan",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Explica diferencias celulares."
+    "explicacion": "Explica diferencias celulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-023",
     "tema": "Promotor",
-    "pregunta": "El promotor es:",
+    "pregunta": "Seleccione la opción más precisa. El promotor es:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Región donde inicia la transcripción",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Permite unión de maquinaria transcripcional."
+    "explicacion": "Permite unión de maquinaria transcripcional. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-024",
     "tema": "Expresión génica",
-    "pregunta": "La expresión génica comprende:",
+    "pregunta": "Seleccione la opción más precisa. La expresión génica comprende:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -569,23 +603,25 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Permite producir ARN y proteínas."
+    "explicacion": "Permite producir ARN y proteínas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/dogma_central.png",
+    "imagen_alt": "Imagen de apoyo: dogma central"
   },
   {
     "codigo": "APO7-025",
     "tema": "Genotipo",
-    "pregunta": "El genotipo es:",
+    "pregunta": "Seleccione la opción más precisa. El genotipo es:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -593,130 +629,136 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Base hereditaria del organismo."
+    "explicacion": "Base hereditaria del organismo. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-026",
     "tema": "Fenotipo",
-    "pregunta": "El fenotipo resulta de:",
+    "pregunta": "Seleccione la opción más precisa. El fenotipo resulta de:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Genotipo e interacción con ambiente",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Es el conjunto observable de características."
+    "explicacion": "Es el conjunto observable de características. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-027",
     "tema": "PCR",
-    "pregunta": "La PCR permite:",
+    "pregunta": "Seleccione la opción más precisa. La PCR permite:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Amplificar fragmentos de ADN",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Usa ciclos de replicación in vitro."
+    "explicacion": "Usa ciclos de replicación in vitro. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-028",
     "tema": "Western blot",
-    "pregunta": "Western blot detecta:",
+    "pregunta": "Seleccione la opción más precisa. Western blot detecta:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Proteínas específicas",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Usa anticuerpos para identificar proteínas."
+    "explicacion": "Usa anticuerpos para identificar proteínas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO7-029",
     "tema": "Flujo de información",
-    "pregunta": "El flujo clásico de información es:",
+    "pregunta": "Seleccione la opción más precisa. El flujo clásico de información es:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "ADN → ARN → proteína",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Resume el dogma central."
+    "explicacion": "Resume el dogma central. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo7/dogma_central.png",
+    "imagen_alt": "Imagen de apoyo: dogma central"
   },
   {
     "codigo": "APO7-030",
     "tema": "Diferenciación",
-    "pregunta": "La diferenciación se relaciona con:",
+    "pregunta": "Seleccione la opción más precisa. La diferenciación se relaciona con:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Expresión diferencial de genes",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Células con mismo ADN pueden especializarse."
+    "explicacion": "Células con mismo ADN pueden especializarse. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   }
 ]

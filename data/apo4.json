@@ -2,10 +2,14 @@
   {
     "codigo": "APO4-001",
     "tema": "Citosol",
-    "pregunta": "El citosol es:",
+    "pregunta": "Seleccione la opción más precisa. El citosol es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -13,51 +17,45 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Es el medio donde ocurren muchas reacciones."
+    "explicacion": "Es el medio donde ocurren muchas reacciones. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-002",
     "tema": "Inclusiones",
-    "pregunta": "Las inclusiones suelen ser:",
+    "pregunta": "Seleccione la opción más precisa. Las inclusiones suelen ser:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Depósitos de reserva o pigmentos",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "No son organelas membranosas típicas."
+    "explicacion": "No son organelas membranosas típicas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/inclusiones_celulares.png",
+    "imagen_alt": "Imagen de apoyo: inclusiones celulares"
   },
   {
     "codigo": "APO4-003",
     "tema": "Glucógeno",
-    "pregunta": "El glucógeno celular representa:",
+    "pregunta": "Seleccione la opción más precisa. El glucógeno celular representa:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -65,43 +63,47 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Se almacena como gránulos en el citoplasma."
+    "explicacion": "Se almacena como gránulos en el citoplasma. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-004",
     "tema": "Gotas lipídicas",
-    "pregunta": "Las gotas lipídicas almacenan:",
+    "pregunta": "Seleccione la opción más precisa. Las gotas lipídicas almacenan:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Lípidos neutros",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Funcionan como reserva energética."
+    "explicacion": "Funcionan como reserva energética. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-005",
     "tema": "Citoesqueleto",
-    "pregunta": "El citoesqueleto participa en:",
+    "pregunta": "Seleccione la opción más precisa. El citoesqueleto participa en:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -109,99 +111,101 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Sus filamentos sostienen y organizan la célula."
+    "explicacion": "Sus filamentos sostienen y organizan la célula. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/citoesqueleto_general.png",
+    "imagen_alt": "Imagen de apoyo: citoesqueleto general"
   },
   {
     "codigo": "APO4-006",
     "tema": "Microtúbulos",
-    "pregunta": "Los microtúbulos están formados por:",
+    "pregunta": "Seleccione la opción más precisa. Los microtúbulos están formados por:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Tubulina",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "La tubulina alfa y beta forma polímeros tubulares."
+    "explicacion": "La tubulina alfa y beta forma polímeros tubulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/microtubulos_cilios.png",
+    "imagen_alt": "Imagen de apoyo: microtubulos cilios"
   },
   {
     "codigo": "APO4-007",
     "tema": "Microfilamentos",
-    "pregunta": "Los microfilamentos están formados por:",
+    "pregunta": "Seleccione la opción más precisa. Los microfilamentos están formados por:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Actina",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Participan en contracción, forma y movimiento."
+    "explicacion": "Participan en contracción, forma y movimiento. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/actina_miosina.png",
+    "imagen_alt": "Imagen de apoyo: actina miosina"
   },
   {
     "codigo": "APO4-008",
     "tema": "Filamentos intermedios",
-    "pregunta": "Los filamentos intermedios aportan:",
+    "pregunta": "Seleccione la opción más precisa. Los filamentos intermedios aportan:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Resistencia mecánica",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Son importantes frente a tensiones."
+    "explicacion": "Son importantes frente a tensiones. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-009",
     "tema": "Centrosoma",
-    "pregunta": "El centrosoma funciona como:",
+    "pregunta": "Seleccione la opción más precisa. El centrosoma funciona como:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -209,115 +213,133 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Organiza el huso y red microtubular."
+    "explicacion": "Organiza el huso y red microtubular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/centriolos_centrosoma.png",
+    "imagen_alt": "Imagen de apoyo: centriolos centrosoma"
   },
   {
     "codigo": "APO4-010",
     "tema": "Centríolos",
-    "pregunta": "Los centríolos se relacionan con:",
+    "pregunta": "Seleccione la opción más precisa. Los centríolos se relacionan con:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Organización del centrosoma y cuerpos basales",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Son estructuras cilíndricas de microtúbulos."
+    "explicacion": "Son estructuras cilíndricas de microtúbulos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/centriolos_centrosoma.png",
+    "imagen_alt": "Imagen de apoyo: centriolos centrosoma"
   },
   {
     "codigo": "APO4-011",
     "tema": "Cilios",
-    "pregunta": "Los cilios móviles permiten:",
+    "pregunta": "Seleccione la opción más precisa. Los cilios móviles permiten:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Movimiento de fluidos o células",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Dependen de microtúbulos y proteínas motoras."
+    "explicacion": "Dependen de microtúbulos y proteínas motoras. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/microtubulos_cilios.png",
+    "imagen_alt": "Imagen de apoyo: microtubulos cilios"
   },
   {
     "codigo": "APO4-012",
     "tema": "Flagelos",
-    "pregunta": "El flagelo eucariota se relaciona con:",
+    "pregunta": "Seleccione la opción más precisa. El flagelo eucariota se relaciona con:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Movimiento celular",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Ejemplo: movilidad espermática."
+    "explicacion": "Ejemplo: movilidad espermática. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/microtubulos_cilios.png",
+    "imagen_alt": "Imagen de apoyo: microtubulos cilios"
   },
   {
     "codigo": "APO4-013",
     "tema": "Proteínas motoras",
-    "pregunta": "Quinesinas y dineínas participan en:",
+    "pregunta": "Seleccione la opción más precisa. Quinesinas y dineínas participan en:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Transporte sobre microtúbulos",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Mueven cargas intracelulares."
+    "explicacion": "Mueven cargas intracelulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/motores_celulares.png",
+    "imagen_alt": "Imagen de apoyo: motores celulares"
   },
   {
     "codigo": "APO4-014",
     "tema": "Miosina",
-    "pregunta": "La miosina interactúa principalmente con:",
+    "pregunta": "Seleccione la opción más precisa. La miosina interactúa principalmente con:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -325,215 +347,223 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Participa en contracción y movimiento."
+    "explicacion": "Participa en contracción y movimiento. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/actina_miosina.png",
+    "imagen_alt": "Imagen de apoyo: actina miosina"
   },
   {
     "codigo": "APO4-015",
     "tema": "Ribosomas",
-    "pregunta": "Los ribosomas realizan:",
+    "pregunta": "Seleccione la opción más precisa. Los ribosomas realizan:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Síntesis de proteínas",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Traducen ARNm a polipéptidos."
+    "explicacion": "Traducen ARNm a polipéptidos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/ribosoma_traduccion.png",
+    "imagen_alt": "Imagen de apoyo: ribosoma traduccion"
   },
   {
     "codigo": "APO4-016",
     "tema": "Ribosomas libres",
-    "pregunta": "Los ribosomas libres suelen sintetizar:",
+    "pregunta": "Seleccione la opción más precisa. Los ribosomas libres suelen sintetizar:",
     "respuestas": [
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Proteínas citosólicas",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Su destino inicial es el citosol."
+    "explicacion": "Su destino inicial es el citosol. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-017",
     "tema": "Polirribosomas",
-    "pregunta": "Un polirribosoma es:",
+    "pregunta": "Seleccione la opción más precisa. Un polirribosoma es:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Varios ribosomas traduciendo el mismo ARNm",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Aumenta eficiencia de síntesis proteica."
+    "explicacion": "Aumenta eficiencia de síntesis proteica. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/ribosoma_traduccion.png",
+    "imagen_alt": "Imagen de apoyo: ribosoma traduccion"
   },
   {
     "codigo": "APO4-018",
     "tema": "Proteasoma",
-    "pregunta": "El proteasoma degrada:",
+    "pregunta": "Seleccione la opción más precisa. El proteasoma degrada:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Proteínas marcadas para destrucción",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "El sistema ubiquitina-proteasoma regula proteínas."
+    "explicacion": "El sistema ubiquitina-proteasoma regula proteínas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-019",
     "tema": "Ubiquitina",
-    "pregunta": "La ubiquitina sirve como:",
+    "pregunta": "Seleccione la opción más precisa. La ubiquitina sirve como:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Señal para degradación proteica",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Marca proteínas para el proteasoma."
+    "explicacion": "Marca proteínas para el proteasoma. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-020",
     "tema": "Citoesqueleto y división",
-    "pregunta": "El citoesqueleto es necesario para:",
+    "pregunta": "Seleccione la opción más precisa. El citoesqueleto es necesario para:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Separación cromosómica y citocinesis",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Microtúbulos y actina participan en división."
+    "explicacion": "Microtúbulos y actina participan en división. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/citoesqueleto_general.png",
+    "imagen_alt": "Imagen de apoyo: citoesqueleto general"
   },
   {
     "codigo": "APO4-021",
     "tema": "Transporte intracelular",
-    "pregunta": "El transporte de vesículas depende de:",
+    "pregunta": "Seleccione la opción más precisa. El transporte de vesículas depende de:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Citoesqueleto y proteínas motoras",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Las vesículas se desplazan sobre filamentos."
+    "explicacion": "Las vesículas se desplazan sobre filamentos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/motores_celulares.png",
+    "imagen_alt": "Imagen de apoyo: motores celulares"
   },
   {
     "codigo": "APO4-022",
     "tema": "Forma celular",
-    "pregunta": "La forma celular depende en gran parte de:",
+    "pregunta": "Seleccione la opción más precisa. La forma celular depende en gran parte de:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Organización del citoesqueleto",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Los filamentos dan soporte interno."
+    "explicacion": "Los filamentos dan soporte interno. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/citoesqueleto_general.png",
+    "imagen_alt": "Imagen de apoyo: citoesqueleto general"
   },
   {
     "codigo": "APO4-023",
     "tema": "Movimiento ameboide",
-    "pregunta": "El movimiento ameboide se relaciona con:",
+    "pregunta": "Seleccione la opción más precisa. El movimiento ameboide se relaciona con:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -541,23 +571,25 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "La actina forma protrusiones celulares."
+    "explicacion": "La actina forma protrusiones celulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/actina_miosina.png",
+    "imagen_alt": "Imagen de apoyo: actina miosina"
   },
   {
     "codigo": "APO4-024",
     "tema": "Contracción muscular",
-    "pregunta": "La contracción muscular depende de:",
+    "pregunta": "Seleccione la opción más precisa. La contracción muscular depende de:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -565,158 +597,164 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Estas proteínas generan acortamiento."
+    "explicacion": "Estas proteínas generan acortamiento. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/actina_miosina.png",
+    "imagen_alt": "Imagen de apoyo: actina miosina"
   },
   {
     "codigo": "APO4-025",
     "tema": "Núcleo y citoesqueleto",
-    "pregunta": "El citoesqueleto puede influir en:",
+    "pregunta": "Seleccione la opción más precisa. El citoesqueleto puede influir en:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Posición de organelas",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Organiza la arquitectura interna."
+    "explicacion": "Organiza la arquitectura interna. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-026",
     "tema": "Metabolismo citosólico",
-    "pregunta": "La glucólisis ocurre principalmente en:",
+    "pregunta": "Seleccione la opción más precisa. La glucólisis ocurre principalmente en:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Citosol",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Es una vía metabólica citoplasmática."
+    "explicacion": "Es una vía metabólica citoplasmática. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-027",
     "tema": "Organelas no membranosas",
-    "pregunta": "Un ejemplo de organela no membranosa es:",
+    "pregunta": "Seleccione la opción más precisa. Un ejemplo de organela no membranosa es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Ribosoma",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "No posee bicapa delimitante."
+    "explicacion": "No posee bicapa delimitante. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-028",
     "tema": "Dinámica celular",
-    "pregunta": "La dinámica del citoesqueleto implica:",
+    "pregunta": "Seleccione la opción más precisa. La dinámica del citoesqueleto implica:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Ensamblaje y desensamblaje de filamentos",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Los filamentos son estructuras reguladas."
+    "explicacion": "Los filamentos son estructuras reguladas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/citoesqueleto_general.png",
+    "imagen_alt": "Imagen de apoyo: citoesqueleto general"
   },
   {
     "codigo": "APO4-029",
     "tema": "Soporte mecánico",
-    "pregunta": "La resistencia al estiramiento celular se asocia con:",
+    "pregunta": "Seleccione la opción más precisa. La resistencia al estiramiento celular se asocia con:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Filamentos intermedios",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Aportan estabilidad."
+    "explicacion": "Aportan estabilidad. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO4-030",
     "tema": "Polaridad celular",
-    "pregunta": "El citoesqueleto contribuye a:",
+    "pregunta": "Seleccione la opción más precisa. El citoesqueleto contribuye a:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Polaridad y distribución interna",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Ayuda a organizar dominios celulares."
+    "explicacion": "Ayuda a organizar dominios celulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo4/citoesqueleto_general.png",
+    "imagen_alt": "Imagen de apoyo: citoesqueleto general"
   }
 ]

@@ -2,38 +2,40 @@
   {
     "codigo": "APO5-001",
     "tema": "RER",
-    "pregunta": "El retículo endoplásmico rugoso participa en:",
+    "pregunta": "Seleccione la opción más precisa. El retículo endoplásmico rugoso participa en:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Síntesis de proteínas de secreción y membrana",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Sus ribosomas sintetizan proteínas destinadas al sistema endomembranoso."
+    "explicacion": "Sus ribosomas sintetizan proteínas destinadas al sistema endomembranoso. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/rer_ribosomas.png",
+    "imagen_alt": "Imagen de apoyo: rer ribosomas"
   },
   {
     "codigo": "APO5-002",
     "tema": "REL",
-    "pregunta": "El retículo endoplásmico liso participa en:",
+    "pregunta": "Seleccione la opción más precisa. El retículo endoplásmico liso participa en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -41,71 +43,73 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Carece de ribosomas adheridos."
+    "explicacion": "Carece de ribosomas adheridos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/rel_detox_lipidos.png",
+    "imagen_alt": "Imagen de apoyo: rel detox lipidos"
   },
   {
     "codigo": "APO5-003",
     "tema": "Golgi",
-    "pregunta": "El complejo de Golgi se encarga de:",
+    "pregunta": "Seleccione la opción más precisa. El complejo de Golgi se encarga de:",
     "respuestas": [
       {
         "texto": "Modificar, clasificar y dirigir moléculas",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Recibe productos del RE y los distribuye."
+    "explicacion": "Recibe productos del RE y los distribuye. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/aparato_golgi.png",
+    "imagen_alt": "Imagen de apoyo: aparato golgi"
   },
   {
     "codigo": "APO5-004",
     "tema": "Lisosomas",
-    "pregunta": "Los lisosomas contienen:",
+    "pregunta": "Seleccione la opción más precisa. Los lisosomas contienen:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Enzimas hidrolíticas",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Degradan macromoléculas en medio ácido."
+    "explicacion": "Degradan macromoléculas en medio ácido. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/lisosoma_endosoma.png",
+    "imagen_alt": "Imagen de apoyo: lisosoma endosoma"
   },
   {
     "codigo": "APO5-005",
     "tema": "Endosomas",
-    "pregunta": "Los endosomas participan en:",
+    "pregunta": "Seleccione la opción más precisa. Los endosomas participan en:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -113,19 +117,29 @@
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Pueden madurar y fusionarse con lisosomas."
+    "explicacion": "Pueden madurar y fusionarse con lisosomas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/lisosoma_endosoma.png",
+    "imagen_alt": "Imagen de apoyo: lisosoma endosoma"
   },
   {
     "codigo": "APO5-006",
     "tema": "Mitocondrias",
-    "pregunta": "Las mitocondrias producen principalmente:",
+    "pregunta": "Seleccione la opción más precisa. Las mitocondrias producen principalmente:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -133,71 +147,73 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Son centrales para el metabolismo energético."
+    "explicacion": "Son centrales para el metabolismo energético. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/mitocondria_ultraestructura.png",
+    "imagen_alt": "Imagen de apoyo: mitocondria ultraestructura"
   },
   {
     "codigo": "APO5-007",
     "tema": "Peroxisomas",
-    "pregunta": "Los peroxisomas realizan:",
+    "pregunta": "Seleccione la opción más precisa. Los peroxisomas realizan:",
     "respuestas": [
       {
         "texto": "Reacciones oxidativas y detoxificación de peróxidos",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Contienen catalasa y oxidasas."
+    "explicacion": "Contienen catalasa y oxidasas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/peroxisoma_catalasa.png",
+    "imagen_alt": "Imagen de apoyo: peroxisoma catalasa"
   },
   {
     "codigo": "APO5-008",
     "tema": "Autofagia",
-    "pregunta": "La autofagia permite:",
+    "pregunta": "Seleccione la opción más precisa. La autofagia permite:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Degradar componentes celulares propios",
         "correcta": true
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Contribuye al recambio y supervivencia celular."
+    "explicacion": "Contribuye al recambio y supervivencia celular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/autofagia_lisosomal.png",
+    "imagen_alt": "Imagen de apoyo: autofagia lisosomal"
   },
   {
     "codigo": "APO5-009",
     "tema": "Tráfico vesicular",
-    "pregunta": "El tráfico vesicular conecta:",
+    "pregunta": "Seleccione la opción más precisa. El tráfico vesicular conecta:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -205,195 +221,203 @@
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Las vesículas transportan proteínas y lípidos."
+    "explicacion": "Las vesículas transportan proteínas y lípidos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/ruta_secretora.png",
+    "imagen_alt": "Imagen de apoyo: ruta secretora"
   },
   {
     "codigo": "APO5-010",
     "tema": "Señal peptídica",
-    "pregunta": "Una señal peptídica dirige proteínas hacia:",
+    "pregunta": "Seleccione la opción más precisa. Una señal peptídica dirige proteínas hacia:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Compartimientos celulares específicos",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Las señales de destino orientan el tráfico proteico."
+    "explicacion": "Las señales de destino orientan el tráfico proteico. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/rer_ribosomas.png",
+    "imagen_alt": "Imagen de apoyo: rer ribosomas"
   },
   {
     "codigo": "APO5-011",
     "tema": "Ribosomas del RER",
-    "pregunta": "Los ribosomas se asocian al RER cuando:",
+    "pregunta": "Seleccione la opción más precisa. Los ribosomas se asocian al RER cuando:",
     "respuestas": [
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "La proteína naciente posee señal de entrada al RE",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "El reconocimiento de señal dirige el complejo al RE."
+    "explicacion": "El reconocimiento de señal dirige el complejo al RE. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/rer_ribosomas.png",
+    "imagen_alt": "Imagen de apoyo: rer ribosomas"
   },
   {
     "codigo": "APO5-012",
     "tema": "Glucosilación",
-    "pregunta": "Una modificación frecuente en RE/Golgi es:",
+    "pregunta": "Seleccione la opción más precisa. Una modificación frecuente en RE/Golgi es:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
       {
         "texto": "Adición y procesamiento de carbohidratos",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "La glucosilación afecta destino y función."
+    "explicacion": "La glucosilación afecta destino y función. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/aparato_golgi.png",
+    "imagen_alt": "Imagen de apoyo: aparato golgi"
   },
   {
     "codigo": "APO5-013",
     "tema": "Vesículas secretoras",
-    "pregunta": "Las vesículas secretoras se originan en:",
+    "pregunta": "Seleccione la opción más precisa. Las vesículas secretoras se originan en:",
     "respuestas": [
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Sistema endomembranoso",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Transportan productos hacia la membrana plasmática."
+    "explicacion": "Transportan productos hacia la membrana plasmática. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/aparato_golgi.png",
+    "imagen_alt": "Imagen de apoyo: aparato golgi"
   },
   {
     "codigo": "APO5-014",
     "tema": "Secreción regulada",
-    "pregunta": "La secreción regulada depende de:",
+    "pregunta": "Seleccione la opción más precisa. La secreción regulada depende de:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Un estímulo específico",
         "correcta": true
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "La vesícula se fusiona solo ante señales."
+    "explicacion": "La vesícula se fusiona solo ante señales. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-015",
     "tema": "Secreción constitutiva",
-    "pregunta": "La secreción constitutiva es:",
+    "pregunta": "Seleccione la opción más precisa. La secreción constitutiva es:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Continua y no requiere estímulo puntual",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Mantiene membrana y secreción basal."
+    "explicacion": "Mantiene membrana y secreción basal. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-016",
     "tema": "Digestión intracelular",
-    "pregunta": "La digestión intracelular se asocia con:",
+    "pregunta": "Seleccione la opción más precisa. La digestión intracelular se asocia con:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Lisosomas",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Sus enzimas degradan material incorporado o propio."
+    "explicacion": "Sus enzimas degradan material incorporado o propio. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/lisosoma_endosoma.png",
+    "imagen_alt": "Imagen de apoyo: lisosoma endosoma"
   },
   {
     "codigo": "APO5-017",
     "tema": "pH lisosomal",
-    "pregunta": "El pH lisosomal es:",
+    "pregunta": "Seleccione la opción más precisa. El pH lisosomal es:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -401,322 +425,342 @@
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Las hidrolasas lisosomales funcionan en pH bajo."
+    "explicacion": "Las hidrolasas lisosomales funcionan en pH bajo. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-018",
     "tema": "Cadena respiratoria",
-    "pregunta": "La cadena respiratoria se localiza en:",
+    "pregunta": "Seleccione la opción más precisa. La cadena respiratoria se localiza en:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Membrana interna mitocondrial",
         "correcta": true
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Allí se genera gradiente para ATP."
+    "explicacion": "Allí se genera gradiente para ATP. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/mitocondria_ultraestructura.png",
+    "imagen_alt": "Imagen de apoyo: mitocondria ultraestructura"
   },
   {
     "codigo": "APO5-019",
     "tema": "Crestas mitocondriales",
-    "pregunta": "Las crestas mitocondriales aumentan:",
+    "pregunta": "Seleccione la opción más precisa. Las crestas mitocondriales aumentan:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
       {
         "texto": "Superficie de membrana interna",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Favorecen reacciones de respiración."
+    "explicacion": "Favorecen reacciones de respiración. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/mitocondria_ultraestructura.png",
+    "imagen_alt": "Imagen de apoyo: mitocondria ultraestructura"
   },
   {
     "codigo": "APO5-020",
     "tema": "ADN mitocondrial",
-    "pregunta": "Las mitocondrias poseen:",
+    "pregunta": "Seleccione la opción más precisa. Las mitocondrias poseen:",
     "respuestas": [
       {
         "texto": "ADN propio",
         "correcta": true
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque también participa en la información genética",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir almacenamiento con expresión de la información",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "La ausencia completa de regulación celular, porque presenta complementariedad aunque cumple otra función",
         "correcta": false
       }
     ],
-    "explicacion": "Esto se vincula con su origen endosimbiótico."
+    "explicacion": "Esto se vincula con su origen endosimbiótico. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/mitocondria_ultraestructura.png",
+    "imagen_alt": "Imagen de apoyo: mitocondria ultraestructura"
   },
   {
     "codigo": "APO5-021",
     "tema": "Importación proteica",
-    "pregunta": "Muchas proteínas mitocondriales son codificadas por:",
+    "pregunta": "Seleccione la opción más precisa. Muchas proteínas mitocondriales son codificadas por:",
     "respuestas": [
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "ADN nuclear",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
       }
     ],
-    "explicacion": "Luego se importan a la mitocondria."
+    "explicacion": "Luego se importan a la mitocondria. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-022",
     "tema": "Catalasa",
-    "pregunta": "La catalasa se encuentra en:",
+    "pregunta": "Seleccione la opción más precisa. La catalasa se encuentra en:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Peroxisomas",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Degrada peróxido de hidrógeno."
+    "explicacion": "Degrada peróxido de hidrógeno. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/peroxisoma_catalasa.png",
+    "imagen_alt": "Imagen de apoyo: peroxisoma catalasa"
   },
   {
     "codigo": "APO5-023",
     "tema": "Beta-oxidación",
-    "pregunta": "Los peroxisomas participan en:",
+    "pregunta": "Seleccione la opción más precisa. Los peroxisomas participan en:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Metabolismo de ácidos grasos",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
       }
     ],
-    "explicacion": "Realizan procesos oxidativos."
+    "explicacion": "Realizan procesos oxidativos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/peroxisoma_catalasa.png",
+    "imagen_alt": "Imagen de apoyo: peroxisoma catalasa"
   },
   {
     "codigo": "APO5-024",
     "tema": "Sistema endomembranoso",
-    "pregunta": "El sistema endomembranoso incluye:",
+    "pregunta": "Seleccione la opción más precisa. El sistema endomembranoso incluye:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "RE, Golgi, endosomas, lisosomas y vesículas",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Estos compartimientos intercambian membrana y contenido."
+    "explicacion": "Estos compartimientos intercambian membrana y contenido. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/ruta_secretora.png",
+    "imagen_alt": "Imagen de apoyo: ruta secretora"
   },
   {
     "codigo": "APO5-025",
     "tema": "Compartimentalización",
-    "pregunta": "La compartimentalización permite:",
+    "pregunta": "Seleccione la opción más precisa. La compartimentalización permite:",
     "respuestas": [
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Separar procesos celulares incompatibles",
         "correcta": true
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Las organelas crean ambientes especializados."
+    "explicacion": "Las organelas crean ambientes especializados. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-026",
     "tema": "Autorradiografía",
-    "pregunta": "La autorradiografía permite:",
+    "pregunta": "Seleccione la opción más precisa. La autorradiografía permite:",
     "respuestas": [
       {
         "texto": "Seguir moléculas marcadas dentro de células",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "La ausencia completa de regulación celular, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Sirve para estudiar rutas de síntesis y secreción."
+    "explicacion": "Sirve para estudiar rutas de síntesis y secreción. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-027",
     "tema": "Fraccionamiento celular",
-    "pregunta": "La centrifugación diferencial permite:",
+    "pregunta": "Seleccione la opción más precisa. La centrifugación diferencial permite:",
     "respuestas": [
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Separar componentes celulares por tamaño y densidad",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "Se usa para estudiar organelas."
+    "explicacion": "Se usa para estudiar organelas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO5-028",
     "tema": "Ruta secretora",
-    "pregunta": "La ruta secretora típica es:",
+    "pregunta": "Seleccione la opción más precisa. La ruta secretora típica es:",
     "respuestas": [
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "RER → Golgi → vesículas → membrana/exterior",
         "correcta": true
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Describe el trayecto de proteínas secretadas."
+    "explicacion": "Describe el trayecto de proteínas secretadas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/ruta_secretora.png",
+    "imagen_alt": "Imagen de apoyo: ruta secretora"
   },
   {
     "codigo": "APO5-029",
     "tema": "Lisosomas y enfermedad",
-    "pregunta": "Una falla lisosomal puede causar:",
+    "pregunta": "Seleccione la opción más precisa. Una falla lisosomal puede causar:",
     "respuestas": [
+      {
+        "texto": "Un mecanismo exclusivo de otra unidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Acumulación de sustancias no degradadas",
         "correcta": true
-      },
-      {
-        "texto": "Un mecanismo exclusivo de otra unidad",
-        "correcta": false
-      },
-      {
-        "texto": "La ausencia completa de regulación celular",
-        "correcta": false
-      },
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
       }
     ],
-    "explicacion": "La digestión intracelular se altera."
+    "explicacion": "La digestión intracelular se altera. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo5/lisosoma_endosoma.png",
+    "imagen_alt": "Imagen de apoyo: lisosoma endosoma"
   },
   {
     "codigo": "APO5-030",
     "tema": "Organelas membranosas",
-    "pregunta": "Las organelas membranosas se caracterizan por:",
+    "pregunta": "Seleccione la opción más precisa. Las organelas membranosas se caracterizan por:",
     "respuestas": [
-      {
-        "texto": "Una opción que no corresponde al proceso descrito",
-        "correcta": false
-      },
       {
         "texto": "Estar delimitadas por una o más membranas",
         "correcta": true
       },
       {
-        "texto": "La ausencia completa de regulación celular",
+        "texto": "Un mecanismo exclusivo de otra unidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Un mecanismo exclusivo de otra unidad",
+        "texto": "La ausencia completa de regulación celular, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una opción que no corresponde al proceso descrito, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Permiten compartimentos funcionales."
+    "explicacion": "Permiten compartimentos funcionales. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   }
 ]

@@ -2,110 +2,108 @@
   {
     "codigo": "APO2-001",
     "tema": "Agua celular",
-    "pregunta": "El agua es fundamental porque:",
+    "pregunta": "Seleccione la opción más precisa. El agua es fundamental porque:",
     "respuestas": [
-      {
-        "texto": "Es siempre apolar",
-        "correcta": false
-      },
-      {
-        "texto": "Reemplaza al ADN",
-        "correcta": false
-      },
-      {
-        "texto": "Codifica proteínas",
-        "correcta": false
-      },
       {
         "texto": "Actúa como solvente y medio para reacciones celulares",
         "correcta": true
+      },
+      {
+        "texto": "Es siempre apolar, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Reemplaza al ADN, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Codifica proteínas, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Su polaridad permite disolver muchas sustancias biológicas."
+    "explicacion": "Su polaridad permite disolver muchas sustancias biológicas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-002",
     "tema": "Enlaces químicos",
-    "pregunta": "Los puentes de hidrógeno son importantes porque:",
+    "pregunta": "Seleccione la opción más precisa. Los puentes de hidrógeno son importantes porque:",
     "respuestas": [
-      {
-        "texto": "Solo existen en lípidos",
-        "correcta": false
-      },
-      {
-        "texto": "Son enlaces covalentes fuertes siempre",
-        "correcta": false
-      },
-      {
-        "texto": "Eliminan la polaridad",
-        "correcta": false
-      },
       {
         "texto": "Contribuyen a propiedades del agua y estructura de biomoléculas",
         "correcta": true
+      },
+      {
+        "texto": "Son enlaces covalentes fuertes siempre, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Solo existen en lípidos, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Eliminan la polaridad, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Son interacciones débiles pero numerosas y funcionalmente relevantes."
+    "explicacion": "Son interacciones débiles pero numerosas y funcionalmente relevantes. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-003",
     "tema": "pH",
-    "pregunta": "El pH celular se relaciona con:",
+    "pregunta": "Seleccione la opción más precisa. El pH celular se relaciona con:",
     "respuestas": [
       {
-        "texto": "Cantidad de cromosomas exclusivamente",
+        "texto": "Cantidad de cromosomas exclusivamente, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Número de tejidos",
-        "correcta": false
-      },
-      {
-        "texto": "Color de la membrana",
+        "texto": "Color de la membrana, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Concentración de protones y actividad de moléculas celulares",
         "correcta": true
+      },
+      {
+        "texto": "Número de tejidos, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "El pH condiciona estructura y función molecular."
+    "explicacion": "El pH condiciona estructura y función molecular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/escala_ph_celular.png",
+    "imagen_alt": "Imagen de apoyo: escala ph celular"
   },
   {
     "codigo": "APO2-004",
     "tema": "Glúcidos",
-    "pregunta": "Una función de los glúcidos es:",
+    "pregunta": "Seleccione la opción más precisa. Una función de los glúcidos es:",
     "respuestas": [
-      {
-        "texto": "Almacenamiento exclusivo de información genética",
-        "correcta": false
-      },
-      {
-        "texto": "Digestión lisosomal",
-        "correcta": false
-      },
-      {
-        "texto": "Formación del huso mitótico",
-        "correcta": false
-      },
       {
         "texto": "Reserva energética y reconocimiento celular",
         "correcta": true
+      },
+      {
+        "texto": "Formación del huso mitótico, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Digestión lisosomal, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Almacenamiento exclusivo de información genética, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Los glúcidos cumplen funciones energéticas, estructurales y de reconocimiento."
+    "explicacion": "Los glúcidos cumplen funciones energéticas, estructurales y de reconocimiento. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-005",
     "tema": "Monosacáridos",
-    "pregunta": "La glucosa es un ejemplo de:",
+    "pregunta": "Seleccione la opción más precisa. La glucosa es un ejemplo de:",
     "respuestas": [
       {
-        "texto": "Ácido nucleico",
-        "correcta": false
-      },
-      {
-        "texto": "Proteína fibrosa",
+        "texto": "Esteroide, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -113,191 +111,197 @@
         "correcta": true
       },
       {
-        "texto": "Esteroide",
+        "texto": "Proteína fibrosa, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Ácido nucleico, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "La glucosa es una unidad simple de carbohidrato."
+    "explicacion": "La glucosa es una unidad simple de carbohidrato. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-006",
     "tema": "Polisacáridos",
-    "pregunta": "El glucógeno cumple principalmente función de:",
+    "pregunta": "Seleccione la opción más precisa. El glucógeno cumple principalmente función de:",
     "respuestas": [
       {
-        "texto": "Información genética",
+        "texto": "Receptor nuclear, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Enzima digestiva",
+        "texto": "Información genética, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Enzima digestiva, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Reserva energética animal",
         "correcta": true
-      },
-      {
-        "texto": "Receptor nuclear",
-        "correcta": false
       }
     ],
-    "explicacion": "El glucógeno almacena glucosa en células animales."
+    "explicacion": "El glucógeno almacena glucosa en células animales. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-007",
     "tema": "Lípidos",
-    "pregunta": "Los fosfolípidos son importantes porque:",
+    "pregunta": "Seleccione la opción más precisa. Los fosfolípidos son importantes porque:",
     "respuestas": [
-      {
-        "texto": "Siempre son solubles en agua",
-        "correcta": false
-      },
       {
         "texto": "Forman bicapas de membrana",
         "correcta": true
       },
       {
-        "texto": "Son la base del ribosoma",
+        "texto": "Siempre son solubles en agua, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Duplican ADN",
+        "texto": "Duplican ADN, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Son la base del ribosoma, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Su carácter anfipático permite formar membranas."
+    "explicacion": "Su carácter anfipático permite formar membranas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/fosfolipido_anfipatico.png",
+    "imagen_alt": "Imagen de apoyo: fosfolipido anfipatico"
   },
   {
     "codigo": "APO2-008",
     "tema": "Colesterol",
-    "pregunta": "En membranas animales, el colesterol contribuye a:",
+    "pregunta": "Seleccione la opción más precisa. En membranas animales, el colesterol contribuye a:",
     "respuestas": [
+      {
+        "texto": "Codificar ARNm, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Regular fluidez y estabilidad de la bicapa",
         "correcta": true
       },
       {
-        "texto": "Eliminar proteínas",
+        "texto": "Formar nucleótidos, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Formar nucleótidos",
-        "correcta": false
-      },
-      {
-        "texto": "Codificar ARNm",
+        "texto": "Eliminar proteínas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "El colesterol modula propiedades físicas de la membrana."
+    "explicacion": "El colesterol modula propiedades físicas de la membrana. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-009",
     "tema": "Triglicéridos",
-    "pregunta": "Los triglicéridos cumplen función principal de:",
+    "pregunta": "Seleccione la opción más precisa. Los triglicéridos cumplen función principal de:",
     "respuestas": [
       {
-        "texto": "Catalizar replicación",
+        "texto": "Catalizar replicación, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Transportar señales nerviosas, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Formar cromosomas, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Reserva energética",
         "correcta": true
-      },
-      {
-        "texto": "Transportar señales nerviosas",
-        "correcta": false
-      },
-      {
-        "texto": "Formar cromosomas",
-        "correcta": false
       }
     ],
-    "explicacion": "Son lípidos de almacenamiento."
+    "explicacion": "Son lípidos de almacenamiento. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-010",
     "tema": "Proteínas",
-    "pregunta": "La estructura primaria de una proteína es:",
+    "pregunta": "Seleccione la opción más precisa. La estructura primaria de una proteína es:",
     "respuestas": [
+      {
+        "texto": "Su forma final únicamente, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "La secuencia de aminoácidos",
         "correcta": true
       },
       {
-        "texto": "Su unión a membranas",
+        "texto": "La cantidad de agua que contiene, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La cantidad de agua que contiene",
-        "correcta": false
-      },
-      {
-        "texto": "Su forma final únicamente",
+        "texto": "Su unión a membranas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "El orden de aminoácidos condiciona niveles superiores de estructura."
+    "explicacion": "El orden de aminoácidos condiciona niveles superiores de estructura. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/estructura_proteinas.png",
+    "imagen_alt": "Imagen de apoyo: estructura proteinas"
   },
   {
     "codigo": "APO2-011",
     "tema": "Aminoácidos",
-    "pregunta": "Los aminoácidos son:",
+    "pregunta": "Seleccione la opción más precisa. Los aminoácidos son:",
     "respuestas": [
       {
-        "texto": "Tipos de lípidos",
+        "texto": "Monómeros del ADN, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Sales minerales, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Tipos de lípidos, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Monómeros de las proteínas",
         "correcta": true
-      },
-      {
-        "texto": "Sales minerales",
-        "correcta": false
-      },
-      {
-        "texto": "Monómeros del ADN",
-        "correcta": false
       }
     ],
-    "explicacion": "Las proteínas se forman por unión de aminoácidos."
+    "explicacion": "Las proteínas se forman por unión de aminoácidos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-012",
     "tema": "Enzimas",
-    "pregunta": "Una enzima es:",
+    "pregunta": "Seleccione la opción más precisa. Una enzima es:",
     "respuestas": [
-      {
-        "texto": "Un cromosoma",
-        "correcta": false
-      },
-      {
-        "texto": "Una membrana sin proteínas",
-        "correcta": false
-      },
-      {
-        "texto": "Una molécula que siempre se consume",
-        "correcta": false
-      },
       {
         "texto": "Un catalizador biológico",
         "correcta": true
+      },
+      {
+        "texto": "Una membrana sin proteínas, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Una molécula que siempre se consume, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un cromosoma, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Las enzimas aceleran reacciones sin consumirse en ellas."
+    "explicacion": "Las enzimas aceleran reacciones sin consumirse en ellas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/enzima_sustrato.png",
+    "imagen_alt": "Imagen de apoyo: enzima sustrato"
   },
   {
     "codigo": "APO2-013",
     "tema": "Desnaturalización",
-    "pregunta": "La desnaturalización proteica implica:",
+    "pregunta": "Seleccione la opción más precisa. La desnaturalización proteica implica:",
     "respuestas": [
       {
-        "texto": "Formación de ADN",
-        "correcta": false
-      },
-      {
-        "texto": "Duplicación de aminoácidos",
+        "texto": "Duplicación de aminoácidos, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -305,263 +309,273 @@
         "correcta": true
       },
       {
-        "texto": "Creación de ribosomas",
+        "texto": "Creación de ribosomas, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de ADN, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Cambios de pH o temperatura pueden alterar la estructura proteica."
+    "explicacion": "Cambios de pH o temperatura pueden alterar la estructura proteica. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/estructura_proteinas.png",
+    "imagen_alt": "Imagen de apoyo: estructura proteinas"
   },
   {
     "codigo": "APO2-014",
     "tema": "Ácidos nucleicos",
-    "pregunta": "Los ácidos nucleicos se relacionan con:",
+    "pregunta": "Seleccione la opción más precisa. Los ácidos nucleicos se relacionan con:",
     "respuestas": [
+      {
+        "texto": "Formación de colágeno, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Contracción muscular solamente, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Almacenamiento y expresión de información genética",
         "correcta": true
       },
       {
-        "texto": "Reserva lipídica",
-        "correcta": false
-      },
-      {
-        "texto": "Contracción muscular solamente",
-        "correcta": false
-      },
-      {
-        "texto": "Formación de colágeno",
+        "texto": "Reserva lipídica, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "ADN y ARN participan en el flujo de información genética."
+    "explicacion": "ADN y ARN participan en el flujo de información genética. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-015",
     "tema": "Nucleótidos",
-    "pregunta": "Un nucleótido está formado por:",
+    "pregunta": "Seleccione la opción más precisa. Un nucleótido está formado por:",
     "respuestas": [
-      {
-        "texto": "Aminoácido, glicerol y ácido graso",
-        "correcta": false
-      },
-      {
-        "texto": "Proteína, lípido e ion",
-        "correcta": false
-      },
-      {
-        "texto": "Glucosa, colesterol y agua",
-        "correcta": false
-      },
       {
         "texto": "Base nitrogenada, azúcar y fosfato",
         "correcta": true
+      },
+      {
+        "texto": "Aminoácido, glicerol y ácido graso, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Glucosa, colesterol y agua, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Proteína, lípido e ion, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Los nucleótidos son las unidades de ADN y ARN."
+    "explicacion": "Los nucleótidos son las unidades de ADN y ARN. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-016",
     "tema": "ADN",
-    "pregunta": "El ADN se caracteriza por:",
+    "pregunta": "Seleccione la opción más precisa. El ADN se caracteriza por:",
     "respuestas": [
+      {
+        "texto": "Ser siempre una enzima digestiva, porque también participa en la información genética",
+        "correcta": false
+      },
       {
         "texto": "Almacenar información hereditaria",
         "correcta": true
       },
       {
-        "texto": "Ser siempre una enzima digestiva",
+        "texto": "Ser un polisacárido, porque presenta complementariedad aunque cumple otra función",
         "correcta": false
       },
       {
-        "texto": "No contener bases nitrogenadas",
-        "correcta": false
-      },
-      {
-        "texto": "Ser un polisacárido",
+        "texto": "No contener bases nitrogenadas, al confundir almacenamiento con expresión de la información",
         "correcta": false
       }
     ],
-    "explicacion": "El ADN contiene información genética."
+    "explicacion": "El ADN contiene información genética. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/estructura_adn.png",
+    "imagen_alt": "Imagen de apoyo: estructura adn"
   },
   {
     "codigo": "APO2-017",
     "tema": "ARN",
-    "pregunta": "Una función del ARN es:",
+    "pregunta": "Seleccione la opción más precisa. Una función del ARN es:",
     "respuestas": [
+      {
+        "texto": "Formar la bicapa lipídica, porque se asocia a ribosomas pero no cumple esa función específica",
+        "correcta": false
+      },
       {
         "texto": "Participar en la expresión de la información genética",
         "correcta": true
       },
       {
-        "texto": "Almacenar triglicéridos",
+        "texto": "Almacenar triglicéridos, porque participa en la expresión genética pero no almacena toda la información hereditaria",
         "correcta": false
       },
       {
-        "texto": "Constituir microtúbulos",
-        "correcta": false
-      },
-      {
-        "texto": "Formar la bicapa lipídica",
+        "texto": "Constituir microtúbulos, al confundir transcripción con traducción",
         "correcta": false
       }
     ],
-    "explicacion": "Distintos ARN intervienen en transcripción y traducción."
+    "explicacion": "Distintos ARN intervienen en transcripción y traducción. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/arn_vs_adn.png",
+    "imagen_alt": "Imagen de apoyo: arn vs adn"
   },
   {
     "codigo": "APO2-018",
     "tema": "Macromoléculas",
-    "pregunta": "Una macromolécula formada por monómeros repetidos se denomina:",
+    "pregunta": "Seleccione la opción más precisa. Una macromolécula formada por monómeros repetidos se denomina:",
     "respuestas": [
       {
-        "texto": "Solvente",
+        "texto": "Ion, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Fosfato libre",
+        "texto": "Fosfato libre, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Solvente, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Polímero",
         "correcta": true
-      },
-      {
-        "texto": "Ion",
-        "correcta": false
       }
     ],
-    "explicacion": "Los polímeros se forman por unión de monómeros."
+    "explicacion": "Los polímeros se forman por unión de monómeros. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-019",
     "tema": "Iones",
-    "pregunta": "Los iones celulares participan en:",
+    "pregunta": "Seleccione la opción más precisa. Los iones celulares participan en:",
     "respuestas": [
-      {
-        "texto": "Solo estructura del ADN",
-        "correcta": false
-      },
-      {
-        "texto": "Formación de yema",
-        "correcta": false
-      },
       {
         "texto": "Gradientes, señales y equilibrio osmótico",
         "correcta": true
       },
       {
-        "texto": "Ausencia de carga",
+        "texto": "Ausencia de carga, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Solo estructura del ADN, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de yema, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Na+, K+, Ca2+ y otros iones son esenciales para función celular."
+    "explicacion": "Na+, K+, Ca2+ y otros iones son esenciales para función celular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-020",
     "tema": "Matriz extracelular",
-    "pregunta": "La matriz extracelular aporta:",
+    "pregunta": "Seleccione la opción más precisa. La matriz extracelular aporta:",
     "respuestas": [
+      {
+        "texto": "Replicación directa del ADN, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Síntesis de ATP ribosomal, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Condensación cromosómica, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Soporte, adhesión y señales a las células",
         "correcta": true
-      },
-      {
-        "texto": "Condensación cromosómica",
-        "correcta": false
-      },
-      {
-        "texto": "Síntesis de ATP ribosomal",
-        "correcta": false
-      },
-      {
-        "texto": "Replicación directa del ADN",
-        "correcta": false
       }
     ],
-    "explicacion": "La MEC influye en comportamiento y organización tisular."
+    "explicacion": "La MEC influye en comportamiento y organización tisular. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/colageno_mec.png",
+    "imagen_alt": "Imagen de apoyo: colageno mec"
   },
   {
     "codigo": "APO2-021",
     "tema": "Colágeno",
-    "pregunta": "El colágeno es:",
+    "pregunta": "Seleccione la opción más precisa. El colágeno es:",
     "respuestas": [
+      {
+        "texto": "Un fosfolípido, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Un monosacárido, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Un ácido nucleico, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Una proteína estructural de matriz extracelular",
         "correcta": true
-      },
-      {
-        "texto": "Un ácido nucleico",
-        "correcta": false
-      },
-      {
-        "texto": "Un monosacárido",
-        "correcta": false
-      },
-      {
-        "texto": "Un fosfolípido",
-        "correcta": false
       }
     ],
-    "explicacion": "Aporta resistencia mecánica en tejidos."
+    "explicacion": "Aporta resistencia mecánica en tejidos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/colageno_mec.png",
+    "imagen_alt": "Imagen de apoyo: colageno mec"
   },
   {
     "codigo": "APO2-022",
     "tema": "Proteoglucanos",
-    "pregunta": "Los proteoglucanos se relacionan con:",
+    "pregunta": "Seleccione la opción más precisa. Los proteoglucanos se relacionan con:",
     "respuestas": [
+      {
+        "texto": "Síntesis de colesterol, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Separación de cromátides, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Hidratación y propiedades mecánicas de la matriz",
         "correcta": true
       },
       {
-        "texto": "Síntesis de colesterol",
-        "correcta": false
-      },
-      {
-        "texto": "Formación de ARNm",
-        "correcta": false
-      },
-      {
-        "texto": "Separación de cromátides",
+        "texto": "Formación de ARNm, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Sus cadenas glucídicas retienen agua."
+    "explicacion": "Sus cadenas glucídicas retienen agua. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-023",
     "tema": "Glucoproteínas",
-    "pregunta": "Las glucoproteínas pueden participar en:",
+    "pregunta": "Seleccione la opción más precisa. Las glucoproteínas pueden participar en:",
     "respuestas": [
       {
         "texto": "Reconocimiento y adhesión celular",
         "correcta": true
       },
       {
-        "texto": "Desaparición de membranas",
+        "texto": "Producción directa de ADN, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Producción directa de ADN",
+        "texto": "Desaparición de membranas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Eliminación de ribosomas",
+        "texto": "Eliminación de ribosomas, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Combinan proteínas con carbohidratos y tienen funciones de interacción."
+    "explicacion": "Combinan proteínas con carbohidratos y tienen funciones de interacción. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-024",
     "tema": "Anfipático",
-    "pregunta": "Una molécula anfipática posee:",
+    "pregunta": "Seleccione la opción más precisa. Una molécula anfipática posee:",
     "respuestas": [
       {
-        "texto": "Ausencia total de carbono",
-        "correcta": false
-      },
-      {
-        "texto": "Solo cargas positivas",
+        "texto": "Doble hélice siempre, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -569,115 +583,121 @@
         "correcta": true
       },
       {
-        "texto": "Doble hélice siempre",
+        "texto": "Solo cargas positivas, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Ausencia total de carbono, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Esta propiedad explica el comportamiento de fosfolípidos."
+    "explicacion": "Esta propiedad explica el comportamiento de fosfolípidos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/fosfolipido_anfipatico.png",
+    "imagen_alt": "Imagen de apoyo: fosfolipido anfipatico"
   },
   {
     "codigo": "APO2-025",
     "tema": "Hidrofílico",
-    "pregunta": "Una sustancia hidrofílica tiende a:",
+    "pregunta": "Seleccione la opción más precisa. Una sustancia hidrofílica tiende a:",
     "respuestas": [
       {
-        "texto": "Ser siempre un lípido neutro",
-        "correcta": false
-      },
-      {
-        "texto": "Evitar toda interacción con agua",
-        "correcta": false
-      },
-      {
-        "texto": "Formar cromosomas",
+        "texto": "Formar cromosomas, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Interactuar con el agua",
         "correcta": true
+      },
+      {
+        "texto": "Evitar toda interacción con agua, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Ser siempre un lípido neutro, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "Las moléculas polares o cargadas suelen ser hidrofílicas."
+    "explicacion": "Las moléculas polares o cargadas suelen ser hidrofílicas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-026",
     "tema": "Hidrofóbico",
-    "pregunta": "Una sustancia hidrofóbica tiende a:",
+    "pregunta": "Seleccione la opción más precisa. Una sustancia hidrofóbica tiende a:",
     "respuestas": [
-      {
-        "texto": "Poseer siempre fosfato",
-        "correcta": false
-      },
-      {
-        "texto": "Ser un ion",
-        "correcta": false
-      },
-      {
-        "texto": "Disolverse fácilmente en agua",
-        "correcta": false
-      },
       {
         "texto": "Evitar el contacto con el agua",
         "correcta": true
+      },
+      {
+        "texto": "Poseer siempre fosfato, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Disolverse fácilmente en agua, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Ser un ion, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Las regiones apolares se agrupan alejándose del agua."
+    "explicacion": "Las regiones apolares se agrupan alejándose del agua. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-027",
     "tema": "Energía celular",
-    "pregunta": "El ATP funciona como:",
+    "pregunta": "Seleccione la opción más precisa. El ATP funciona como:",
     "respuestas": [
       {
-        "texto": "Tipo de colágeno",
-        "correcta": false
-      },
-      {
-        "texto": "Proteína del huso",
-        "correcta": false
-      },
-      {
-        "texto": "Componente principal de la pared extracelular",
+        "texto": "Proteína del huso, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Molécula de transferencia de energía",
         "correcta": true
+      },
+      {
+        "texto": "Componente principal de la pared extracelular, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Tipo de colágeno, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "El ATP acopla reacciones celulares."
+    "explicacion": "El ATP acopla reacciones celulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-028",
     "tema": "Sales minerales",
-    "pregunta": "Las sales minerales pueden contribuir a:",
+    "pregunta": "Seleccione la opción más precisa. Las sales minerales pueden contribuir a:",
     "respuestas": [
       {
-        "texto": "Codificación genética exclusiva",
+        "texto": "Codificación genética exclusiva, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Formación de tejidos sin células",
+        "texto": "Ausencia de metabolismo, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Formación de tejidos sin células, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Equilibrio osmótico y funciones celulares",
         "correcta": true
-      },
-      {
-        "texto": "Ausencia de metabolismo",
-        "correcta": false
       }
     ],
-    "explicacion": "Los minerales ionizados participan en múltiples procesos."
+    "explicacion": "Los minerales ionizados participan en múltiples procesos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO2-029",
     "tema": "Complementariedad",
-    "pregunta": "La complementariedad de bases es clave para:",
+    "pregunta": "Seleccione la opción más precisa. La complementariedad de bases es clave para:",
     "respuestas": [
       {
-        "texto": "Formación de bicapas",
+        "texto": "Formación de bicapas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -685,38 +705,40 @@
         "correcta": true
       },
       {
-        "texto": "Síntesis de triglicéridos",
+        "texto": "Digestión de proteínas, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Digestión de proteínas",
+        "texto": "Síntesis de triglicéridos, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "El apareamiento específico permite copiar ácidos nucleicos."
+    "explicacion": "El apareamiento específico permite copiar ácidos nucleicos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo2/estructura_adn.png",
+    "imagen_alt": "Imagen de apoyo: estructura adn"
   },
   {
     "codigo": "APO2-030",
     "tema": "Relación estructura-función",
-    "pregunta": "En biología celular, la relación estructura-función indica que:",
+    "pregunta": "Seleccione la opción más precisa. En biología celular, la relación estructura-función indica que:",
     "respuestas": [
       {
         "texto": "La forma molecular condiciona su actividad",
         "correcta": true
       },
       {
-        "texto": "Solo importa el tamaño",
+        "texto": "Todas las moléculas cumplen lo mismo, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "La estructura no influye en la función",
+        "texto": "Solo importa el tamaño, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Todas las moléculas cumplen lo mismo",
+        "texto": "La estructura no influye en la función, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "La función depende de la organización química y espacial."
+    "explicacion": "La función depende de la organización química y espacial. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   }
 ]

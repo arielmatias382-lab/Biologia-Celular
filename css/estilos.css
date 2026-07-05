@@ -358,3 +358,12 @@ body.modo-oscuro .item-historial{
 body.modo-oscuro .revision-item{
     background:#263238;
 }
+.imagen-pregunta {
+    display: none;
+    max-width: 100%;
+    max-height: 400px;
+    margin: 20px auto;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    object-fit: contain;
+}

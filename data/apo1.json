@@ -2,38 +2,38 @@
   {
     "codigo": "APO1-001",
     "tema": "Origen del universo",
-    "pregunta": "¿Qué explica la teoría del Big Bang?",
+    "pregunta": "Seleccione la opción más precisa. ¿Qué explica la teoría del Big Bang?",
     "respuestas": [
-      {
-        "texto": "El origen de las primeras células",
-        "correcta": false
-      },
-      {
-        "texto": "La teoría celular",
-        "correcta": false
-      },
-      {
-        "texto": "La selección natural",
-        "correcta": false
-      },
       {
         "texto": "El origen y expansión del universo",
         "correcta": true
+      },
+      {
+        "texto": "La selección natural, por considerarse una etapa previa directa a la aparición de vida",
+        "correcta": false
+      },
+      {
+        "texto": "La teoría celular, porque intenta explicar el inicio de toda forma de organización biológica",
+        "correcta": false
+      },
+      {
+        "texto": "El origen de las primeras células, como parte del mismo proceso que explica el origen de la materia",
+        "correcta": false
       }
     ],
-    "explicacion": "El Big Bang explica el origen del universo, no el origen directo de la vida."
+    "explicacion": "El Big Bang explica el origen del universo, no el origen directo de la vida. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-002",
     "tema": "Origen de la vida",
-    "pregunta": "¿Qué demostró el experimento de Miller y Urey?",
+    "pregunta": "Seleccione la opción más precisa. ¿Qué demostró el experimento de Miller y Urey?",
     "respuestas": [
       {
-        "texto": "Que se crearon bacterias",
+        "texto": "Que surgieron células eucariotas, porque reproduce en laboratorio todas las etapas de la abiogénesis",
         "correcta": false
       },
       {
-        "texto": "Que apareció ADN completo",
+        "texto": "Que se crearon bacterias, porque describe la transición desde moléculas simples hasta sistemas vivos completos",
         "correcta": false
       },
       {
@@ -41,95 +41,99 @@
         "correcta": true
       },
       {
-        "texto": "Que surgieron células eucariotas",
+        "texto": "Que apareció ADN completo, al demostrar la formación inmediata de estructuras celulares completas",
         "correcta": false
       }
     ],
-    "explicacion": "Miller y Urey obtuvieron biomoléculas como aminoácidos, pero no organismos vivos."
+    "explicacion": "Miller y Urey obtuvieron biomoléculas como aminoácidos, pero no organismos vivos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/origen_vida_linea_tiempo.png",
+    "imagen_alt": "Imagen de apoyo: origen vida linea tiempo"
   },
   {
     "codigo": "APO1-003",
     "tema": "Evolución química",
-    "pregunta": "La evolución química se ubica cronológicamente:",
+    "pregunta": "Seleccione la opción más precisa. La evolución química se ubica cronológicamente:",
     "respuestas": [
+      {
+        "texto": "Solo en organismos eucariotas, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Antes de la aparición de las primeras células",
         "correcta": true
       },
       {
-        "texto": "Después de la multicelularidad",
+        "texto": "Durante la mitosis, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Durante la mitosis",
-        "correcta": false
-      },
-      {
-        "texto": "Solo en organismos eucariotas",
+        "texto": "Después de la multicelularidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "La evolución química describe la formación previa de biomoléculas y protocélulas."
+    "explicacion": "La evolución química describe la formación previa de biomoléculas y protocélulas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/origen_vida_linea_tiempo.png",
+    "imagen_alt": "Imagen de apoyo: origen vida linea tiempo"
   },
   {
     "codigo": "APO1-004",
     "tema": "Biomoléculas",
-    "pregunta": "¿Cuál de las siguientes opciones es una biomolécula?",
+    "pregunta": "Seleccione la opción más precisa. ¿Cuál de las siguientes opciones es una biomolécula?",
     "respuestas": [
       {
-        "texto": "Helio",
+        "texto": "Helio, por encontrarse asociada a organismos vivos aunque no sea orgánica",
         "correcta": false
       },
       {
-        "texto": "Sodio metálico",
+        "texto": "Arena, ya que puede confundirse con un componente químico de la célula",
+        "correcta": false
+      },
+      {
+        "texto": "Sodio metálico, porque participa indirectamente en estructuras celulares",
         "correcta": false
       },
       {
         "texto": "Glucosa",
         "correcta": true
-      },
-      {
-        "texto": "Arena",
-        "correcta": false
       }
     ],
-    "explicacion": "La glucosa es un carbohidrato, es decir, una molécula orgánica propia de los seres vivos."
+    "explicacion": "La glucosa es un carbohidrato, es decir, una molécula orgánica propia de los seres vivos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-005",
     "tema": "Tierra primitiva",
-    "pregunta": "Una condición característica de la Tierra primitiva fue:",
+    "pregunta": "Seleccione la opción más precisa. Una condición característica de la Tierra primitiva fue:",
     "respuestas": [
       {
         "texto": "Ausencia de oxígeno libre y radiación intensa",
         "correcta": true
       },
       {
-        "texto": "Abundante capa de ozono",
+        "texto": "Presencia de plantas terrestres, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Atmósfera igual a la actual",
+        "texto": "Abundante capa de ozono, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Presencia de plantas terrestres",
+        "texto": "Atmósfera igual a la actual, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "La atmósfera primitiva no tenía las condiciones actuales y favoreció hipótesis de síntesis abiótica."
+    "explicacion": "La atmósfera primitiva no tenía las condiciones actuales y favoreció hipótesis de síntesis abiótica. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-006",
     "tema": "Primeras células",
-    "pregunta": "Las primeras células fueron probablemente:",
+    "pregunta": "Seleccione la opción más precisa. Las primeras células fueron probablemente:",
     "respuestas": [
       {
-        "texto": "Eucariotas animales",
+        "texto": "Vegetales, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Vegetales",
+        "texto": "Pluricelulares, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -137,43 +141,47 @@
         "correcta": true
       },
       {
-        "texto": "Pluricelulares",
+        "texto": "Eucariotas animales, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Las primeras formas celulares habrían sido simples, sin núcleo delimitado."
+    "explicacion": "Las primeras formas celulares habrían sido simples, sin núcleo delimitado. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-007",
     "tema": "LUCA",
-    "pregunta": "LUCA corresponde a:",
+    "pregunta": "Seleccione la opción más precisa. LUCA corresponde a:",
     "respuestas": [
       {
-        "texto": "La primera mitocondria",
+        "texto": "Un tipo de microscopio, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un tipo de microscopio",
-        "correcta": false
-      },
-      {
-        "texto": "Una célula vegetal moderna",
+        "texto": "Una célula vegetal moderna, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "El último ancestro común universal",
         "correcta": true
+      },
+      {
+        "texto": "La primera mitocondria, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
       }
     ],
-    "explicacion": "LUCA representa el ancestro común hipotético de todos los seres vivos actuales."
+    "explicacion": "LUCA representa el ancestro común hipotético de todos los seres vivos actuales. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-008",
     "tema": "Nutrición",
-    "pregunta": "Los organismos autótrofos se caracterizan por:",
+    "pregunta": "Seleccione la opción más precisa. Los organismos autótrofos se caracterizan por:",
     "respuestas": [
       {
-        "texto": "Carecer de ADN",
+        "texto": "Consumir exclusivamente otros seres vivos, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Carecer de ADN, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -181,27 +189,23 @@
         "correcta": true
       },
       {
-        "texto": "Consumir exclusivamente otros seres vivos",
-        "correcta": false
-      },
-      {
-        "texto": "Ser todos animales",
+        "texto": "Ser todos animales, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Los autótrofos sintetizan materia orgánica a partir de sustancias inorgánicas."
+    "explicacion": "Los autótrofos sintetizan materia orgánica a partir de sustancias inorgánicas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-009",
     "tema": "Nutrición",
-    "pregunta": "Los organismos heterótrofos obtienen materia y energía principalmente de:",
+    "pregunta": "Seleccione la opción más precisa. Los organismos heterótrofos obtienen materia y energía principalmente de:",
     "respuestas": [
       {
-        "texto": "Rocas sin transformación",
+        "texto": "Oxígeno molecular solamente, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Oxígeno molecular solamente",
+        "texto": "Rocas sin transformación, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -209,43 +213,43 @@
         "correcta": true
       },
       {
-        "texto": "La luz como única fuente",
+        "texto": "La luz como única fuente, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "Los heterótrofos dependen de materia orgánica externa."
+    "explicacion": "Los heterótrofos dependen de materia orgánica externa. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-010",
     "tema": "Propiedades de los seres vivos",
-    "pregunta": "La homeostasis es:",
+    "pregunta": "Seleccione la opción más precisa. La homeostasis es:",
     "respuestas": [
       {
-        "texto": "La unión de cromátides",
+        "texto": "La pérdida total de metabolismo, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La formación de aminoácidos en laboratorio, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La unión de cromátides, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "La capacidad de mantener condiciones internas relativamente estables",
         "correcta": true
-      },
-      {
-        "texto": "La pérdida total de metabolismo",
-        "correcta": false
-      },
-      {
-        "texto": "La formación de aminoácidos en laboratorio",
-        "correcta": false
       }
     ],
-    "explicacion": "La homeostasis mantiene el medio interno dentro de límites compatibles con la vida."
+    "explicacion": "La homeostasis mantiene el medio interno dentro de límites compatibles con la vida. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-011",
     "tema": "Propiedades de los seres vivos",
-    "pregunta": "La irritabilidad se refiere a:",
+    "pregunta": "Seleccione la opción más precisa. La irritabilidad se refiere a:",
     "respuestas": [
       {
-        "texto": "La pérdida del movimiento",
+        "texto": "La formación de tejidos, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -253,47 +257,51 @@
         "correcta": true
       },
       {
-        "texto": "La duplicación del ADN únicamente",
+        "texto": "La duplicación del ADN únicamente, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "La formación de tejidos",
+        "texto": "La pérdida del movimiento, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Los seres vivos pueden reaccionar frente a cambios del ambiente."
+    "explicacion": "Los seres vivos pueden reaccionar frente a cambios del ambiente. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-012",
     "tema": "Propiedades de los seres vivos",
-    "pregunta": "El metabolismo es:",
+    "pregunta": "Seleccione la opción más precisa. El metabolismo es:",
     "respuestas": [
-      {
-        "texto": "La ausencia de reacciones químicas",
-        "correcta": false
-      },
-      {
-        "texto": "El nombre de un orgánulo",
-        "correcta": false
-      },
       {
         "texto": "El conjunto de reacciones de transformación de materia y energía",
         "correcta": true
       },
       {
-        "texto": "La formación de una pared bacteriana",
+        "texto": "La formación de una pared bacteriana, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "La ausencia de reacciones químicas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "El nombre de un orgánulo, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "El metabolismo integra reacciones catabólicas y anabólicas."
+    "explicacion": "El metabolismo integra reacciones catabólicas y anabólicas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-013",
     "tema": "Organización biológica",
-    "pregunta": "El nivel celular es central porque:",
+    "pregunta": "Seleccione la opción más precisa. El nivel celular es central porque:",
     "respuestas": [
       {
-        "texto": "Solo los tejidos tienen vida",
+        "texto": "Las organelas viven independientemente, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Toda molécula aislada está viva, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -301,31 +309,29 @@
         "correcta": true
       },
       {
-        "texto": "Toda molécula aislada está viva",
-        "correcta": false
-      },
-      {
-        "texto": "Las organelas viven independientemente",
+        "texto": "Solo los tejidos tienen vida, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Sin células no hay vida organizada."
+    "explicacion": "Sin células no hay vida organizada. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/niveles_organizacion.png",
+    "imagen_alt": "Imagen de apoyo: niveles organizacion"
   },
   {
     "codigo": "APO1-014",
     "tema": "Niveles de organización",
-    "pregunta": "Un tejido se define como:",
+    "pregunta": "Seleccione la opción más precisa. Un tejido se define como:",
     "respuestas": [
       {
-        "texto": "Una sola molécula de ADN",
+        "texto": "Una sola molécula de ADN, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Un conjunto de átomos sin células",
+        "texto": "Un conjunto de átomos sin células, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Un orgánulo citoplasmático",
+        "texto": "Un orgánulo citoplasmático, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -333,23 +339,25 @@
         "correcta": true
       }
     ],
-    "explicacion": "Los tejidos reúnen células y matriz con funciones complementarias."
+    "explicacion": "Los tejidos reúnen células y matriz con funciones complementarias. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/niveles_organizacion.png",
+    "imagen_alt": "Imagen de apoyo: niveles organizacion"
   },
   {
     "codigo": "APO1-015",
     "tema": "Propiedades emergentes",
-    "pregunta": "Una propiedad emergente es aquella que:",
+    "pregunta": "Seleccione la opción más precisa. Una propiedad emergente es aquella que:",
     "respuestas": [
       {
-        "texto": "Impide la vida",
+        "texto": "Impide la vida, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Solo existe en moléculas simples",
+        "texto": "Solo existe en moléculas simples, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "No depende de la organización",
+        "texto": "No depende de la organización, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
@@ -357,119 +365,125 @@
         "correcta": true
       }
     ],
-    "explicacion": "La digestión, por ejemplo, emerge de la integración de órganos y sistemas."
+    "explicacion": "La digestión, por ejemplo, emerge de la integración de órganos y sistemas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-016",
     "tema": "Procariotas",
-    "pregunta": "Una característica general de las células procariotas es:",
+    "pregunta": "Seleccione la opción más precisa. Una característica general de las células procariotas es:",
     "respuestas": [
+      {
+        "texto": "Organelas membranosas complejas, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Mitocondrias abundantes, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Núcleo delimitado, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "ADN no separado del citoplasma por envoltura nuclear",
         "correcta": true
-      },
-      {
-        "texto": "Núcleo delimitado",
-        "correcta": false
-      },
-      {
-        "texto": "Organelas membranosas complejas",
-        "correcta": false
-      },
-      {
-        "texto": "Mitocondrias abundantes",
-        "correcta": false
       }
     ],
-    "explicacion": "Las procariotas carecen de núcleo verdadero."
+    "explicacion": "Las procariotas carecen de núcleo verdadero. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/celula_procariota.png",
+    "imagen_alt": "Imagen de apoyo: celula procariota"
   },
   {
     "codigo": "APO1-017",
     "tema": "Eucariotas",
-    "pregunta": "Una célula eucariota se caracteriza por:",
+    "pregunta": "Seleccione la opción más precisa. Una célula eucariota se caracteriza por:",
     "respuestas": [
+      {
+        "texto": "Carecer de ADN, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "No tener ribosomas, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "No realizar metabolismo, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Poseer núcleo delimitado y compartimientos membranosos",
         "correcta": true
-      },
-      {
-        "texto": "Carecer de ADN",
-        "correcta": false
-      },
-      {
-        "texto": "No tener ribosomas",
-        "correcta": false
-      },
-      {
-        "texto": "No realizar metabolismo",
-        "correcta": false
       }
     ],
-    "explicacion": "La compartimentalización interna es una característica eucariota."
+    "explicacion": "La compartimentalización interna es una característica eucariota. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/celula_eucariota.png",
+    "imagen_alt": "Imagen de apoyo: celula eucariota"
   },
   {
     "codigo": "APO1-018",
     "tema": "Endosimbiosis",
-    "pregunta": "La teoría endosimbiótica explica principalmente el origen de:",
+    "pregunta": "Seleccione la opción más precisa. La teoría endosimbiótica explica principalmente el origen de:",
     "respuestas": [
+      {
+        "texto": "Los aminoácidos, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Ribosomas procariotas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La membrana plasmática inicial, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
       {
         "texto": "Mitocondrias y cloroplastos",
         "correcta": true
-      },
-      {
-        "texto": "Ribosomas procariotas",
-        "correcta": false
-      },
-      {
-        "texto": "La membrana plasmática inicial",
-        "correcta": false
-      },
-      {
-        "texto": "Los aminoácidos",
-        "correcta": false
       }
     ],
-    "explicacion": "Propone que ciertos orgánulos derivan de bacterias incorporadas por una célula ancestral."
+    "explicacion": "Propone que ciertos orgánulos derivan de bacterias incorporadas por una célula ancestral. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/teoria_endosimbiotica.png",
+    "imagen_alt": "Imagen de apoyo: teoria endosimbiotica"
   },
   {
     "codigo": "APO1-019",
     "tema": "Multicelularidad",
-    "pregunta": "La pluricelularidad permitió:",
+    "pregunta": "Seleccione la opción más precisa. La pluricelularidad permitió:",
     "respuestas": [
       {
-        "texto": "Disminuir toda complejidad",
-        "correcta": false
-      },
-      {
-        "texto": "Hacer desaparecer tejidos",
-        "correcta": false
-      },
-      {
-        "texto": "Eliminar la reproducción",
+        "texto": "Eliminar la reproducción, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
         "texto": "Especialización celular y nuevos niveles de organización",
         "correcta": true
+      },
+      {
+        "texto": "Disminuir toda complejidad, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Hacer desaparecer tejidos, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "La diferenciación funcional permitió tejidos, órganos y sistemas."
+    "explicacion": "La diferenciación funcional permitió tejidos, órganos y sistemas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-020",
     "tema": "Evolución",
-    "pregunta": "La evolución biológica implica:",
+    "pregunta": "Seleccione la opción más precisa. La evolución biológica implica:",
     "respuestas": [
       {
-        "texto": "Generación espontánea permanente",
+        "texto": "Ausencia de variabilidad, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Cambios individuales no heredables",
+        "texto": "Cambios individuales no heredables, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Ausencia de variabilidad",
+        "texto": "Generación espontánea permanente, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
@@ -477,115 +491,117 @@
         "correcta": true
       }
     ],
-    "explicacion": "La evolución actúa sobre poblaciones y variaciones heredables."
+    "explicacion": "La evolución actúa sobre poblaciones y variaciones heredables. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-021",
     "tema": "Selección natural",
-    "pregunta": "La selección natural favorece:",
+    "pregunta": "Seleccione la opción más precisa. La selección natural favorece:",
     "respuestas": [
       {
-        "texto": "Ideas aprendidas sin base biológica",
+        "texto": "Átomos aislados, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Características no heredables, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Ideas aprendidas sin base biológica, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Variantes heredables ventajosas en un ambiente determinado",
         "correcta": true
-      },
-      {
-        "texto": "Átomos aislados",
-        "correcta": false
-      },
-      {
-        "texto": "Características no heredables",
-        "correcta": false
       }
     ],
-    "explicacion": "Las variantes que aumentan supervivencia o reproducción pueden hacerse más frecuentes."
+    "explicacion": "Las variantes que aumentan supervivencia o reproducción pueden hacerse más frecuentes. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-022",
     "tema": "Diversidad biológica",
-    "pregunta": "La diversidad biológica actual se explica principalmente por:",
+    "pregunta": "Seleccione la opción más precisa. La diversidad biológica actual se explica principalmente por:",
     "respuestas": [
+      {
+        "texto": "La ausencia de mutaciones, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "La inmovilidad de las especies, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "La generación espontánea actual, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
       {
         "texto": "Procesos evolutivos",
         "correcta": true
-      },
-      {
-        "texto": "La ausencia de mutaciones",
-        "correcta": false
-      },
-      {
-        "texto": "La inmovilidad de las especies",
-        "correcta": false
-      },
-      {
-        "texto": "La generación espontánea actual",
-        "correcta": false
       }
     ],
-    "explicacion": "La evolución origina la diversidad de especies."
+    "explicacion": "La evolución origina la diversidad de especies. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-023",
     "tema": "Una Salud",
-    "pregunta": "El enfoque Una Salud propone:",
+    "pregunta": "Seleccione la opción más precisa. El enfoque Una Salud propone:",
     "respuestas": [
       {
         "texto": "Integrar salud humana, animal y ambiental",
         "correcta": true
       },
       {
-        "texto": "Separar salud humana de salud animal",
+        "texto": "Ignorar el ambiente, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Estudiar solo enfermedades humanas",
+        "texto": "Separar salud humana de salud animal, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
-        "texto": "Ignorar el ambiente",
+        "texto": "Estudiar solo enfermedades humanas, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       }
     ],
-    "explicacion": "Reconoce la interdependencia entre humanos, animales y ambiente."
+    "explicacion": "Reconoce la interdependencia entre humanos, animales y ambiente. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-024",
     "tema": "Microscopía",
-    "pregunta": "La ultraestructura celular se estudia mejor con:",
+    "pregunta": "Seleccione la opción más precisa. La ultraestructura celular se estudia mejor con:",
     "respuestas": [
       {
-        "texto": "Una lupa simple",
+        "texto": "Observación macroscópica, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Observación macroscópica",
-        "correcta": false
-      },
-      {
-        "texto": "Microscopía óptica común exclusivamente",
+        "texto": "Una lupa simple, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Microscopía electrónica",
         "correcta": true
+      },
+      {
+        "texto": "Microscopía óptica común exclusivamente, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "La microscopía electrónica ofrece mayor resolución para estructuras subcelulares."
+    "explicacion": "La microscopía electrónica ofrece mayor resolución para estructuras subcelulares. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/microscopia_tamanios.png",
+    "imagen_alt": "Imagen de apoyo: microscopia tamanios"
   },
   {
     "codigo": "APO1-025",
     "tema": "Tamaños celulares",
-    "pregunta": "La mayoría de las células eucariotas animales se mide en:",
+    "pregunta": "Seleccione la opción más precisa. La mayoría de las células eucariotas animales se mide en:",
     "respuestas": [
       {
-        "texto": "Metros",
+        "texto": "Kilómetros, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       },
       {
-        "texto": "Centímetros siempre",
+        "texto": "Centímetros siempre, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
@@ -593,130 +609,136 @@
         "correcta": true
       },
       {
-        "texto": "Kilómetros",
+        "texto": "Metros, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       }
     ],
-    "explicacion": "Las células eucariotas suelen medir entre algunos y decenas de micrómetros."
+    "explicacion": "Las células eucariotas suelen medir entre algunos y decenas de micrómetros. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/escala_celular.png",
+    "imagen_alt": "Imagen de apoyo: escala celular"
   },
   {
     "codigo": "APO1-026",
     "tema": "Tamaños relativos",
-    "pregunta": "Un ribosoma es observable con mayor detalle mediante:",
+    "pregunta": "Seleccione la opción más precisa. Un ribosoma es observable con mayor detalle mediante:",
     "respuestas": [
       {
-        "texto": "Radiografía simple",
+        "texto": "Microscopio óptico común con bajo aumento, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Microscopio óptico común con bajo aumento",
-        "correcta": false
-      },
-      {
-        "texto": "Vista directa",
+        "texto": "Radiografía simple, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Microscopio electrónico",
         "correcta": true
+      },
+      {
+        "texto": "Vista directa, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Los ribosomas son estructuras nanométricas."
+    "explicacion": "Los ribosomas son estructuras nanométricas. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/escala_celular.png",
+    "imagen_alt": "Imagen de apoyo: escala celular"
   },
   {
     "codigo": "APO1-027",
     "tema": "Ácidos nucleicos",
-    "pregunta": "La reproducción celular requirió moléculas capaces de:",
+    "pregunta": "Seleccione la opción más precisa. La reproducción celular requirió moléculas capaces de:",
     "respuestas": [
       {
-        "texto": "Impedir toda herencia",
-        "correcta": false
-      },
-      {
-        "texto": "Eliminar proteínas",
-        "correcta": false
-      },
-      {
-        "texto": "Formar únicamente lípidos",
+        "texto": "Impedir toda herencia, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
         "correcta": false
       },
       {
         "texto": "Autoduplicarse y transmitir información",
         "correcta": true
+      },
+      {
+        "texto": "Eliminar proteínas, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
+      },
+      {
+        "texto": "Formar únicamente lípidos, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
       }
     ],
-    "explicacion": "Los ácidos nucleicos cumplen el papel informacional."
+    "explicacion": "Los ácidos nucleicos cumplen el papel informacional. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-028",
     "tema": "Catalizadores",
-    "pregunta": "Los catalizadores biológicos permiten:",
+    "pregunta": "Seleccione la opción más precisa. Los catalizadores biológicos permiten:",
     "respuestas": [
+      {
+        "texto": "Detener todo metabolismo, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
       {
         "texto": "Acelerar reacciones químicas",
         "correcta": true
       },
       {
-        "texto": "Detener todo metabolismo",
+        "texto": "Eliminar el agua celular, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
-        "texto": "Eliminar el agua celular",
-        "correcta": false
-      },
-      {
-        "texto": "Separar órganos",
+        "texto": "Separar órganos, porque mezcla una característica real con una condición que no corresponde siempre",
         "correcta": false
       }
     ],
-    "explicacion": "ARN y proteínas con actividad catalítica fueron claves en el origen de procesos metabólicos."
+    "explicacion": "ARN y proteínas con actividad catalítica fueron claves en el origen de procesos metabólicos. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-029",
     "tema": "Protocélulas",
-    "pregunta": "Las protocélulas se consideran:",
+    "pregunta": "Seleccione la opción más precisa. Las protocélulas se consideran:",
     "respuestas": [
       {
-        "texto": "Células animales modernas",
+        "texto": "Organelos del núcleo, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Células animales modernas, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Tejidos especializados, al confundir una consecuencia del proceso con su definición principal",
         "correcta": false
       },
       {
         "texto": "Estructuras precursoras de las primeras células",
         "correcta": true
-      },
-      {
-        "texto": "Tejidos especializados",
-        "correcta": false
-      },
-      {
-        "texto": "Organelos del núcleo",
-        "correcta": false
       }
     ],
-    "explicacion": "Representan modelos de transición entre biomoléculas y células."
+    "explicacion": "Representan modelos de transición entre biomoléculas y células. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto."
   },
   {
     "codigo": "APO1-030",
     "tema": "Secuencia evolutiva",
-    "pregunta": "¿Qué secuencia general es correcta?",
+    "pregunta": "Seleccione la opción más precisa. ¿Qué secuencia general es correcta?",
     "respuestas": [
-      {
-        "texto": "Biomoléculas → mitosis → Big Bang",
-        "correcta": false
-      },
-      {
-        "texto": "Tejidos → protocélulas → átomos",
-        "correcta": false
-      },
-      {
-        "texto": "Primeras células → Big Bang → biomoléculas",
-        "correcta": false
-      },
       {
         "texto": "Big Bang → Tierra primitiva → biomoléculas → protocélulas → primeras células",
         "correcta": true
+      },
+      {
+        "texto": "Biomoléculas → mitosis → Big Bang, porque toma un concepto relacionado, pero lo aplica en un nivel de organización incorrecto",
+        "correcta": false
+      },
+      {
+        "texto": "Primeras células → Big Bang → biomoléculas, porque mezcla una característica real con una condición que no corresponde siempre",
+        "correcta": false
+      },
+      {
+        "texto": "Tejidos → protocélulas → átomos, al confundir una consecuencia del proceso con su definición principal",
+        "correcta": false
       }
     ],
-    "explicacion": "Respeta el orden temporal trabajado en el origen de la vida."
+    "explicacion": "Respeta el orden temporal trabajado en el origen de la vida. Los distractores son más difíciles porque usan conceptos cercanos al tema, pero los ubican en una etapa, mecanismo o nivel de organización incorrecto.",
+    "imagen": "img/apo1/origen_vida_linea_tiempo.png",
+    "imagen_alt": "Imagen de apoyo: origen vida linea tiempo"
   }
 ]
